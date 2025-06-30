@@ -191,50 +191,50 @@ After Windows 11 is installed:
 	- Privacy & security
 	- Windows Update
 - **Control Panel Items**:
-  - Visual Effects: Win + R → SystemPropertiesPerformance.exe
-	- Region: Win + R → intl.cpl → Formats
-	- Internet Properties: Win + R → inetcpl.cpl → Connections → LAN settings → uncheck Automatically detect settings
-	- Network Connections: Win + R → ncpa.cpl → double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
-    - Network Connection Properties: uncheck
+  - Visual Effects: `Win + R → SystemPropertiesPerformance.exe`
+  - Region: `Win + R → intl.cpl → Formats`
+  - Internet Properties: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
+  - Network Connections: `Win + R → ncpa.cpl →` double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
+     - Network Connection Properties: uncheck
       - Client for Microsoft Networks
       - File and Printer Sharing for Microsoft Networks
       - Microsoft LLDP Protocol Driver
       - Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use IPv6: test-ipv6.com)`
       - Link-Layer Topology Discovery Responder
       - Link-Layer Topology Discovery Mapper I/O Driver
-    - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is 1.1.1.1 and Alternate DNS server is 1.0.0.1 → Close
+    - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
     - Network adapter Properties: double click / right click on the network connection you're using → Properties → Configure... 
       - Power Management → uncheck Allow the computer to turn off this device to save power
       - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
-    - Win + R → ncpa.cpl → right click on Bluetooth Network Connection → Properties → uncheck:
+    - `Win + R → ncpa.cpl →` right click on Bluetooth Network Connection → Properties → uncheck:
       - Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
       - File and Printer Sharing `(if you don't intent on sharing files or printers)`
       - Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Administrator PowerShell to determine if it is enabled or not)`
-				`Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"`
+`Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"`
       - Microsoft Network Adapter Multiplexor Protocol
       - Microsoft LLDP Protocol Driver
       - Link-Layer Topology Discovery Responder
       - Link-Layer Topology Discovery Mapper I/O Driver
-	- Sound: Win + R → mmsys.cpl
-    - Communications → When Windows detects communications activities: Do nothing
-    - Playback → select the speaker your PC is using as output → Properties:
-      - Spatial sound → Windows Sonic for Headphones
-      - If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization. If not: Win + R → devmgmt.msc → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
-	- Power Options: Win + R → control.exe powercfg.cpl,,3
+    - Sound: `Win + R → mmsys.cpl`
+    	- Communications → When Windows detects communications activities: Do nothing
+    	- Playback → select the speaker your PC is using as output → Properties:
+     		- Spatial sound → Windows Sonic for Headphones
+      		- If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization. If not: Win + R → devmgmt.msc → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
+    - Power Options: `Win + R → control.exe powercfg.cpl,,3`
 
-- Device Manager Optimizations:
+- Device Manager Optimizations: `Win + R → devmgmt.msc`
 	- Audio inputs and outputs: disable the ones you don't use
 	- Network adapters:
-      - disable the ones you don't use like Ethernet for many people
-      - right click on the network adapter you use → Properties → Power Management → uncheck Allow the computer to turn off this device to save power
-      - disable Microsoft Kernel Debug Network Adapter [for kernel debugging like BSOD]
-	- Software devices: disable Microsoft GS Wavetable Synth [an old, software-based MIDI player from the 90s]
+		- disable the ones you don't use like Ethernet for many people
+      		- right click on the network adapter you use → Properties → Power Management → uncheck Allow the computer to turn off this device to save power
+      		- disable Microsoft Kernel Debug Network Adapter `(for kernel debugging like BSOD)`
+	- Software devices: disable Microsoft GS Wavetable Synth `(an old, software-based MIDI player from the 90s)`
 	- Sound, video and game controllers: disable the ones you don't use
 	- System Devices: disable
-      - System speaker [used for diagnostics in BIOS]
-      - Remote Desktop Device Redirector Bus [allows local devices like printers to be used remotely]
-      - NDIS Virtual Network Adapter Enumerator [for VMs]
-      - Microsoft Hyper-V Virtualization Infrastructure Driver [for VMs]
+      		- System speaker `(used for diagnostics in BIOS)`
+      		- Remote Desktop Device Redirector Bus `(allows local devices like printers to be used remotely)`
+      		- NDIS Virtual Network Adapter Enumerator `(for VMs)`
+      		- Microsoft Hyper-V Virtualization Infrastructure Driver `(for VMs)`
 
 ---
 
