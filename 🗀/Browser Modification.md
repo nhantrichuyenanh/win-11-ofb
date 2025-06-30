@@ -1,14 +1,14 @@
 Even though I don't use Chromium-based browsers, here's some sources I find informative:
-- youtu.be/V5cdFJqknE8
-- youtu.be/wMe3SPBJ6iQ?t=119
-- youtu.be/9nl6hO0ECgM?t=515
-- thewindowsclub.com/google-chrome-flag-settings-windows
-- reddit.com/r/browsers/comments/107cj5b/what_are_your_top_chromeflags_or_braveflags
+- [youtu.be/V5cdFJqknE8]
+- [youtu.be/wMe3SPBJ6iQ?t=119]
+- [youtu.be/9nl6hO0ECgM?t=515]
+- [thewindowsclub.com/google-chrome-flag-settings-windows]
+- [reddit.com/r/browsers/comments/107cj5b/what_are_your_top_chromeflags_or_braveflags]
 
 I use Floorp & Zen Browser, both of which focus heavily on privacy & security and already have most preference settings configured by default, so I might not reference all of them here. Instead, refer to these sources:
-- reddit.com/r/firefox/comments/17hlkhp/what_are_your_must_have_changes_in_aboutconfig
-- reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig
-- github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings
+- [reddit.com/r/firefox/comments/17hlkhp/what_are_your_must_have_changes_in_aboutconfig]
+- [reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig]
+- [github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings]
 
 ```
 media.peerconnection.enabled = false
