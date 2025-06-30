@@ -1,8 +1,13 @@
-# Windows 11 Order of Business
-- I. Preparations[^1]
+# Windows 11 Order of Business: `use Ctrl + F to find`
+- I. Preparations
+- II. System modifications
+- III. Setting things up
+- IV. Installing software
+- V. Configuring software
+- VI. Wrapping things up
 ---
 
-[^1]: ## I. Preparations
+## I. Preparations
 
 After Windows 11 is installed:
 - boot into BIOS to enable Fastboot if haven't. I thoroughly recommend exploring other settings to optimize BIOS, provided that you know what you're doing or seek guidance from AI if you're uncertain;
