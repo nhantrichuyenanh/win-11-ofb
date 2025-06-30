@@ -25,7 +25,17 @@ After Windows 11 is installed:
   - O&O ShutUp10++
 - [RyTuneX](https://rayenghanmi.me/rytunex/download.html)
 - [Winaero Tweaker](https://winaerotweaker.com)
-  - *(subcategories and options kept unchanged as per instructions)*  
+  - Windows 11: Disable Background Apps; Disable Copilot; Remove Windows Spotlight 
+  - Appearance: Startup Sound
+  - Advanced Appearance Settings: Icons; Menus; Message Font; Statusbar Font; System Font; Window Title Bars
+  - Behavior: Ads and Unwanted Apps; Disable SmartScreen; Disable User Folder Backup to OneDrive; Error Reporting; Menu Show Delay; Show BSOD; Disable Smiley; Sound for Print Screen key; Split Threshold for Svchost
+  - Boot and Logon: Boot Options; Disable "Let's finish setting up your device" screen; Disable Blur on Sign-in Screen; Enable User Auto Logon Checkbox; Verbose Logon Messages
+  - Desktop and Taskbar: Disable Web Search; Wallpaper Quality
+  - Microsoft Edge: Disable Annoyances and Bloat; Disable Desktop Shortcut Creation after updates
+  - File Explorer: "Do this for all current items" Checkbox; Disable Jump Lists; Disable Search History; Enable Auto Completion; Enable Classic Search; Enable Recycle Bin for removable drives; File Explorer Starting Folder; Navigation Pane - Default Items
+  - Windows Defender: Windows Security/Defender Tray Icon
+  - Privacy: Disable Telemetry
+  - Shortcuts: Disable "- Shortcut" Text; Shortcut Arrow
 - [Wintoys](https://apps.microsoft.com/detail/9P8LTPGCBZXD)
 
 **Optional:**
