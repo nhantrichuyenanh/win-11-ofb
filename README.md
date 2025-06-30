@@ -218,12 +218,12 @@ After Windows 11 is installed:
 Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
 ```
   - **Sound**: `Win + R → mmsys.cpl`
-    - Communications → When Windows detects communications activities: Do nothing
-    - Playback → select the speaker your PC is using as output → Properties:
+     - Communications → When Windows detects communications activities: Do nothing
+     - Playback → select the speaker your PC is using as output → Properties:
      	- Spatial sound → Windows Sonic for Headphones
       - If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization.
       - If not: `Win + R → devmgmt.msc` → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
-  - Power Options: `Win + R → control.exe powercfg.cpl,,3`
+  - **Power Options**: `Win + R → control.exe powercfg.cpl,,3`
 
 - **Device Manager**: `Win + R → devmgmt.msc`
   - Audio inputs and outputs: disable the ones you don't use
