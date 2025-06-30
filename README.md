@@ -147,8 +147,11 @@ After Windows 11 is installed:
 ### 6. [Registry Hacks](https://vinstartheme.com/unlock-windows-hidden-features "VIN STAR")
 
 ### 7. Turn off useless Windows Features:
-Run → `optionalfeatures`  
-*(list unchanged)*
+`Win + R → optionalfeatures`
+- Media Features
+- Microsoft Print to PDF
+- Remote Differential Compression API Support
+- Work Folder Clients
 
 ---
 
