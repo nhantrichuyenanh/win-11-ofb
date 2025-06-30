@@ -132,8 +132,7 @@ After Windows 11 is installed:
 ---
 
 ### 3. Disable stealing bandwidth:
-`gpedit.msc` →  
-Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0 → Reboot
+`Win + R → gpedit.msc, Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
 
 ---
 
