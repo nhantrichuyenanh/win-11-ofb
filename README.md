@@ -195,7 +195,7 @@ After Windows 11 is installed:
   - Region: `Win + R → intl.cpl → Formats`
   - Internet Properties: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
   - Network Connections: `Win + R → ncpa.cpl →` double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
-     - Network Connection Properties: uncheck
+     - Network connection Properties: uncheck
      	- Client for Microsoft Networks
      	- File and Printer Sharing for Microsoft Networks
      	- Microsoft LLDP Protocol Driver
