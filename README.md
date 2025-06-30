@@ -1,5 +1,5 @@
-# Windows 11 Optimization and Setup Guide
-
+# Windows 11 Order of Business
+Writing this guide in case I ever need to reinstall Windows.
 ---
 
 ## I. Preparations
