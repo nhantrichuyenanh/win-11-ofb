@@ -379,10 +379,12 @@ Z
 	- about:flags (Chromium-based) / about:config (Firefox fork) (🗀 → Browser Modification)
 	- Bypass Paywalls Clean: gitflic.ru/project/magnolia1234/bpc_uploads
 [![June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
+
 A
-	AB Download Manager: Tools → Settings `(remember to also configure the browser extension's settings for it)`
+- AB Download Manager: Tools → Settings `(remember to also configure the browser extension's settings for it)`
+
 C
-	Camomile App: Settings
+- Camomile App: Settings
 D
 	Discord:
 		Themes: ClearVision; EmojiReplace; RadialStatus
