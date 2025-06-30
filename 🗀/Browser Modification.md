@@ -10,6 +10,7 @@ I use Floorp & Zen Browser, both of which focus heavily on privacy & security an
 - [What settings you use on about:config](https://reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig "Reddit")
 - [⚙ Recommended settings](https://github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings "GitHub")
 
+Here're some about:config settings I know of:
 ```
 media.peerconnection.enabled = false
 privacy.resistFingerprinting = true
