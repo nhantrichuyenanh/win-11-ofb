@@ -301,7 +301,7 @@ N
 - Notepad
 
 O
-- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download `(check`[here](#vi-wrapping-things-up)`for more information)`
+- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) `(check`[here](#vi-wrapping-things-up)`for more information)`
 - OnionMedia
 
 P
