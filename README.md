@@ -211,6 +211,7 @@ After Windows 11 is installed:
       	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
       	- Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Administrator PowerShell to determine if it is enabled or not)`
 > Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
+
       	- Microsoft Network Adapter Multiplexor Protocol
       	- Microsoft LLDP Protocol Driver
       	- Link-Layer Topology Discovery Responder
