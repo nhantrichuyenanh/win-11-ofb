@@ -1,0 +1,2 @@
+about:support → Application Basics → Profile Folder → Open Folder → chrome: github.com/black7375/Firefox-UI-Fix/releases
+about:addons → Imagus → ⋯ → Options → Preferences → Custom style (CSS): margin: 3px 3px 20px; background: #1d1d1d padding-box; border: 5px solid hsla(0,0%,0%,.7); border-radius: 3px; box-shadow: 0 0 0px #666

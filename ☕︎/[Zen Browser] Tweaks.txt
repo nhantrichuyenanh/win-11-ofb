@@ -1,0 +1,25 @@
+about:preferences#zenMarketplace
+	Animations Plus (v1.0.0)
+	Better CtrlTab Panel (v1.0.1)
+	Better Find Bar (v1.3.0)
+	Better Unloaded Tabs (v1.0.1)
+	Bookmark Toolbar Tweaks (v1.2.2)
+	Cleaner Extensions (v2.1.0)
+	Floating Status Bar (v1.0.0)
+
+	Fluid URL (v1.0.4) → Custom Color for URL Bar Gradient (above selection will be overridden only after the settings page is reloaded)
+#8e5ed1, #885ac8, #8256bf, #7c52b6, #764eae, #704aa5, #6a469c, #644294, #5e3e8b, #583a82, #523679, #4c3271, #472f68, #412b5f, #3b2757, #35234e, #2f1f45, #291b3c, #231734, #1d132b, #170f22, #110b1a, #0b0711, #050308, #000000, #000000, #050308, #0b0711, #110b1a, #170f22, #1d132b, #231734, #291b3c, #2f1f45, #35234e, #3b2757, #412b5f, #472f68, #4c3271, #523679, #583a82, #5e3e8b, #644294, #6a469c, #704aa5, #764eae, #7c52b6, #8256bf, #885ac8, #8e5ed1
+
+	No Sidebar Scrollbar (v1.0.8)
+	Only Reset On Hover (v1.0.0)
+	Pimp your PiP (v1.0.0)
+	Revitalized devtools (v1.0.0)
+	SuperPins (v1.5.3)
+	Transparent Zen (v1.12.0)
+	Zen Context Menu (v2.0)
+
+about:addons → Link Status Redux → ⋯ → Options → Custom CSS →  ☑ Use custom CSS:
+.float #panel {
+    border-radius: 1000px;
+    border-width: 1px;
+}
