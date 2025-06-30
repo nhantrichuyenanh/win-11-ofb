@@ -20,8 +20,7 @@ After Windows 11 is installed:
 
 **Required:**
 - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases)
-- The Ultimate Windows Utility (Admin PowerShell):  
-  `iwr -useb https://christitus.com/win | iex`
+- The Ultimate Windows Utility (Admin PowerShell): `iwr -useb https://christitus.com/win | iex`
   - Tweaks  
   - O&O ShutUp10++
 - [RyTuneX](https://rayenghanmi.me/rytunex/download.html)
