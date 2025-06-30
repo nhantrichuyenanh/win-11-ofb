@@ -243,9 +243,10 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 
 ## IV. Installing software
 
-Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Administrator PowerShell to install Microsoft Store: wsreset -i
-All applications and software listed below are available for download via UniGetUI, Microsoft Store, or online through links. Ones without links are from Microsoft Store and can be downloaded from itself or UniGetUI.
-Not all of them listed here have to be downloaded, as it's up to your decision.
+> [!NOTE]
+> - Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Administrator PowerShell to install Microsoft Store: wsreset -i
+> - All applications and software listed below are available for download via UniGetUI, Microsoft Store, or online through links. Ones without links are from Microsoft Store and can be downloaded from itself or UniGetUI.
+> - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
 - Main & Additional Browser: for more information please check [VI.](#vi-wrapping-things-up)
@@ -261,13 +262,13 @@ B
 
 C
 - Calculator
-- Camomile App](https://camomileapp.com
-- Context Menu Manager](https://github.com/BluePointLilac/ContextMenuManager/releases
+- [Camomile App](https://camomileapp.com)
+- [Context Menu Manager](https://github.com/BluePointLilac/ContextMenuManager/releases)
 
 D
-- Discord](https://discord.com/download
-	- Vencord: vencord.dev/download
-	- BetterDiscord: betterdiscord.app/themes
+- [Discord](https://discord.com/download)
+	- [Vencord](https://vencord.dev/download)
+	- [BetterDiscord](https://betterdiscord.app/themes)
 - Dropshelf
 
 E
