@@ -244,7 +244,7 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 ## IV. Installing software
 
 > [!NOTE]
-> - Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Admin PowerShell to install Microsoft Store: wsreset -i
+> - Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Admin PowerShell to install Microsoft Store: `wsreset -i`
 > - All applications and software listed below are available for download via UniGetUI, Microsoft Store, or online through links. Ones without links are from Microsoft Store and can be downloaded from itself or UniGetUI.
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
