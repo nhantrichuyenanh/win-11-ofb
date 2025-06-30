@@ -363,9 +363,122 @@ Z
 
 ## V. Configuring software
 
-Apps and settings configuration retained 1:1  
-- For structured items like browser setup, PowerToys, and Windhawk modules, hierarchy and categories preserved  
-- Subsections (e.g., theme JSON for Nilesoft Shell, plugin list for Discord) formatted in code blocks or indented where appropriate
+> [!NOTE]
+> Apps and software not listed here aren't important to immediately configure, or their settings don't have much to configure.
+
+#‎ 
+- [Main & Additional Browser]: sign in to restore add-ons, bookmarks, and home page shortcuts
+- `NOTE: this process is only for Firefox fork`
+	- about:settings
+	- about:addons → Themes
+	- about:addons → Extensions
+	- about:home
+	- Customize Toolbar...
+	- Bookmarks Toolbar → Open All in Tabs [to load all favicons in bookmarks]
+	- Ctrl + H → View ⌵ → By Last Visited
+	- about:flags (Chromium-based) / about:config (Firefox fork) (🗀 → Browser Modification)
+	- Bypass Paywalls Clean: gitflic.ru/project/magnolia1234/bpc_uploads
+[![June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
+A
+	AB Download Manager: Tools → Settings `(remember to also configure the browser extension's settings for it)`
+C
+	Camomile App: Settings
+D
+	Discord:
+		Themes: ClearVision; EmojiReplace; RadialStatus
+		Plugins:
+			AccountPanelServerProfile; AlwaysAnimate; AlwaysExpandRoles; AlwaysTrust;
+			BetterFolders; BetterGifAltText; BetterNotesBox; BetterRoleContext; BetterRoleDot; BetterSessions; BetterSettings; BetterUploadButton; BlurNSFW;
+			CallTimer; ClearURLs; CopyFileContents; CopyUserURLs; CrashHandler; (CtrlEnterSend)
+			FakeNitro; FavoriteEmojiFirst; FixImagesQuality; (FixSpotifyEmbeds; FixYoutubeEmbeds); ForceOwnerCrown; FriendInvites; FriendsSince; FullSearchContext
+			GameActivityToggle; GifPaste
+			HideAttachments;
+			ImageLink; ImageZoom; ImplicitRelationships; InvisibleChat;
+			MemberCount; MentionAvatars; MessageClickActions; MessageLatency; MessageLinkEmbeds; MoreKaomoji; MoreUserTags; MutualGroupDMs;
+			NewGuildSettings; NoF1; NoMaskedUrlPaste;
+			PermissionsViewer; PictureInPicture; PlatformIndicators; PreviewMessage;
+			QuickMention; QuickReply;
+			ReadAllNotificationsButton; RevealAllSpoilers; ReviewDB; RoleColorEverywhere;
+			SendTimestamps; ServerInfo; ServerListIndicators; ShowAllMessageButtons; ShowConnections; ShowHiddenChannels; ShowHiddenThings; ShowMeYourName; ShowTimeoutDuration; SilentMessageToggle; SilentTyping; SortFriendRequests; (SpotifyControls; SpotifyCrack); StartupTimings; Summaries; SuperReactionTweaks;
+			Translate; TimeBarAllActivities; TypingIndicator; TypingTweaks;
+			UserMessagesPronouns
+			ViewIcons; VoiceChatDoubleClick;
+			WhoReacted
+			(YoutubeAdblock)
+E
+	Everything: Tools → Options...
+F
+	FxSound: ☰ → Settings
+G
+	GIMP: 🀦 → [June 2025] GIMP
+		Resynthesizer:
+			C:\Users\[NAME]\AppData\Roaming\GIMP\3.0\plug-ins
+			C:\Users\[NAME]\AppData\Roaming\GIMP\3.0\scripts
+I
+	ImageGlass: 🀦 → [June 2025] ImageGlass
+N
+	Nilesoft Shell: C:\Program Files\Nilesoft Shell\imports\theme.nss
+theme
+{
+	name = "modern"
+	view = view.medium
+	dark = true
+	background
+	{
+		color = default
+		opacity = 15
+		effect = [3, default, 30]
+	}
+	image.align = 2
+	border
+	{
+		enabled = true
+		size = 1
+		color = #808080
+		opacity = 30
+		radius = 2
+	}
+	image
+	{
+		enabled = true
+		color = [image.color1, color.accent, image.color3]
+		scale = true
+	}
+}
+O
+	Office 2021: activate it through Administrator PowerShell → irm https://get.activated.win | iex
+		Account → Account Privacy: Manage Settings
+		Account → Microsoft 365 and Office Updates → Update Options → Update Now
+		Options
+		🀦 → [June 2025] MS Word
+P
+	PowerToys:
+		Advanced Paste
+		Always On Top
+		PowerToys Run:
+			Program
+			Windows System Commands
+			Windows settings
+			Everything
+		PowerRename
+S
+	Skyline Weather: Win + I → Personalization → Lock screen status → Weather
+	StartAllBack: disable start menu and taskbar
+V
+	Visual Studio Code: sign into Microsoft account and open project folder
+W
+	Windhawk:
+		Better file sizes in Explorer details
+		Click on empty taskbar space
+		Cycle through taskbar windows on click
+		Taskbar auto-hide speed
+		Taskbar minimize/restore on scroll
+		Taskbar Thumbnail Reorder
+		Taskbar Thumbnail Size
+		Taskbar tray system icon tweaks
+		Windows 11 Start Menu Styler (🗀 → [Windhawk] Windows 11 Styler)
+		Windows 11 Taskbar Styler (🗀 → [Windhawk] Windows 11 Styler)
+		Windows 11 Notification Styler (🗀 → [Windhawk] Windows 11 Styler)
 
 ---
 
