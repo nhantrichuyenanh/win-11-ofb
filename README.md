@@ -34,7 +34,7 @@ After Windows 11 is installed:
 
 **Required:**
 - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel")
-- The Ultimate Windows Utility (Admin PowerShell): `iwr -useb https://christitus.com/win | iex`
+- The Ultimate Windows Utility (Admin PowerShell): ```iwr -useb https://christitus.com/win | iex```
   - Tweaks
   - O&O ShutUp10++
 - [RyTuneX](https://rayenghanmi.me/rytunex/download.html "Rayen Ghanmi")
@@ -91,7 +91,7 @@ After Windows 11 is installed:
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
 
 ### 2. Disable unnecessary services:
-- Win + R → services.msc
+- `Win + R → services.msc`
   - ActiveX Installer (AxInstSV)
   - AssignedAccessManager Service
   - AVCTP service `(disable it if you don't intent on using wireless technology like Bluetooth)`
@@ -177,7 +177,7 @@ After Windows 11 is installed:
  
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
-- **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex`
+- **Activate Windows (Admin PowerShell)**: ```irm https://get.activated.win | iex```
 - **Settings Configuration**: `Win + I`  
 	- System
 	- Bluetooth & devices
@@ -221,22 +221,23 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
     - Communications → When Windows detects communications activities: Do nothing
     - Playback → select the speaker your PC is using as output → Properties:
      	- Spatial sound → Windows Sonic for Headphones
-      - If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization. If not: Win + R → devmgmt.msc → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
+      - If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization.
+      - If not: `Win + R → devmgmt.msc` → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
   - Power Options: `Win + R → control.exe powercfg.cpl,,3`
 
 - Device Manager Optimizations: `Win + R → devmgmt.msc`
 	- Audio inputs and outputs: disable the ones you don't use
 	- Network adapters:
-		- disable the ones you don't use like Ethernet for many people
-      		- right click on the network adapter you use → Properties → Power Management → uncheck Allow the computer to turn off this device to save power
-      		- disable Microsoft Kernel Debug Network Adapter `(for kernel debugging like BSOD)`
+	 - disable the ones you don't use like Ethernet for many people
+	 - right click on the network adapter you use → Properties → Power Management → uncheck Allow the computer to turn off this device to save power
+	 - disable Microsoft Kernel Debug Network Adapter `(for kernel debugging like BSOD)`
 	- Software devices: disable Microsoft GS Wavetable Synth `(an old, software-based MIDI player from the 90s)`
 	- Sound, video and game controllers: disable the ones you don't use
 	- System Devices: disable
-      		- System speaker `(used for diagnostics in BIOS)`
-      		- Remote Desktop Device Redirector Bus `(allows local devices like printers to be used remotely)`
-      		- NDIS Virtual Network Adapter Enumerator `(for VMs)`
-      		- Microsoft Hyper-V Virtualization Infrastructure Driver `(for VMs)`
+	 - System speaker `(used for diagnostics in BIOS)`
+	 - Remote Desktop Device Redirector Bus `(allows local devices like printers to be used remotely)`
+	 - NDIS Virtual Network Adapter Enumerator `(for VMs)`
+	 - Microsoft Hyper-V Virtualization Infrastructure Driver `(for VMs)`
 
 ---
 
