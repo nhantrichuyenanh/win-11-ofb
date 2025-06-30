@@ -248,10 +248,9 @@ All applications and software listed below are available for download via UniGet
 Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #
-
-	Main & Additional Browser: for more information please check VI.
-		Chromium-based: Brave / Deta Surf / Vivaldi / ...
-		Firefox fork: Floorp / Librewolf / Zen Browser / ...
+- Main & Additional Browser: for more information please check [VI.](#vi-wrapping-things-up)
+	- Chromium-based: Brave / Deta Surf / Vivaldi / ...
+	- Firefox fork: Floorp / Librewolf / Zen Browser / ...
 
 A
 	[AB Download Manager](https://abdownloadmanager.com)
