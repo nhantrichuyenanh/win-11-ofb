@@ -164,21 +164,19 @@ After Windows 11 is installed:
 
 ## III. Setting things up
 
-### Customization:
-
-1. **Mouse Cursor**: ⛁ → [jepricreations @ DeviantArt](https://deviantart.com/jepricreations)
-2. **Fonts**: ⛁ → Gotham Regular & DM Sans 18pt Medium
-3. **Mica Explorer**: [github.com/Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
-4. **AccentColorizer**:  
+- **Mouse Cursor**: ⛁ → [jepricreations @ DeviantArt](https://deviantart.com/jepricreations)
+- **Fonts**: ⛁ → Gotham Regular & DM Sans 18pt Medium
+- **Mica Explorer**: [github.com/Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
+- **AccentColorizer**:  
    - [Main](https://github.com/krlvm/AccentColorizer)  
    - [E11](https://github.com/krlvm/AccentColorizer-E11)
-5. **File Explorer**: 🀦 → [June 2025] File Explorer  
+- **File Explorer**: 🀦 → [June 2025] File Explorer  
    *(Configure options listed as-is)*
-6. **Activate Windows (Admin PowerShell)**:  
+- **Activate Windows (Admin PowerShell)**:  
    `irm https://get.activated.win | iex`
-7. **Settings Configuration**: `Win + I`  
+- **Settings Configuration**: `Win + I`  
    *(list of Settings subpages kept untouched)*
-8. **Control Panel Items**:  
+- **Control Panel Items**:  
    *(subsections like Region, Internet Properties, Sound, etc. are left as-is with preserved structure)*
 
 ---
