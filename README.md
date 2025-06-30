@@ -255,43 +255,54 @@ Not all of them listed here have to be downloaded, as it's up to your decision.
 A
 - [AB Download Manager](https://abdownloadmanager.com)
 - [Audacity](https://audacityteam.org/download/windows)
+
 B
 - [BCUninstaller](https://sourceforge.net/projects/bulk-crap-uninstaller)
+
 C
 - Calculator
 - Camomile App](https://camomileapp.com
 - Context Menu Manager](https://github.com/BluePointLilac/ContextMenuManager/releases
+
 D
 - Discord](https://discord.com/download
 	- Vencord: vencord.dev/download
 	- BetterDiscord: betterdiscord.app/themes
 - Dropshelf
+
 E
 - Energy Star X
 - Everything: voidtools.com/downloads
+
 F
 - File Converter: file-converter.io/download.html
 - FluentFlyout
 - FxSound: fxsound.com/download
+
 G
 - GeoGebra Classic: geogebra.org/download
 - GIMP: gimp.org/downloads
 	- Resynthesizer: gimpchat.com/viewtopic.php?f=7&t=21535#p294979
+
 I
 - Icaros: github.com/Xanashi/Icaros/releases
 - Image Glass: imageglass.org/releases
 	- WinUI3 Dark: imageglass.org/theme/winui3-dark-mizan-53
+
 M
 - Microsoft Teams: microsoft.com/en-us/microsoft-teams/download-app
 - MinGW (VS Code): code.visualstudio.com/docs/cpp/config-mingw
 - MKVToolNix: mkvtoolnix.download/downloads.html#windows
+
 N
 - NanaZip
 - Nilesoft Shell: nilesoft.org/download
 - Notepad
+
 O
 - Office 2021: microsoft.com/en-us/microsoft-365/download-office#download [check VI. for more information]
 - OnionMedia
+
 P
 - Paint
 - PDFgear: pdfgear.com/pdfgear-for-windows
@@ -302,12 +313,15 @@ P
 - Python: installing either Anaconda or Python Software Foundation provides the same Python environment
 	- Anaconda: anaconda.com/download
 	- Python Software Foundation: python.org
+
 Q
 - qBittorrent: qbittorrent.org/download
 	- ayuDark: github.com/maboroshin/qBittorrentDarktheme/releases
 - QuickCPU: coderbag.com/product/quickcpu
+
 R
 - Radiograph
+
 S
 - Screenbox
 - SDelete:
@@ -318,23 +332,30 @@ S
 - Snipping Tool
 - Sound Recorder
 - StartAllBack: startallback.com
+
 T
 - TI Connect CE: education.ti.com/en/software/update/84-ce-software-update
 - TranslucentTB
+
 U
 - Upscayl: upscayl.org/download
+
 V
 - ValiDrive: grc.com/validrive.htm
 - Visual Studio Code: code.visualstudio.com/download
+
 W
 - Windhawk: windhawk.net
 - WinfrGUI: winfr.org/download.html
 - WizTree: diskanalyzer.com/download
 - Writing Tools: github.com/theJayTea/WritingTools
+
 X
 - X-Mouse Button Control: xmousebuttoncontrol.com/download-for-windows
+
 Y
 - Youtube Music Desktop App: ytmdesktop.app
+
 Z
 - Zalo: zalo.me/pc
 
