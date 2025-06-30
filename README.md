@@ -102,7 +102,7 @@ After Windows 11 is installed:
   - Netlogon
   - Parental Controls
   - Print Spooler `(don't disable it if you have a printer at home and you use it)`
-  - Phone Service `(disable if you don't use [Phone Link](microsoft.com/windows/sync-across-your-devices)`
+  - Phone Service `(disable if you don't use)`[Phone Link](microsoft.com/windows/sync-across-your-devices)
   - Remote Access Auto Connection Manager
   - Remote Desktop Configuration
   - Remote Desktop Services
@@ -113,7 +113,7 @@ After Windows 11 is installed:
   - SmartCard Device Enumeration Service
   - SmartCard Removal Policy
   - SysMain `(disable it if your storage device is HDD, Task Manager → Performance → Disk 0 (C:))`
-  - TCP/IP NetBIOS Helper `(disable it if you don't use Workgroup: wikipedia.org/wiki/Workgroup_(computer_networking))`
+  - TCP/IP NetBIOS Helper `(disable it if you don't use)`[Workgroup](wikipedia.org/wiki/Workgroup_(computer_networking))
   - Touch Keyboard and Handwriting Panel Service `(disable it if you aren't a digital artist)`
   - WalletService
   - Windows Biometric Service `(disable it if you don't use Windows Hello)`
