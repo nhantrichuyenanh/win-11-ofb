@@ -1,5 +1,5 @@
 # Windows 11 Order of Business
-
+- [I. Preparations](# I. Preparations)
 ---
 
 ## I. Preparations
