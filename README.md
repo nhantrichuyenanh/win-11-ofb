@@ -14,7 +14,7 @@ After Windows 11 is installed:
 
 ## II. System modifications
 
-### Win + R → `UserAccountControlSettings` → drag the slider all the way down → OK
+`Win + R → UserAccountControlSettings` → drag the slider all the way down → OK
 
 ### 1. System modification:
 
