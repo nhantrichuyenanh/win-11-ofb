@@ -11,7 +11,7 @@
   - [6. Registry Hacks](#6-registry-hacks)
   - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
 - [III. Setting things up](#iii-setting-things-up)
-- IV. Installing software
+- [IV. Installing software](#iv-installing-software)
 - V. Configuring software
 - VI. Wrapping things up
 ---
