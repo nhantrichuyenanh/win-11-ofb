@@ -3,7 +3,7 @@
 > lorem ipsum dolor sit amet
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
-  - [1. System modification](#1-system-modifcation)
+  - [1. System modification](#1-system-modification)
   - [2. Disable unnecessary services](#2-disable-unnecessary-services)
   - [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth)
   - [4. Enable Clipboard History](#4-enable-clipboard-history)
