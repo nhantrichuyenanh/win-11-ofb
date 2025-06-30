@@ -368,14 +368,14 @@ Z
 
 #‎ 
 - [Main & Additional Browser]: sign in to restore add-ons, bookmarks, and home page shortcuts `(NOTE: this process is only for Firefox fork)`
-	- about:settings
-	- about:addons → Themes
-	- about:addons → Extensions
-	- about:home
+	- `about:settings`
+	- `about:addons` → Themes
+	- `about:addons` → Extensions
+	- `about:home`
 	- Customize Toolbar...
 	- Bookmarks Toolbar → Open All in Tabs `(to load all favicons in bookmarks)`
 	- Ctrl + H → View ⌵ → By Last Visited
-	- about:flags (Chromium-based) / about:config (Firefox fork) (🗀 → Browser Modification)
+	- `about:flags` (Chromium-based) / `about:config` (Firefox fork) (🗀 → Browser Modification)
 	- [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)
 
 ![[June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
