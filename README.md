@@ -1,7 +1,7 @@
 # Windows 11 Order of Business:
 > [!TIP]
 > Ctrl + F
-- I. Preparations
+- [I. Preparations](#i-preparations)
 - II. System modifications
 - III. Setting things up
 - IV. Installing software
