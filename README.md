@@ -427,7 +427,7 @@ C:\Users\[NAME]\AppData\Roaming\GIMP\3.0\scripts
 
 I
 - ImageGlass:
-![🀦 → [June 2025] ImageGlass](🀦/[June-2025]-GIMP.png)
+![🀦 → [June 2025] ImageGlass](🀦/[June-2025]-ImageGlass.png)
 
 N
 - Nilesoft Shell: C:\Program Files\Nilesoft Shell\imports\theme.nss
