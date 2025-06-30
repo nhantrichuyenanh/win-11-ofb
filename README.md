@@ -144,7 +144,7 @@ After Windows 11 is installed:
 ### 5. Disable bufferless tracking:
 `Win + R → regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
 
-### 6. [Registry Hacks](https://vinstartheme.com/unlock-windows-hidden-features)
+### 6. [Registry Hacks](https://vinstartheme.com/unlock-windows-hidden-features "VIN STAR")
 
 ### 7. Turn off useless Windows Features:
 Run → `optionalfeatures`  
