@@ -171,11 +171,12 @@ After Windows 11 is installed:
    - [AccentColorizer](https://github.com/krlvm/AccentColorizer "krlvm")  
    - [AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11 "krlvm")
 - **File Explorer**:
-
-![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
   - Configure Quick access
   - Show details pane
   - ⋯ → Options
+ 
+![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
+
 - **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex`
 - **Settings Configuration**: `Win + I`  
 	- System
