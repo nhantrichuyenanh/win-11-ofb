@@ -12,8 +12,8 @@
   - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
 - [III. Setting things up](#iii-setting-things-up)
 - [IV. Installing software](#iv-installing-software)
-- V. Configuring software
-- VI. Wrapping things up
+- [V. Configuring software](#v-configuring-software)
+- [VI. Wrapping things up](#vi-wrapping-things-up)
 ---
 
 ## I. Preparations
