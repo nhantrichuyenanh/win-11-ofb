@@ -196,12 +196,12 @@ After Windows 11 is installed:
   - Internet Properties: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
   - Network Connections: `Win + R → ncpa.cpl →` double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
      - Network Connection Properties: uncheck
-      - Client for Microsoft Networks
-      - File and Printer Sharing for Microsoft Networks
-      - Microsoft LLDP Protocol Driver
-      - Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use IPv6: test-ipv6.com)`
-      - Link-Layer Topology Discovery Responder
-      - Link-Layer Topology Discovery Mapper I/O Driver
+     	- Client for Microsoft Networks
+     	- File and Printer Sharing for Microsoft Networks
+     	- Microsoft LLDP Protocol Driver
+     	- Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use IPv6: test-ipv6.com)`
+     	- Link-Layer Topology Discovery Responder
+     	- Link-Layer Topology Discovery Mapper I/O Driver
     - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
     - Network adapter Properties: double click / right click on the network connection you're using → Properties → Configure... 
       - Power Management → uncheck Allow the computer to turn off this device to save power
