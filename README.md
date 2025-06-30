@@ -82,7 +82,7 @@ After Windows 11 is installed:
 - Win + R → services.msc
   - ActiveX Installer (AxInstSV)
   - AssignedAccessManager Service
-  - AVCTP service [disable it if you don't intent on using wireless technology like Bluetooth]
+  - AVCTP service <!-- disable it if you don't intent on using wireless technology like Bluetooth -->
   - BitLocker Drive Encryption Service [depends, don't disable it if you actually use BitLocker]
   - Bluetooth Audio Gateway Service [disable it if you don't use Bluetooth]
   - Bluetooth User Support Service [disable it if you don't use Bluetooth]
