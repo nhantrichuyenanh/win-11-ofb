@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!TIP]
-> Ctrl + F
+> lorem ipsum dolor sit amet
 - [I. Preparations](#i-preparations)
 - II. System modifications
 - III. Setting things up
