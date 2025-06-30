@@ -209,15 +209,14 @@ After Windows 11 is installed:
     - `Win + R → ncpa.cpl →` right click on Bluetooth Network Connection → Properties → uncheck:
       	- Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
       	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
-      	- Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Administrator PowerShell to determine if it is enabled or not)`
-```
-Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
-```
-
       	- Microsoft Network Adapter Multiplexor Protocol
       	- Microsoft LLDP Protocol Driver
       	- Link-Layer Topology Discovery Responder
       	- Link-Layer Topology Discovery Mapper I/O Driver
+      	- Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Admin PowerShell to determine if it is enabled or not)`
+```
+Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
+```
   - Sound: `Win + R → mmsys.cpl`
     - Communications → When Windows detects communications activities: Do nothing
     - Playback → select the speaker your PC is using as output → Properties:
