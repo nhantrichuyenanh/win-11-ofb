@@ -10,6 +10,7 @@ I use Floorp & Zen Browser, both of which focus heavily on privacy & security an
 - reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig
 - github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings
 
+```
 media.peerconnection.enabled = false
 privacy.resistFingerprinting = true
 privacy.trackingprotection.fingerprinting.enabled = true
@@ -45,3 +46,4 @@ network.predictor.prefetch-min-confidence = 30
 network.predictor.prefetch-rolling-load-count = 120
 network.predictor.preresolve-min-confidence = 10
 layers.acceleration.force-enabled = true [if you have a compatible GPU with latest drivers and you’re experiencing rendering or performance issues]
+```
