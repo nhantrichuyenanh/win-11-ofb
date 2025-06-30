@@ -1,4 +1,6 @@
-# Windows 11 Order of Business: `use Ctrl + F to find`
+# Windows 11 Order of Business:
+> [!TIP]
+> Ctrl + F
 - I. Preparations
 - II. System modifications
 - III. Setting things up
