@@ -82,56 +82,52 @@ After Windows 11 is installed:
 - Win + R → services.msc
   - ActiveX Installer (AxInstSV)
   - AssignedAccessManager Service
-  - AVCTP service <!-- disable it if you don't intent on using wireless technology like Bluetooth -->
-  - BitLocker Drive Encryption Service [depends, don't disable it if you actually use BitLocker]
-  - Bluetooth Audio Gateway Service [disable it if you don't use Bluetooth]
-  - Bluetooth User Support Service [disable it if you don't use Bluetooth]
+  - AVCTP service `(disable it if you don't intent on using wireless technology like Bluetooth)`
+  - BitLocker Drive Encryption Service `(depends, don't disable it if you actually use BitLocker)`
+  - Bluetooth Audio Gateway Service `(disable it if you don't use Bluetooth)`
+  - Bluetooth User Support Service `(disable it if you don't use Bluetooth)`
   - Certificate Propagation
   - Connected User Experiences and Telemetry
-		+ Downloaded Maps Manager
-		+ Diagnostic Policy Service [disable it and the 2 below if you don't need to diagnose issues on your PC]
-		+ Diagnostic Service Host
-		+ Diagnostic System Host
-		+ Distributed Link Tracking Client [disable it if you are a home user or your computer is not part of a large network domain]
-		+ Fax
-		+ Geolocation Service
-		+ Hyper-V Data Exchange Service [disable all Hyper-V services if you don't use a virtual machine]
-		+ [...]
-		+ Hyper-V Volume Shadow Copy Requestor
-		+ IP Helper [disable it if you don't use IPv6, visit here for validation: test-ipv6.com]
-		+ Netlogon
-		+ Parental Controls
-		+ Print Spooler [don't disable it if you have a printer at home and you use it]
-		+ Phone Service [disable if you don't use Phone Link: microsoft.com/windows/sync-across-your-devices]
-		+ Remote Access Auto Connection Manager
-		+ Remote Desktop Configuration
-		+ Remote Desktop Services
-		+ Remote Registry
-		+ Secondary Logon
-		+ Sensor Service [disabling it will cause Power & battery in Win + I → System to crash]
-		+ SmartCard [disable it and the 2 below if you don't use smart card]
-		+ SmartCard Device Enumeration Service
-		+ SmartCard Removal Policy
-		+ SysMain [don't disable it if your storage device is SSD, Task Manager → Performance → Disk 0 (C:)]
-		+ TCP/IP NetBIOS Helper [disable it if you don't use Workgroup: wikipedia.org/wiki/Workgroup_(computer_networking)]
-		+ Touch Keyboard and Handwriting Panel Service [disable it if you aren't a digital artist]
-		+ WalletService
-		+ Windows Biometric Service [disable it if you don't use Windows Hello]
-		+ Windows Error Reporting Service
-		+ Windows Image Acquisition [disable it if you don't use a scanner or camera]
-		+ Windows Insider Service [disable it if you aren't part of Windows Insider Program]
-		+ Windows Mobile Hotspot Service [disable it if you don't wish to turn your PC into a hotspot]
-		+ Windows Search [disable it to disable the ability to search files via Windows Search]
-		+ Xbox Accessory Management Service [disable it and the 3 below if you don't use Xbox]
-		+ Xbox Live Auth Manager
-		+ Xbox Live Game Save
-		+ Xbox Live Networking Service
-	- Win + R → msconfig → Services → Hide all Microsoft services → Disable all → Apply → OK → Reboot [make sure PC still works fine after that]
+  - Downloaded Maps Manager
+  - Diagnostic Policy Service `(disable it and the 2 below if you don't need to diagnose issues on your PC)`
+  - Diagnostic Service Host
+  - Diagnostic System Host
+  - Distributed Link Tracking Client `(disable it if you are a home user or your computer is not part of a large network domain)`
+  - Fax
+  - Geolocation Service
+  - Hyper-V Data Exchange Service `(disable all Hyper-V services if you don't use a virtual machine)`
+  - [...]
+  - Hyper-V Volume Shadow Copy Requestor
+  - IP Helper `(disable it if you don't use IPv6, visit here for validation: test-ipv6.com)`
+  - Netlogon
+  - Parental Controls
+  - Print Spooler `(don't disable it if you have a printer at home and you use it)`
+  - Phone Service `(disable if you don't use [Phone Link](microsoft.com/windows/sync-across-your-devices)`
+  - Remote Access Auto Connection Manager
+  - Remote Desktop Configuration
+  - Remote Desktop Services
+  - Remote Registry
+  - Secondary Logon
+  - Sensor Service `(disabling it will cause Power & battery in Win + I → System to crash)`
+  - SmartCard `(disable it and the 2 below if you don't use smart card)`
+  - SmartCard Device Enumeration Service
+  - SmartCard Removal Policy
+  - SysMain `(disable it if your storage device is HDD, Task Manager → Performance → Disk 0 (C:))`
+  - TCP/IP NetBIOS Helper `(disable it if you don't use Workgroup: wikipedia.org/wiki/Workgroup_(computer_networking))`
+  - Touch Keyboard and Handwriting Panel Service `(disable it if you aren't a digital artist)`
+  - WalletService
+  - Windows Biometric Service `(disable it if you don't use Windows Hello)`
+  - Windows Error Reporting Service
+  - Windows Image Acquisition `(disable it if you don't use a scanner or camera)`
+  - Windows Insider Service `(disable it if you aren't part of Windows Insider Program)`
+  - Windows Mobile Hotspot Service `(disable it if you don't wish to turn your PC into a hotspot)`
+  - Windows Search `(disable it to disable the ability to search files via Windows Search)`
+  - Xbox Accessory Management Service `(disable it and the 3 below if you don't use Xbox)`
+  - Xbox Live Auth Manager
+  - Xbox Live Game Save
+  - Xbox Live Networking Service
 
-
-
-**Additional tools:**
-- `msconfig` → Services → Hide all Microsoft services → Disable all → Apply → OK → Reboot
+- `Win + R → msconfig → Services → Hide all Microsoft services → Disable all → Apply → OK`
 
 ---
 
