@@ -206,7 +206,7 @@ After Windows 11 is installed:
     - Network adapter Properties: double click / right click on the network connection you're using → Properties → Configure... 
       - Power Management → uncheck Allow the computer to turn off this device to save power
       - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
-    - `Win + R → ncpa.cpl →` right click on Bluetooth Network Connection → Properties → uncheck:
+    - `Win + R → ncpa.cpl` → right click on Bluetooth Network Connection → Properties → uncheck:
       	- Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
       	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
       	- Microsoft Network Adapter Multiplexor Protocol
