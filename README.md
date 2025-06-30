@@ -247,14 +247,14 @@ Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enter
 All applications and software listed below are available for download via UniGetUI, Microsoft Store, or online through links. Ones without links are from Microsoft Store and can be downloaded from itself or UniGetUI.
 Not all of them listed here have to be downloaded, as it's up to your decision.
 
-#
+&
 - Main & Additional Browser: for more information please check [VI.](#vi-wrapping-things-up)
 	- Chromium-based: Brave / Deta Surf / Vivaldi / ...
 	- Firefox fork: Floorp / Librewolf / Zen Browser / ...
 
 A
-	[AB Download Manager](https://abdownloadmanager.com)
-	Audacity](https://audacityteam.org/download/windows
+- [AB Download Manager](https://abdownloadmanager.com)
+- [Audacity](https://audacityteam.org/download/windows)
 B
 	BCUninstaller](https://sourceforge.net/projects/bulk-crap-uninstaller
 C
