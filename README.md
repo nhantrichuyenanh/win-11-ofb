@@ -249,7 +249,7 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- Main & Additional Browser: for more information please check [VI.](#vi-wrapping-things-up)
+- Main & Additional Browser: for more information please check [here](#vi-wrapping-things-up)
 	- Chromium-based: [Brave](https://brave.com/download "Brendan Eich and Brian Bondy") / [Deta Surf](https://deta.surf "Deta") / [Vivaldi](https://vivaldi.com/download "Vivaldi Technologies") / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download "Floorp Projects") / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download "Zen Browser Team") / ...
 
