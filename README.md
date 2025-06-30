@@ -3,6 +3,13 @@
 > lorem ipsum dolor sit amet
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
+  - [1. System modification](#1-system modification)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
 - III. Setting things up
 - IV. Installing software
 - V. Configuring software
