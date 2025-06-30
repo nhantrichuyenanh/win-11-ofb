@@ -207,14 +207,15 @@ After Windows 11 is installed:
       - Power Management → uncheck Allow the computer to turn off this device to save power
       - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
     - `Win + R → ncpa.cpl →` right click on Bluetooth Network Connection → Properties → uncheck:
-      - Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
-      - File and Printer Sharing `(if you don't intent on sharing files or printers)`
-      - Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Administrator PowerShell to determine if it is enabled or not)`
+      	- Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
+      	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
+      	- Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Administrator PowerShell to determine if it is enabled or not)`
+
 `Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"`
-      - Microsoft Network Adapter Multiplexor Protocol
-      - Microsoft LLDP Protocol Driver
-      - Link-Layer Topology Discovery Responder
-      - Link-Layer Topology Discovery Mapper I/O Driver
+      	- Microsoft Network Adapter Multiplexor Protocol
+      	- Microsoft LLDP Protocol Driver
+      	- Link-Layer Topology Discovery Responder
+      	- Link-Layer Topology Discovery Mapper I/O Driver
   - Sound: `Win + R → mmsys.cpl`
     - Communications → When Windows detects communications activities: Do nothing
     - Playback → select the speaker your PC is using as output → Properties:
