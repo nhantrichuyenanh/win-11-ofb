@@ -3,13 +3,13 @@
 > lorem ipsum dolor sit amet
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
-  - [1. System modification](#1-system modification)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
+  - [1. System modification](#1-system-modifcation)
+  - [2. Disable unnecessary services](#2-disable-unnecessary-services)
+  - [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth)
+  - [4. Enable Clipboard History](#4-enable-clipboard-history)
+  - [5. Disable bufferless tracking](#5-disable-bufferless-tracking)
+  - [6. Registry Hacks](#6-registry-hacks)
+  - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
 - III. Setting things up
 - IV. Installing software
 - V. Configuring software
