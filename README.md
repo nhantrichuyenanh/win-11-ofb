@@ -10,7 +10,7 @@
   - [5. Disable bufferless tracking](#5-disable-bufferless-tracking)
   - [6. Registry Hacks](#6-registry-hacks)
   - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
-- III. Setting things up
+- [III. Setting things up](#iii-setting-things-up)
 - IV. Installing software
 - V. Configuring software
 - VI. Wrapping things up
