@@ -164,7 +164,7 @@ After Windows 11 is installed:
 
 ## III. Setting things up
 
-- [Mouse Cursor](../⛁/deviantart-jepricreations-cursor)
+- [Mouse Cursor](⛁/deviantart-jepricreations-cursor)
 - **Fonts**: ⛁ → Gotham Regular & DM Sans 18pt Medium
 - **Mica Explorer**: [github.com/Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
 - **AccentColorizer**:  
