@@ -1,14 +1,14 @@
 Even though I don't use Chromium-based browsers, here's some sources I find informative:
-- https://youtu.be/V5cdFJqknE8
-- https://youtu.be/wMe3SPBJ6iQ?t=119
-- https://youtu.be/9nl6hO0ECgM?t=515
-- https://thewindowsclub.com/google-chrome-flag-settings-windows
-- https://reddit.com/r/browsers/comments/107cj5b/what_are_your_top_chromeflags_or_braveflags
+- [Change These 13 Hidden Chrome Settings Now!](https://youtu.be/V5cdFJqknE8 "ThioJoe")
+- [9 Cool Hidden Browser Features](https://youtu.be/wMe3SPBJ6iQ?t=119 "ThioJoe")
+- [Change These Browser Security Settings NOW](https://youtu.be/9nl6hO0ECgM?t=515 "ThioJoe")
+- [Most useful Google Chrome Flag settings for Windows users](https://thewindowsclub.com/google-chrome-flag-settings-windows "The Windows Club")
+- [What are your top chrome://flags/ or brave://flags/ features?](https://reddit.com/r/browsers/comments/107cj5b/what_are_your_top_chromeflags_or_braveflags "Reddit")
 
 I use Floorp & Zen Browser, both of which focus heavily on privacy & security and already have most preference settings configured by default, so I might not reference all of them here. Instead, refer to these sources:
-- https://reddit.com/r/firefox/comments/17hlkhp/what_are_your_must_have_changes_in_aboutconfig
-- https://reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig
-- https://github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings
+- [What Are Your Must Have Changes in about:config?](https://reddit.com/r/firefox/comments/17hlkhp/what_are_your_must_have_changes_in_aboutconfig "Reddit")
+- [What settings you use on about:config](https://reddit.com/r/firefox/comments/1ezjps2/what_settings_you_use_on_aboutconfig "Reddit")
+- [⚙ Recommended settings](https://github.com/SpitFire-666/Firefox-Stuff?tab=readme-ov-file#-recommended-settings "GitHub")
 
 ```
 media.peerconnection.enabled = false
