@@ -76,8 +76,6 @@ After Windows 11 is installed:
 - [Winhance](https://winhance.net)
 - [WinScript](https://github.com/flick9000/winscript/releases)
 
----
-
 ### 2. Disable unnecessary services:
 - Win + R → services.msc
   - ActiveX Installer (AxInstSV)
@@ -129,31 +127,17 @@ After Windows 11 is installed:
 
 - `Win + R → msconfig → Services → Hide all Microsoft services → Disable all → Apply → OK`
 
----
-
 ### 3. Disable stealing bandwidth:
 `Win + R → gpedit.msc, Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
 
----
-
 ### 4. Enable Clipboard History:
-- `regedit` →  
-  `Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
-- `gpedit.msc` →  
-  `Computer Configuration → Administrative Templates → System → OS Policies → Allow Clipboard History → Enable`
-
----
+- `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
+- `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → System → OS Policies → Allow Clipboard History → Enable`
 
 ### 5. Disable bufferless tracking:
-`regedit` →  
-`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → 0`
+`Win + R → regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
 
----
-
-### 6. Registry Hacks:
-[vinstartheme.com/unlock-windows-hidden-features](https://vinstartheme.com/unlock-windows-hidden-features)
-
----
+### 6. [Registry Hacks](https://vinstartheme.com/unlock-windows-hidden-features)
 
 ### 7. Turn off useless Windows Features:
 Run → `optionalfeatures`  
