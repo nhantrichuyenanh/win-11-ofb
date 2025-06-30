@@ -273,92 +273,91 @@ D
 
 E
 - Energy Star X
-- Everything: voidtools.com/downloads
+- [Everything](https://voidtools.com/downloads)
 
 F
-- File Converter: file-converter.io/download.html
+- [File Converter](https://file-converter.io/download.html)
 - FluentFlyout
-- FxSound: fxsound.com/download
+- [FxSound](https://fxsound.com/download)
 
 G
-- GeoGebra Classic: geogebra.org/download
-- GIMP: gimp.org/downloads
-	- Resynthesizer: gimpchat.com/viewtopic.php?f=7&t=21535#p294979
+- [GeoGebra Classic](https://geogebra.org/download)
+- [GIMP](https://gimp.org/downloads)
+	- [Resynthesizer](https://gimpchat.com/viewtopic.php?f=7&t=21535#p294979)
 
 I
-- Icaros: github.com/Xanashi/Icaros/releases
-- Image Glass: imageglass.org/releases
-	- WinUI3 Dark: imageglass.org/theme/winui3-dark-mizan-53
+- [Icaros](https://github.com/Xanashi/Icaros/releases)
+- [Image Glass](https://imageglass.org/releases)
+	- [WinUI3 Dark](https://imageglass.org/theme/winui3-dark-mizan-53)
 
 M
-- Microsoft Teams: microsoft.com/en-us/microsoft-teams/download-app
-- MinGW (VS Code): code.visualstudio.com/docs/cpp/config-mingw
-- MKVToolNix: mkvtoolnix.download/downloads.html#windows
+- [Microsoft Teams](https://microsoft.com/en-us/microsoft-teams/download-app)
+- [MinGW (VS Code)](https://code.visualstudio.com/docs/cpp/config-mingw)
+- [MKVToolNix](https://mkvtoolnix.download/downloads.html#windows)
 
 N
 - NanaZip
-- Nilesoft Shell: nilesoft.org/download
+- [Nilesoft Shell](https://nilesoft.org/download)
 - Notepad
 
 O
-- Office 2021: microsoft.com/en-us/microsoft-365/download-office#download [check VI. for more information]
+- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download `(check`[here](#vi-wrapping-things-up)`for more information)`
 - OnionMedia
 
 P
 - Paint
-- PDFgear: pdfgear.com/pdfgear-for-windows
-- PowerToys
-	- EverythingPowerToys: github.com/lin-ycv/EverythingPowerToys/releases
-- Proton Pass: proton.me/pass/download
-- Proton VPN: protonvpn.com/download
-- Python: installing either Anaconda or Python Software Foundation provides the same Python environment
-	- Anaconda: anaconda.com/download
-	- Python Software Foundation: python.org
+- [PDFgear](https://pdfgear.com/pdfgear-for-windows)
+- [PowerToys](https://github.com/microsoft/PowerToys/releases)
+	- [EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys/releases)
+- [Proton Pass](https://proton.me/pass/download)
+- [Proton VPN](https://protonvpn.com/download)
+- Python: `(installing either Anaconda or Python Software Foundation provides the same Python environment)`
+	- [Anaconda](https://anaconda.com/download)
+	- [Python Software Foundation](https://python.org)
 
 Q
-- qBittorrent: qbittorrent.org/download
-	- ayuDark: github.com/maboroshin/qBittorrentDarktheme/releases
-- QuickCPU: coderbag.com/product/quickcpu
+- [qBittorrent](https://qbittorrent.org/download)
+	- [ayuDark](https://github.com/maboroshin/qBittorrentDarktheme/releases)
+- [QuickCPU](https://coderbag.com/product/quickcpu)
 
 R
 - Radiograph
 
 S
 - Screenbox
-- SDelete:
-	- learn.microsoft.com/en-us/sysinternals/downloads/sdelete
-	- github.com/Tulpep/SDelete-Gui/releases
-- Send to Kindle: amazon.com/sendtokindle/pc
+- [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)
+	- [SDelete Gui](https://github.com/Tulpep/SDelete-Gui/releases)
+- [Send to Kindle](https://amazon.com/sendtokindle/pc)
 - Skyline Weather
 - Snipping Tool
 - Sound Recorder
-- StartAllBack: startallback.com
+- [StartAllBack](https://startallback.com)
 
 T
-- TI Connect CE: education.ti.com/en/software/update/84-ce-software-update
+- [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update)
 - TranslucentTB
 
 U
-- Upscayl: upscayl.org/download
+- [Upscayl](https://upscayl.org/download)
 
 V
-- ValiDrive: grc.com/validrive.htm
-- Visual Studio Code: code.visualstudio.com/download
+- [ValiDrive](https://grc.com/validrive.htm)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 W
-- Windhawk: windhawk.net
-- WinfrGUI: winfr.org/download.html
-- WizTree: diskanalyzer.com/download
-- Writing Tools: github.com/theJayTea/WritingTools
+- [Windhawk](https://windhawk.net)
+- [WinfrGUI](https://winfr.org/download.html)
+- [WizTree](https://diskanalyzer.com/download)
+- [Writing Tools](https://github.com/theJayTea/WritingTools)
 
 X
-- X-Mouse Button Control: xmousebuttoncontrol.com/download-for-windows
+- [X-Mouse Button Control](https://xmousebuttoncontrol.com/download-for-windows)
 
 Y
-- Youtube Music Desktop App: ytmdesktop.app
+- [Youtube Music Desktop App](https://ytmdesktop.app)
 
 Z
-- Zalo: zalo.me/pc
+- [Zalo](https://zalo.me/pc)
 
 ---
 
