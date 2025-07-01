@@ -14,6 +14,9 @@
 - [IV. Installing software](#iv-installing-software)
 - [V. Configuring software](#v-configuring-software)
 - [VI. Wrapping things up](#vi-wrapping-things-up)
+  - [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software)
+  - [Afterthought](#afterthought)
+
 ---
 
 ## I. Preparations
