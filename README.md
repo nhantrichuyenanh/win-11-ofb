@@ -585,11 +585,9 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	> Why do I have to navigate around menus like Run and Control Panel?
 
 Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, *Microsoft primarily caters to businesses*, and businesses being themselves, old interfaces stuck around.
-
 	> Why some core applications of Windows 11 are omitted, such as Microsoft Photos?
 
 Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
-
 	> Regarding downloading Microsoft Office, to download it you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
 
 Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
