@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!IMPORTANT]
-> This guide assumes you can navigate Windows using menu interfaces. Check [here](#afterthought) for more information on this guide.
+> This guide assumes you can navigate Windows using menu interfaces. Check [here](#afterthought) for Q&A.
 
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
