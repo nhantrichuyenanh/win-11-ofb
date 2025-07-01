@@ -1,6 +1,7 @@
 # Windows 11 Order of Business:
-> [!TIP]
-> lorem ipsum dolor sit amet
+> [!IMPORTANT]
+> This guide assumes you have experience in using Windows.
+
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
   - [1. System modification](#1-system-modification)
