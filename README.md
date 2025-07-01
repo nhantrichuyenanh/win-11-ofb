@@ -126,7 +126,7 @@ After Windows 11 is installed:
   - Hyper-V Data Exchange Service `(disable all Hyper-V services if you don't use a virtual machine)`
   - [...]
   - Hyper-V Volume Shadow Copy Requestor
-  - IP Helper `(disable it if you don't use IPv6, visit` [here](https://test-ipv6.com) `for validation)`
+  - IP Helper `(disable it if you don't use IPv6, visit` [here](https://test-ipv6.com "Jason Fesler") `for validation)`
   - Netlogon
   - Parental Controls
   - Print Spooler `(don't disable it if you have a printer at home and you use it)`
@@ -421,7 +421,7 @@ C
 
 D
 - Discord:
-	- Themes: [ClearVision](https://betterdiscord.app/theme/ClearVision); [EmojiReplace](https://betterdiscord.app/theme/EmojiReplace); [RadialStatus](https://betterdiscord.app/theme/RadialStatus)
+	- Themes: [ClearVision](https://betterdiscord.app/theme/ClearVision "BetterDiscord"); [EmojiReplace](https://betterdiscord.app/theme/EmojiReplace "BetterDiscord"); [RadialStatus](https://betterdiscord.app/theme/RadialStatus "BetterDiscord")
  	- Plugins:
 		- AccountPanelServerProfile; AlwaysAnimate; AlwaysExpandRoles; AlwaysTrust;
 		- BetterFolders; BetterGifAltText; BetterNotesBox; BetterRoleContext; BetterRoleDot; BetterSessions; BetterSettings; BetterUploadButton; BlurNSFW;
@@ -591,7 +591,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
 
-	> To download Microsoft Office, you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
+	> To download Microsoft Office, you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office "Microsoft"), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
 
 	Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
 
@@ -604,7 +604,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	Yes, I can't agree more. It gives power to the user, so you must be a power user (no pun intended lol). You're responsible dealing with issues should they occur, often on your own. But the upside is that it's extremely customizable, blazing fast, boots up fast, takes up little memory and RAM, and none of the aforementioned downsides of Windows. Like Felix Kjellberg said, Linux is built modular. You can swap your GUI entirely, unlike Windows 10/11 which you're stuck with Metro/Fluent UI.
 
-	> Why do I use Windows 11 but not [Windows 11 Enterprise LTSC](https://microsoft.com/en-us/evalcenter/download-windows-11-enterprise)/[Enterprise IoT LSTC](https://microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)?
+	> Why do I use Windows 11 but not [Windows 11 Enterprise LTSC](https://microsoft.com/en-us/evalcenter/download-windows-11-enterprise "Microsoft")/[Enterprise IoT LSTC](https://microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval "Microsoft")?
 
 	Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
 
@@ -613,7 +613,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
 
 - [Main & Additional Browser]: Please do your research and download your desired browser(s) at your own discretion.
-	> [Chromium-based](https://wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome) includes Chrome and other browsers based on Chromium while [Firefox fork](https://wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox) includes Firefox and other browsers based on Firefox
+	> [Chromium-based](https://wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome "Wikipedia") includes Chrome and other browsers based on Chromium while [Firefox fork](https://wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox "Wikipedia") includes Firefox and other browsers based on Firefox
 
 	 - Generally, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
