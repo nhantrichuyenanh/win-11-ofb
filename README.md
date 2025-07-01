@@ -571,13 +571,15 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 - Originally, this guide was writen on Google Drive because it was a side project. As it snowballed into a full-fledged guide, maintaining and reviewing it became increasingly challenging. I was hesitant about migrating to GitHub since not everyone's a programmer but for the sake of maintenance and legibility I had to take the plunge.
 
 - **Windows 11**:
-> **Why do I have to go through system modification?**
+	> **Why do I have to go through system modification?**
 
-The truth of the matter is that *Windows 11 sucks*. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. **Microsoft keeps shooting itself in the foot**, so that's why.
-> **Why do I have to disable so many unnecessary services?**
+	The truth of the matter is that *Windows 11 sucks*. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. **Microsoft keeps shooting itself in the foot**, so that's why.
+	> **Why do I have to disable so many unnecessary services?**
 
-Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
+	Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
+
 	 - **Why don't I just buy a Windows 11 product key?** After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a *B2B model*, so Windows as an OS is neglected. Not only do you have to pay to use the service but have your data harvested from using the service itself while having ads being shoved down your throat. It's utterly ridiculous.
+
 	 - **Why do I have to navigate around menus like Run and Control Panel?** Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, *Microsoft primarily caters to businesses*, and businesses being themselves, old interfaces stuck around.
 	 - **Why some core applications of Windows 11 are omitted, such as Microsoft Photos?** Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
 	 - **Regarding downloading Microsoft Office**, to download it you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software. Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
