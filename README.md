@@ -535,7 +535,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 ![[June 2025] Desktop](🀦/[June-2025]-Desktop.png)
 
-### ‧₊˚♪ PC is good to go 𝄞₊˚⊹
+**‧₊˚♪ PC is good to go 𝄞₊˚⊹**
 
 ### Afterthought:
 - Why don't I write this guide on, say GitHub or on my self-hosted website, instead of Google Drive? They're suited for technical guides like this. Well, I've thought about it before and maybe in hindsight I should have. This guide could use some markdown for better legibility, but ultimately I chose familiarity over it. Not everyone's a programmer who have used GitHub, amirite? And I can't be bothered to host my own website, because it would entail in maintenance, which as a student is out of the question.
