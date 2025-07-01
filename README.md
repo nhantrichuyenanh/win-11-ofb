@@ -591,18 +591,30 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
 
-	> Regarding downloading Microsoft Office, to download it you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
+	> To download Microsoft Office, you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
 
 	Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
 
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
-	 - **Why don't I switch to Linux already?** I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (**⊞**), directory structure (**C:**), system applications (**File Explorer**), OS security (**UAC**), and GUI (**Windows shell: Metro / Fluent**) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (**❖**), directory structure (**/**), system applications (**Nemo / Dolphin / Nautilus / ...**), OS security (**sudo**) and GUI (**Linux DEs: Cinnamon / KDE Plasma / GNOME / ...**). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
-	 - **Linux is indubitably better than Windows in every front.** Yes, I can't agree more. It gives power to the user, so you must be a power user (no pun intended lol). You're responsible dealing with issues should they occur, often on your own. But the upside is that it's extremely customizable, blazing fast, boots up fast, takes up little memory and RAM, and none of the aforementioned downsides of Windows. Like Felix Kjellberg said, Linux is built modular. You can swap your GUI entirely, unlike Windows 10/11 which you're stuck with Metro/Fluent UI.
-	 - **Why do I use Windows 11 but not [Windows 11 Enterprise LTSC](microsoft.com/en-us/evalcenter/download-windows-11-enterprise)/[Enterprise IoT LSTC](microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)?** Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
-	 - **What about other Windows 11 ISO?** No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
+	> Why don't I switch to Linux already?
+
+	I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (**⊞**), directory structure (**C:**), system applications (**File Explorer**), OS security (**UAC**), and GUI (**Windows shell: Metro / Fluent**) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (**❖**), directory structure (**/**), system applications (**Nemo / Dolphin / Nautilus / ...**), OS security (**sudo**) and GUI (**Linux DEs: Cinnamon / KDE Plasma / GNOME / ...**). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
+
+	> Linux is indubitably better than Windows in every front.
+
+	Yes, I can't agree more. It gives power to the user, so you must be a power user (no pun intended lol). You're responsible dealing with issues should they occur, often on your own. But the upside is that it's extremely customizable, blazing fast, boots up fast, takes up little memory and RAM, and none of the aforementioned downsides of Windows. Like Felix Kjellberg said, Linux is built modular. You can swap your GUI entirely, unlike Windows 10/11 which you're stuck with Metro/Fluent UI.
+
+	> Why do I use Windows 11 but not [Windows 11 Enterprise LTSC](microsoft.com/en-us/evalcenter/download-windows-11-enterprise)/[Enterprise IoT LSTC](microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)?
+
+	Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
+
+	> What about other Windows 11 ISO?
+
+	No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
 
 - [Main & Additional Browser]: Please do your research and download your desired browser(s) at your own discretion.
-	 - [Chromium-based](wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome) includes Chrome and other browsers based on Chromium while [Firefox fork](wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox) includes Firefox and other browsers based on Firefox
+	> [Chromium-based](wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome) includes Chrome and other browsers based on Chromium while [Firefox fork](wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox) includes Firefox and other browsers based on Firefox
+
 	 - Generally, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily privacy invasive, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
