@@ -366,7 +366,7 @@ Z
 > [!NOTE]
 > Apps and software not listed here aren't important to immediately configure, or their settings don't have much to configure.
 
-#‎ 
+### #‎ 
 - [Main & Additional Browser]: sign in to restore add-ons, bookmarks, and home page shortcuts `(NOTE: this process is only for Firefox fork)`
 	- `about:settings`
 	- `about:addons` → Themes
