@@ -366,7 +366,7 @@ Z
 > [!NOTE]
 > Apps and software not listed here aren't important to immediately configure, or their settings don't have much to configure.
 
-### #‎ 
+#‎ 
 - [Main & Additional Browser]: sign in to restore add-ons, bookmarks, and home page shortcuts `(NOTE: this process is only for Firefox fork)`
 	- `about:settings`
 	- `about:addons` → Themes
@@ -505,7 +505,7 @@ W
 
 ## VI. Wrapping things up
 
-After installing and configuring apps and software:
+### After installing and configuring apps and software:
 - Reboot
 - Ctrl + Shift + Esc → Startup apps
 - Start Menu:
@@ -534,7 +534,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 ### ‧₊˚♪ PC is good to go 𝄞₊˚⊹
 
-Afterthought:
+### Afterthought:
 - Why don't I write this guide on, say GitHub or on my self-hosted website, instead of Google Drive? They're suited for technical guides like this. Well, I've thought about it before and maybe in hindsight I should have. This guide could use some markdown for better legibility, but ultimately I chose familiarity over it. Not everyone's a programmer who have used GitHub, amirite? And I can't be bothered to host my own website, because it would entail in maintenance, which as a student is out of the question.
 
 	- Windows 11:
