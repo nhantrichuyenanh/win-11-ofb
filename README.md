@@ -620,4 +620,4 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	 - Edge, despite being heavily privacy invasive, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
 
 > [!NOTE]
-> Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Have a nice day! ヾ(•ω•`)o
+> Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Enjoy using Windows! ヾ(•ω•`)o
