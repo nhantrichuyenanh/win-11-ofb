@@ -526,16 +526,14 @@ After installing and configuring apps and software: 🀦 → [June 2025] Desktop
 	- Repair → check DISM and SFC → Scan
 - `Win + R → cmd → Ctrl + Shift + Enter`: to check if ieframe.dll is corrupted because it’s a core component of Internet Explorer `(even though it is deprecated, some legacy applications and internal tools might still depend on it)`
 ```
-- sfc /scanfile=C:\Windows\System32\ieframe.dll  
-- sfc /verifyfile=C:\Windows\System32\ieframe.dll
+sfc /scanfile=C:\Windows\System32\ieframe.dll  
+sfc /verifyfile=C:\Windows\System32\ieframe.dll
 ```
 
-‧₊˚♪ PC is good to go 𝄞₊˚⊹
+## ‧₊˚♪ PC is good to go 𝄞₊˚⊹
 
 Afterthought:
-	- Why don't I write this guide on, say GitHub or on my self-hosted website, instead of Google Drive? They're suited for technical guides like this. Well, I've thought about it before and maybe in hindsight I should have. This guide could use some markdown for better legibility, but ultimately I chose familiarity over it. Not everyone's a programmer who have used GitHub, amirite? And I can't be bothered to host my own website, because it would entail in maintenance, which as a student is out of the question.
-
-――――――――――――――――――――――――――――――――――――――――――――――――――
+- Why don't I write this guide on, say GitHub or on my self-hosted website, instead of Google Drive? They're suited for technical guides like this. Well, I've thought about it before and maybe in hindsight I should have. This guide could use some markdown for better legibility, but ultimately I chose familiarity over it. Not everyone's a programmer who have used GitHub, amirite? And I can't be bothered to host my own website, because it would entail in maintenance, which as a student is out of the question.
 
 	- Windows 11:
 		+ Why do I have to go through system modification? The truth of the matter is that Windows 11 sucks. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. Microsoft keeps shooting itself in the foot, so that's why.
@@ -578,32 +576,3 @@ Afterthought:
 		+ Edge, despite being heavily privacy invasive, is extremely good. It's well optimized for performance and battery life, packed with lots of nice and useful features (e.g. vertical tabs, split screen, video enhancement), and supports Fluent design. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
 
 Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Have a nice day! ヾ(•ω•`)o
-
----
-
-### ‧₊˚♪ PC is good to go 𝄞₊˚⊹
-
----
-
-## Afterthought
-
-*(Personal commentary kept exactly as-is. Added horizontal rules for readability.)*
-
----
-
-## 💭 Additional Q&A Sections
-
-*(Windows 11: Why do I have to... / Why don't I... sections formatted as collapsible content on GitHub via `<details>` if desired, otherwise left as plain text with proper spacing and indentation)*
-
----
-
-## [Main & Additional Browser] Note
-
-Includes breakdown on Chromium vs Firefox forks, personal advice, and rationale.  
-Embedded source links using markdown for Wikipedia entries.
-
----
-
-## Final Note
-
-> Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Have a nice day! ヾ(•ω•`)o
