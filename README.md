@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!IMPORTANT]
-> This guide assumes you can navigate Windows using menu interfaces.
+> This guide assumes you can navigate Windows using menu interfaces. Hotkeys are provided to help you open them. 
 
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
