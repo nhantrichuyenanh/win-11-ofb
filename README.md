@@ -568,45 +568,30 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 **‧₊˚♪ PC is good to go 𝄞₊˚⊹**
 
 ### Afterthought:
-- Originally, this guide was writen on Google Drive because it was a side project. As it accumulates more information, maintaining and reading it became harder to do so. I was hesitant about migrating to GitHub since not everyone's a programmer but for the sake of maintenance and legibility I had to take the plunge.
+- Originally, this guide was writen on Google Drive because it was a side project. As it snowballed into a full-fledged guide, maintaining and reviewing it became increasingly challenging. I was hesitant about migrating to GitHub since not everyone's a programmer but for the sake of maintenance and legibility I had to take the plunge.
 
 - Windows 11:
 	- Why do I have to go through system modification? The truth of the matter is that Windows 11 sucks. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. Microsoft keeps shooting itself in the foot, so that's why.
 	- Why do I have to disable so many unnecessary services? Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
+	 - Why don't I just buy a Windows 11 product key? After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a B2B model, so Windows as an OS is neglected. Not only do you have to pay to use the service but have your data harvested from using the service itself with advertisements being shoved down your throat. It's utterly ridiculous.
+	 - Why do I have to navigate around menus like Run and Control Panel? Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, Microsoft primarily caters to businesses, and businesses being themselves, old interfaces stuck around.
+	 -  Why some core applications of Windows 11 are omitted, such as Microsoft Photos? Here's the naked truth: they suck. Microsoft Photos rely on WebView2 from Microsoft Edge, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
+	 - Regarding downloading Microsoft Office, to download it you have to to go through Microsoft 365, which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software: microsoft.com/microsoft-365/microsoft-office → scroll down to Frequently asked questions
+	 - Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how or when.
 
-		+ Why don't I just buy a Windows 11 product key? After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a B2B model, so Windows as an OS is neglected. Not only do you have to pay to use the service but have your data harvested from using the service itself with advertisements being shoved down your throat. It's utterly ridiculous.
+- Linux?
+	 - Why don't I switch to Linux already? I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (⊞), directory structure (C:), system applications (File Explorer), OS security (UAC), and GUI (Metro / Fluent) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (❖), directory structure (/), system applications (Nemo / Dolphin / Nautilus / ...), OS security (sudo) and GUI (Cinnamon / KDE Plasma / GNOME / ...). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
+	 - Linux is indubitably better than Windows in every front. Yes, I can't agree more. It gives power to the user, so you must be a power user (no pun intended lol). You're responsible dealing with issues should they occur, often on your own. But the upside is that it's extremely customizable, blazing fast, boots up fast, takes up little memory and RAM, and none of the aforementioned downsides of Windows. Like Felix Kjellberg said, Linux is built modular. You can swap your GUI entirely, unlike Windows 10/11 which you're stuck with Metro/Fluent UI.
+	 - Why do I use Windows 11 but not Windows 11 Enterprise LTSC/Enterprise IoT LSTC? Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
+		 - microsoft.com/en-us/evalcenter/download-windows-11-enterprise
+		 - microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval
+	 - What about other Windows 11 ISO? No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
 
-		+ Why do I have to navigate around menus like Run and Control Panel? Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, Microsoft primarily caters to businesses, and businesses being themselves, old interfaces stuck around.
-
-		+ Why some core applications of Windows 11 are omitted, such as Microsoft Photos? Here's the naked truth: they suck. Microsoft Photos rely on WebView2 from Microsoft Edge, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
-
-		+ Regarding downloading Microsoft Office, to download it you have to to go through Microsoft 365, which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software: microsoft.com/microsoft-365/microsoft-office → scroll down to Frequently asked questions
-		  Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how or when.
-
-――――――――――――――――――――――――――――――――――――――――――――――――――
-
-	- Linux?
-		+ Why don't I switch to Linux already? I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (⊞), directory structure (C:), system applications (File Explorer), OS security (UAC), and GUI (Metro / Fluent) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (❖), directory structure (/), system applications (Nemo / Dolphin / Nautilus / ...), OS security (sudo) and GUI (Cinnamon / KDE Plasma / GNOME / ...). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
-
-		+ Linux is indubitably better than Windows in every front. Yes, I can't agree more. It gives power to the user, so you must be a power user (no pun intended lol). You're responsible dealing with issues should they occur, often on your own. But the upside is that it's extremely customizable, blazing fast, boots up fast, takes up little memory and RAM, and none of the aforementioned downsides of Windows. Like Felix Kjellberg said, Linux is built modular. You can swap your GUI entirely, unlike Windows 10/11 which you're stuck with Metro/Fluent UI.
-
-		+ Why do I use Windows 11 but not Windows 11 Enterprise LTSC/Enterprise IoT LSTC? Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
-			• microsoft.com/en-us/evalcenter/download-windows-11-enterprise
-			• microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval
-
-		+ What about other Windows 11 ISO? No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
-
-――――――――――――――――――――――――――――――――――――――――――――――――――
-
-	- [Main & Additional Browser]: Please do your research and download your desired browser(s) at your own discretion.
-		+ Chromium-based includes Chrome and other browsers based on Chromium: wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome
-
-		+ Firefox fork includes Firefox and other browsers based on Firefox: en.wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox
-
-		+ Generally, Chromium-based browsers are more privacy invasive (except for some notable ones like Brave) but well established since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more privacy and security-centric, and some even offer speed and customizablity.
-
-		+ As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
-
-		+ Edge, despite being heavily privacy invasive, is extremely good. It's well optimized for performance and battery life, packed with lots of nice and useful features (e.g. vertical tabs, split screen, video enhancement), and supports Fluent design. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
+- [Main & Additional Browser]: Please do your research and download your desired browser(s) at your own discretion.
+	 - Chromium-based includes Chrome and other browsers based on Chromium: wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome
+	 - Firefox fork includes Firefox and other browsers based on Firefox: en.wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox
+	 - Generally, Chromium-based browsers are more privacy invasive (except for some notable ones like Brave) but well established since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more privacy and security-centric, and some even offer speed and customizablity.
+	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
+	 - Edge, despite being heavily privacy invasive, is extremely good. It's well optimized for performance and battery life, packed with lots of nice and useful features (e.g. vertical tabs, split screen, video enhancement), and supports Fluent design. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
 
 Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Have a nice day! ヾ(•ω•`)o
