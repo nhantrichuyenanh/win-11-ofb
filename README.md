@@ -114,7 +114,7 @@ After Windows 11 is installed:
   - Netlogon
   - Parental Controls
   - Print Spooler `(don't disable it if you have a printer at home and you use it)`
-  - Phone Service `(disable if you don't use)`[Phone Link](microsoft.com/windows/sync-across-your-devices "Microsoft")
+  - Phone Service `(disable if you don't use)`[Phone Link](https://microsoft.com/windows/sync-across-your-devices "Microsoft")
   - Remote Access Auto Connection Manager
   - Remote Desktop Configuration
   - Remote Desktop Services
