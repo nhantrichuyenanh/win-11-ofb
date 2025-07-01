@@ -125,7 +125,7 @@ After Windows 11 is installed:
   - SmartCard Device Enumeration Service
   - SmartCard Removal Policy
   - SysMain `(disable it if your storage device is HDD, Task Manager → Performance → Disk 0 (C:))`
-  - TCP/IP NetBIOS Helper `(disable it if you don't use)`[Workgroup](wikipedia.org/wiki/Workgroup_(computer_networking) "Wikipedia")
+  - TCP/IP NetBIOS Helper `(disable it if you don't use)`[Workgroup](https://wikipedia.org/wiki/Workgroup_(computer_networking) "Wikipedia")
   - Touch Keyboard and Handwriting Panel Service `(disable it if you aren't a digital artist)`
   - WalletService
   - Windows Biometric Service `(disable it if you don't use Windows Hello)`
