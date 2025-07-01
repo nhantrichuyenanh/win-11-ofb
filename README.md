@@ -375,7 +375,7 @@ Z
 	- Customize Toolbar...
 	- Bookmarks Toolbar → Open All in Tabs `(to load all favicons in bookmarks)`
 	- Ctrl + H → View ⌵ → By Last Visited
-	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [🖱](🗀/BrowserModification.md)
+	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [🔍︎](🗀/BrowserModification.md)
 	- [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)
 
 ![[June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
