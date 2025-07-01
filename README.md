@@ -218,7 +218,7 @@ After Windows 11 is installed:
     `Win + R → intl.cpl → Formats`
 
   - #### Power Options:
-    `Win + R → control.exe powercfg.cpl,,3`
+    `Win + R → powercfg.cpl`
 
   - #### Internet Properties:
   `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
