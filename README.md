@@ -22,7 +22,7 @@ After Windows 11 is installed:
 - boot into BIOS to enable Fastboot if haven't. I thoroughly recommend exploring other settings to optimize BIOS, provided that you know what you're doing or seek guidance from AI if you're uncertain;
 - immediately open `Settings → Windows Update → Check for updates`. You might have to do this once or twice. Also, check `System → Storage → Remove Temporary Files` while you're at it;
 - update BIOS by visiting your PC manufacturer's website and drivers via Windows Update, your PC manufacturer's website, or third-party tools like [Snappy Driver Installer](sdi-tool.org/download/ "Glenn Delahoy");
-- (OPTIONAL) join Windows Insider Program. You get early access to new features, like text extractor and color picker in Snipping Tool, or basic text formatting options in Notepad as of writing this in June 2025. Don't join if your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, or you want maximum stability and don't care about feature updates. For more information, visit [here](https://youtu.be/YQFx6C6SL08 "ThioJoe").
+- (OPTIONAL) join Windows Insider Program. You get early access to new features, like text extractor and color picker in Snipping Tool, or basic text formatting options in Notepad as of writing this in June 2025. Don't join if your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, or you want maximum stability and don't care about feature updates. [🔍︎](https://youtu.be/YQFx6C6SL08 "ThioJoe").
 
 ---
 
@@ -249,7 +249,7 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- Main & Additional Browser: for more information please check [here](#vi-wrapping-things-up)
+- Main & Additional Browser: [🔍︎](#vi-wrapping-things-up)
 	- Chromium-based: [Brave](https://brave.com/download "Brendan Eich and Brian Bondy") / [Deta Surf](https://deta.surf "Deta") / [Vivaldi](https://vivaldi.com/download "Vivaldi Technologies") / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download "Floorp Projects") / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download "Zen Browser Team") / ...
 
@@ -301,7 +301,7 @@ N
 - Notepad
 
 O
-- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) `(check`[here](#vi-wrapping-things-up)`for more information)`
+- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) [🔍︎](#vi-wrapping-things-up)
 - OnionMedia
 
 P
