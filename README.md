@@ -388,7 +388,7 @@ C
 
 D
 - Discord:
-	- Themes: ClearVision; EmojiReplace; RadialStatus
+	- Themes: [ClearVision](https://betterdiscord.app/theme/ClearVision); [EmojiReplace](https://betterdiscord.app/theme/EmojiReplace); [RadialStatus](https://betterdiscord.app/theme/RadialStatus)
  	- Plugins:
 		- AccountPanelServerProfile; AlwaysAnimate; AlwaysExpandRoles; AlwaysTrust;
 		- BetterFolders; BetterGifAltText; BetterNotesBox; BetterRoleContext; BetterRoleDot; BetterSessions; BetterSettings; BetterUploadButton; BlurNSFW;
