@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!IMPORTANT]
-> This guide assumes you can navigate Windows using menu interfaces. Check [here](#vi-wrapping-things-up) for more information.
+> This guide assumes you can navigate Windows using menu interfaces. Check [here](#afterthought) for more information.
 
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
@@ -282,7 +282,7 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- Main & Additional Browser: [🔍︎](#vi-wrapping-things-up "VI. Wrapping things up")
+- Main & Additional Browser: [🔍︎](#afterthought "Afterthought")
 	- Chromium-based: [Brave](https://brave.com/download "Brendan Eich and Brian Bondy") / [Deta Surf](https://deta.surf "Deta") / [Vivaldi](https://vivaldi.com/download "Vivaldi Technologies") / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download "Floorp Projects") / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download "Zen Browser Team") / ...
 
@@ -334,7 +334,7 @@ N
 - Notepad
 
 O
-- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) [🔍︎](#vi-wrapping-things-up "VI. Wrapping things up")
+- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) [🔍︎](#afterthought "Afterthought")
 - OnionMedia
 
 P
