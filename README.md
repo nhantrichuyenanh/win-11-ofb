@@ -505,7 +505,7 @@ W
 
 ## VI. Wrapping things up
 
-After installing and configuring apps and software: 🀦 → [June 2025] Desktop
+After installing and configuring apps and software:
 - Reboot
 - Ctrl + Shift + Esc → Startup apps
 - Start Menu:
@@ -529,6 +529,8 @@ After installing and configuring apps and software: 🀦 → [June 2025] Desktop
 sfc /scanfile=C:\Windows\System32\ieframe.dll  
 sfc /verifyfile=C:\Windows\System32\ieframe.dll
 ```
+
+![[June 2025] Desktop](🀦/[June-2025]-Desktop.png)
 
 ## ‧₊˚♪ PC is good to go 𝄞₊˚⊹
 
