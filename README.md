@@ -598,7 +598,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
 	> Why don't I switch to Linux already?
 
-	I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (**⊞**), directory structure (**C:**), system applications (**File Explorer**), OS security (**UAC**), and GUI (**Windows shell: Metro / Fluent**) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (**❖**), directory structure (**/**), system applications (**Nemo / Dolphin / Nautilus / ...**), OS security (**sudo**) and GUI (**Linux DEs: Cinnamon / KDE Plasma / GNOME / ...**). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
+	I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (**⊞**), directory structure (**C:**), system applications (**File Explorer**), OS security (**UAC**), and GUI (Windows shell: **Metro / Fluent**) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (**❖**), directory structure (**/**), system applications (**Nemo / Dolphin / Nautilus / ...**), OS security (**sudo**) and GUI (Linux DEs: **Cinnamon / KDE Plasma / GNOME / ...**). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
 
 	> Linux is indubitably better than Windows in every front.
 
@@ -619,4 +619,5 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily privacy invasive, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can remove Edge telemetry through third party software or just use it straight out of the box if privacy isn't your chief concern.
 
+> [!NOTE]
 > Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Have a nice day! ヾ(•ω•`)o
