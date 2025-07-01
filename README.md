@@ -568,12 +568,11 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 **‧₊˚♪ PC is good to go 𝄞₊˚⊹**
 
 ### Afterthought:
-- Why don't I write this guide on, say GitHub or on my self-hosted website, instead of Google Drive? They're suited for technical guides like this. Well, I've thought about it before and maybe in hindsight I should have. This guide could use some markdown for better legibility, but ultimately I chose familiarity over it. Not everyone's a programmer who have used GitHub, amirite? And I can't be bothered to host my own website, because it would entail in maintenance, which as a student is out of the question.
+- Originally, this guide was writen on Google Drive because it was a side project. As it accumulates more information, maintaining and reading it became harder to do so. I was hesitant about migrating to GitHub since not everyone's a programmer but for the sake of maintenance and legibility I had to take the plunge.
 
-	- Windows 11:
-		+ Why do I have to go through system modification? The truth of the matter is that Windows 11 sucks. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. Microsoft keeps shooting itself in the foot, so that's why.
-
-		+ Why do I have to disable so many unnecessary services? Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
+- Windows 11:
+	- Why do I have to go through system modification? The truth of the matter is that Windows 11 sucks. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. Microsoft keeps shooting itself in the foot, so that's why.
+	- Why do I have to disable so many unnecessary services? Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
 
 		+ Why don't I just buy a Windows 11 product key? After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a B2B model, so Windows as an OS is neglected. Not only do you have to pay to use the service but have your data harvested from using the service itself with advertisements being shoved down your throat. It's utterly ridiculous.
 
