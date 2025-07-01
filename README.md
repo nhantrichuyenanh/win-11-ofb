@@ -249,7 +249,7 @@ Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object Displa
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- Main & Additional Browser: [🔍︎](#vi-wrapping-things-up)
+- Main & Additional Browser: [🔍︎](#vi-wrapping-things-up "VI. Wrapping things up")
 	- Chromium-based: [Brave](https://brave.com/download "Brendan Eich and Brian Bondy") / [Deta Surf](https://deta.surf "Deta") / [Vivaldi](https://vivaldi.com/download "Vivaldi Technologies") / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download "Floorp Projects") / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download "Zen Browser Team") / ...
 
@@ -301,7 +301,7 @@ N
 - Notepad
 
 O
-- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) [🔍︎](#vi-wrapping-things-up)
+- [Office 2021](https://microsoft.com/en-us/microsoft-365/download-office#download) [🔍︎](#vi-wrapping-things-up "VI. Wrapping things up")
 - OnionMedia
 
 P
@@ -375,7 +375,7 @@ Z
 	- Customize Toolbar...
 	- Bookmarks Toolbar → Open All in Tabs `(to load all favicons in bookmarks)`
 	- Ctrl + H → View ⌵ → By Last Visited
-	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [🔍︎](🗀/BrowserModification.md)
+	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [🔍︎](🗀/BrowserModification.md "Browser Modification")
 	- [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)
 
 ![[June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
