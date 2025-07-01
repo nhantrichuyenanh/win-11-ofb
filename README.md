@@ -110,7 +110,7 @@ After Windows 11 is installed:
   - Hyper-V Data Exchange Service `(disable all Hyper-V services if you don't use a virtual machine)`
   - [...]
   - Hyper-V Volume Shadow Copy Requestor
-  - IP Helper `(disable it if you don't use IPv6, visit here for validation: test-ipv6.com)`
+  - IP Helper `(disable it if you don't use IPv6, visit` [here](https://test-ipv6.com) `for validation)`
   - Netlogon
   - Parental Controls
   - Print Spooler `(don't disable it if you have a printer at home and you use it)`
