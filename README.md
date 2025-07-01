@@ -167,15 +167,15 @@ After Windows 11 is installed:
 
 ## III. Setting things up
 
-### - Mouse Cursor and Font
+### 1. Mouse Cursor and Font
 - [Mouse Cursor](⛁/deviantart-jepricreations-cursor)
 - [Fonts](⛁/fonts)
 
-###- **AccentColorizer**:  
+### 2. AccentColorizer:  
    - [AccentColorizer](https://github.com/krlvm/AccentColorizer "krlvm")  
    - [AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11 "krlvm")
 
-### - **File Explorer**:
+### 3. File Explorer:
   - [Mica Explorer](https://github.com/Maplespe/ExplorerBlurMica "Maplespe")
   - Configure Quick access
   - Show details pane
@@ -183,7 +183,7 @@ After Windows 11 is installed:
  
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
-### - **Settings**:
+### 4. Settings:
   - **Activate Windows (Admin PowerShell)**: ```irm https://get.activated.win | iex```
   - `Win + I`  
 	- System
@@ -198,8 +198,8 @@ After Windows 11 is installed:
 	- Privacy & security
 	- Windows Update
 
-### - **Control Panel**:
-  - **Visual Effects**: `Win + R → SystemPropertiesPerformance.exe`
+### 5. Control Panel:
+  - #### **Visual Effects**: `Win + R → SystemPropertiesPerformance.exe`
   - **Region**: `Win + R → intl.cpl → Formats`
   - **Power Options**: `Win + R → control.exe powercfg.cpl,,3`
   - **Internet Properties**: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
@@ -233,7 +233,7 @@ After Windows 11 is installed:
 Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
 ```
 
-### - **Device Manager**: `Win + R → devmgmt.msc`
+### 6. Device Manager: `Win + R → devmgmt.msc`
   - Audio inputs and outputs: disable the ones you don't use
   - Network adapters:
     - disable the ones you don't use like Ethernet for many people
