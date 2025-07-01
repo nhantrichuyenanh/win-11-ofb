@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!IMPORTANT]
-> This guide assumes you have experience in using Windows.
+> This guide assumes you can navigate Windows using menu interfaces.
 
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
