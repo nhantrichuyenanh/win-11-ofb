@@ -21,7 +21,7 @@
 After Windows 11 is installed:
 - boot into BIOS to enable Fastboot if haven't. I thoroughly recommend exploring other settings to optimize BIOS, provided that you know what you're doing or seek guidance from AI if you're uncertain;
 - immediately open `Settings → Windows Update → Check for updates`. You might have to do this once or twice. Also, check `System → Storage → Remove Temporary Files` while you're at it;
-- update BIOS by visiting your PC manufacturer's website and drivers via Windows Update, your PC manufacturer's website, or third-party tools like [Snappy Driver Installer](sdi-tool.org/download/ "Glenn Delahoy");
+- update BIOS by visiting your PC manufacturer's website and drivers via Windows Update, your PC manufacturer's website, or third-party tools like [Snappy Driver Installer](https://sdi-tool.org/download/ "Glenn Delahoy");
 - (OPTIONAL) join Windows Insider Program. You get early access to new features, like text extractor and color picker in Snipping Tool, or basic text formatting options in Notepad as of writing this in June 2025. Don't join if your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, or you want maximum stability and don't care about feature updates. [🔍︎](https://youtu.be/YQFx6C6SL08 "ThioJoe").
 
 ---
