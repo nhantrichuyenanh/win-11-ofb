@@ -375,7 +375,7 @@ Z
 	- Customize Toolbar...
 	- Bookmarks Toolbar → Open All in Tabs `(to load all favicons in bookmarks)`
 	- Ctrl + H → View ⌵ → By Last Visited
-	- `about:flags` (Chromium-based) / `about:config` (Firefox fork) (🗀 → Browser Modification)
+	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [Browser Modification](🗀/BrowserModification.md)
 	- [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)
 
 ![[June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
@@ -497,9 +497,9 @@ W
 	- Taskbar Thumbnail Reorder
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
-	- [Windows 11 Start Menu Styler](🗀 → [Windhawk] Windows 11 Styler)
-	- [Windows 11 Taskbar Styler](🗀 → [Windhawk] Windows 11 Styler)
-	- [Windows 11 Notification Styler](🗀 → [Windhawk] Windows 11 Styler)
+	- [Windows 11 Start Menu Styler](🗀/[Windhawk]W11StartMenuStyler.txt)
+	- [Windows 11 Taskbar Styler](🗀/[Windhawk]W11TaskbarStyler.txt)
+	- [Windows 11 Notification Styler](🗀/[Windhawk]W11NotificationStyler.txt)
 
 ---
 
