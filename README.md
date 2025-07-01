@@ -574,6 +574,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	> Why do I have to go through system modification?
 
 	The truth of the matter is that *Windows 11 sucks*. It's filled with bloatware, unnecessary services running in the background, too much telemetry, and now AI nonsense no one asks for. **Microsoft keeps shooting itself in the foot**, so that's why.
+
 	> Why do I have to disable so many unnecessary services?
 
 	Well, even though disabling them has a negligible impact performance and battery life, you disable unnecessary services. DUH! After all not everyone has a printer at home (Print Spooler), use BitLocker (BitLocker Drive Encryption Service), or search files via Windows Search (Windows Search).
@@ -584,13 +585,15 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	> Why do I have to navigate around menus like Run and Control Panel?
 
-Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, *Microsoft primarily caters to businesses*, and businesses being themselves, old interfaces stuck around.
+	Because that's where I get real work done. Just bear with the dark mode inconsistency. As said before, *Microsoft primarily caters to businesses*, and businesses being themselves, old interfaces stuck around.
+
 	> Why some core applications of Windows 11 are omitted, such as Microsoft Photos?
 
-Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
+	Here's the naked truth: they suck. *Microsoft Photos rely on WebView2 from Microsoft Edge*, so removing it means rendering that useless. Why do I need to rely on the web to view images locally on my PC? Also, Windows Media Player lacks codec support for obscure or specialized video and audio ones.
+
 	> Regarding downloading Microsoft Office, to download it you have to to go through [Microsoft 365](https://microsoft.com/microsoft-365/microsoft-office), which isn't free and is basically Microsoft Office bundled with OneDrive, Microsoft Teams, and other Microsoft productivity software.
 
-Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
+	Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
 
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
 	 - **Why don't I switch to Linux already?** I could have gone with Linux distros like Linux Mint or Arch Linux, but I still stick with Windows since I spent a decade using it. I've memorized all the hotkeys (**⊞**), directory structure (**C:**), system applications (**File Explorer**), OS security (**UAC**), and GUI (**Windows shell: Metro / Fluent**) for it. Moving to Linux meant that I would have to relearn everything from hotkeys (**❖**), directory structure (**/**), system applications (**Nemo / Dolphin / Nautilus / ...**), OS security (**sudo**) and GUI (**Linux DEs: Cinnamon / KDE Plasma / GNOME / ...**). Not only that but I would have to also have to learn how to use the terminal and commands for it too. It's too much of an upfront investment.
