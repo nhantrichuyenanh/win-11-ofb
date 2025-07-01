@@ -221,7 +221,7 @@ After Windows 11 is installed:
     `Win + R → powercfg.cpl`
 
   - #### Internet Properties:
-  `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
+    `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
 
   - #### Sound:
     `Win + R → mmsys.cpl`
