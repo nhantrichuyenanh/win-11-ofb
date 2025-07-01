@@ -11,6 +11,18 @@
   - [6. Registry Hacks](#6-registry-hacks)
   - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
 - [III. Setting things up](#iii-setting-things-up)
+  - [1. Mouse Cursor and Font](#1-mouse-cursor-and-font)
+  - [2. AccentColorizer](#2-accentcolorizer)
+  - [3. File Explorer](#3-file-explorer)
+    - [Visual Effects](#visual-effects)
+    - [Region](#region)
+    - [Power Options](#power-options)
+    - [Internet Properties](#internet-properties)
+    - [Sound](#sound)
+    - [Network Connections](#network-connections)
+  - [4. Settings](#4-settings)
+  - [5. Control Panel](#5-control-panel)
+  - [6. Device Manager](#6-device-manager)
 - [IV. Installing software](#iv-installing-software)
 - [V. Configuring software](#v-configuring-software)
 - [VI. Wrapping things up](#vi-wrapping-things-up)
@@ -244,7 +256,8 @@ After Windows 11 is installed:
 Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
 ```
 
-### 6. Device Manager: `Win + R → devmgmt.msc`
+### 6. Device Manager:
+`Win + R → devmgmt.msc`
   - Audio inputs and outputs: disable the ones you don't use
   - Network adapters:
     - disable the ones you don't use like Ethernet for many people
