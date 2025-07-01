@@ -17,12 +17,6 @@
   - [3. File Explorer](#3-file-explorer)
   - [4. Settings](#4-settings)
   - [5. Control Panel](#5-control-panel)
-    - [Visual Effects](#visual-effects)
-    - [Region](#region)
-    - [Power Options](#power-options)
-    - [Internet Properties](#internet-properties)
-    - [Sound](#sound)
-    - [Network Connections](#network-connections)
   - [6. Device Manager](#6-device-manager)
 - [IV. Installing software](#iv-installing-software)
 - [V. Configuring software](#v-configuring-software)
@@ -212,28 +206,19 @@ After Windows 11 is installed:
 	- Windows Update
 
 ### 5. Control Panel:
-  - #### Visual Effects:
-    `Win + R → SystemPropertiesPerformance.exe`
+  - Visual Effects: `Win + R → SystemPropertiesPerformance.exe`
+  - Region: `Win + R → intl.cpl → Formats`
+  - Power Options: `Win + R → powercfg.cpl`
+  - Internet Properties: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
 
-  - #### Region:
-    `Win + R → intl.cpl → Formats`
-
-  - #### Power Options:
-    `Win + R → powercfg.cpl`
-
-  - #### Internet Properties:
-    `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
-
-  - #### Sound:
-    `Win + R → mmsys.cpl`
+  - Sound: `Win + R → mmsys.cpl`
      - Communications → When Windows detects communications activities: Do nothing
      - Playback → select the speaker your PC is using as output → Properties:
      	- Spatial sound → Windows Sonic for Headphones
      	- If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization.
      	- If not: `Win + R → devmgmt.msc` → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
 
-  - #### Network Connections:
-    `Win + R → ncpa.cpl` → double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
+  - Network Connections: `Win + R → ncpa.cpl` → double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
      - Network connection Properties: uncheck
      	- Client for Microsoft Networks
      	- File and Printer Sharing for Microsoft Networks
