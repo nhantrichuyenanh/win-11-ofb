@@ -311,6 +311,9 @@ I
 - [Image Glass](https://imageglass.org/releases)
 	- [WinUI3 Dark](https://imageglass.org/theme/winui3-dark-mizan-53)
 
+K
+- [Kdenlive](https://kdenlive.org/download)
+
 M
 - [Microsoft Teams](https://microsoft.com/en-us/microsoft-teams/download-app)
 - [MinGW (VS Code)](https://code.visualstudio.com/docs/cpp/config-mingw)
