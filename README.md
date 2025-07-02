@@ -448,7 +448,7 @@ I
 ![🀦 → [June 2025] ImageGlass](🀦/[June-2025]-ImageGlass.png)
 
 N
-- Nilesoft Shell: C:\Program Files\Nilesoft Shell\imports\theme.nss
+- Nilesoft Shell: `C:\Program Files\Nilesoft Shell\imports\theme.nss`
 ```
 theme
 {
@@ -525,7 +525,7 @@ W
 
 ### After installing and configuring apps and software:
 - Reboot
-- Ctrl + Shift + Esc → Startup apps
+- Task Manager → Startup apps
 - Start Menu:
 	- `C:\Users\[NAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`
 	- `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
