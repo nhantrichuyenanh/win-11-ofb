@@ -24,7 +24,7 @@
   - [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software)
   - [Afterthought](#afterthought)
 
-
+![Windows 11 2025](🀦/Windows-11-2025-by-AR-4789-on-YouTube.png "AR 4789")
 
 ---
 
