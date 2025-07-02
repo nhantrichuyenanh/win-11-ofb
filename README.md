@@ -207,7 +207,7 @@ After Windows 11 is installed:
 	- Windows Update
 
 ### 5. Control Panel:
-  - **Visual Effects**: `Win + R → SystemPropertiesPerformance.exe`
+  - **System Properties**: `Win + R → sysdm.cpl`
   - **Region**: `Win + R → intl.cpl → Formats`
   - **Power Options**: `Win + R → powercfg.cpl`
   - **Internet Properties**: `Win + R → inetcpl.cpl → Connections → LAN settings →` uncheck `Automatically detect settings`
