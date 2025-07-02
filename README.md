@@ -1,4 +1,5 @@
 # Windows 11 Order of Business:
+![Windows 11 2025](🀦/Windows-11-2025-by-AR-4789-on-YouTube.png "AR 4789")
 > [!IMPORTANT]
 > This guide assumes you can navigate Windows using menu interfaces and know what adapters your PC is using. Check [here](#afterthought) for Q&A.
 
@@ -23,8 +24,6 @@
 - [VI. Wrapping things up](#vi-wrapping-things-up)
   - [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software)
   - [Afterthought](#afterthought)
-
-![Windows 11 2025](🀦/Windows-11-2025-by-AR-4789-on-YouTube.png "AR 4789")
 
 ---
 
