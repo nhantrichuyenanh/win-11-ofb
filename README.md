@@ -403,6 +403,11 @@ Z
 A
 - AB Download Manager: Tools → Settings `(remember to also configure the browser extension's settings for it)`
 
+B
+- BCUninstaller: Tools
+	- Open Startup Manager
+ 	- Clean up "Program Files" folders...
+
 C
 - Camomile App: Settings
 
@@ -527,7 +532,6 @@ W
 
 ### After installing and configuring apps and software:
 - Reboot
-- Task Manager → Startup apps
 - Start Menu:
 	- `C:\Users\[NAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs`
 	- `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
