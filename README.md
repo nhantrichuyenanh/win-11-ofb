@@ -1,6 +1,6 @@
 # Windows 11 Order of Business:
 > [!IMPORTANT]
-> This guide assumes you can navigate Windows using menu interfaces. Check [here](#afterthought) for Q&A.
+> This guide assumes you can navigate Windows using menu interfaces and know what adapters your PC is using. Check [here](#afterthought) for Q&A.
 
 - [I. Preparations](#i-preparations)
 - [II. System modifications](#ii-system-modifications)
@@ -152,7 +152,7 @@ After Windows 11 is installed:
 - `Win + R → msconfig → Services → Hide all Microsoft services → Disable all → Apply → OK`
 
 ### 3. Disable stealing bandwidth:
-`Win + R → gpedit.msc, Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
+`Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
 
 ### 4. Enable Clipboard History:
 - `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
