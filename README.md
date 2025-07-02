@@ -223,7 +223,7 @@ After Windows 11 is installed:
      	- Client for Microsoft Networks
      	- File and Printer Sharing for Microsoft Networks
      	- Microsoft LLDP Protocol Driver
-     	- Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use IPv6: test-ipv6.com)`
+     	- Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use` [IPv6](https://test-ipv6.com)`)`
      	- Link-Layer Topology Discovery Responder
      	- Link-Layer Topology Discovery Mapper I/O Driver
     - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
