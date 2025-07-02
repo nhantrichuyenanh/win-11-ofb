@@ -554,6 +554,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 ### Afterthought:
 - Originally, this guide was writen on Google Drive because it was a side project. As it snowballed into a full-fledged guide, maintaining and reviewing it became increasingly challenging. I was hesitant about migrating to GitHub since not everyone's a programmer but I had to take the plunge for the sake of maintenance and legibility.
+- `Win + R → msinfo32 → System Summary → Components` to check what adapters your PC is using.
 
 - **Windows 11**:
 	> Why do I have to go through system modification?
