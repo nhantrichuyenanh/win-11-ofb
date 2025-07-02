@@ -44,7 +44,7 @@ After Windows 11 is installed:
 
 **Required:**
 - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel")
-- The Ultimate Windows Utility (Admin PowerShell): ```iwr -useb https://christitus.com/win | iex```
+- Chris Titus Tech's Windows Utility (Admin PowerShell): `iwr -useb https://christitus.com/win | iex`
   - Tweaks
   - O&O ShutUp10++
 - [RyTuneX](https://rayenghanmi.me/rytunex/download.html "Rayen Ghanmi")
@@ -97,6 +97,7 @@ After Windows 11 is installed:
 - [Wintoys](https://apps.microsoft.com/detail/9P8LTPGCBZXD "Bogdan Pătrăucean")
 
 **Optional:**
+- [Sparkle](https://github.com/Parcoil/Sparkle/releases)
 - [Winhance](https://winhance.net "Marco du Plessis")
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
 
@@ -191,7 +192,7 @@ After Windows 11 is installed:
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
 ### 4. Settings:
-  - **Activate Windows (Admin PowerShell)**: ```irm https://get.activated.win | iex```
+  - **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex`
   - `Win + I`  
 	- System
 	- Bluetooth & devices
@@ -480,7 +481,7 @@ theme
 ```
 
 O
-- Office 2021: activate it through Administrator PowerShell → ```irm https://get.activated.win | iex```
+- Office 2021: activate it through Administrator PowerShell → `irm https://get.activated.win | iex`
 	- Account → Account Privacy: Manage Settings
 	- Account → Microsoft 365 and Office Updates → Update Options → Update Now
 	- Options
@@ -544,7 +545,7 @@ W
 	- Repair → check DISM and SFC → Scan
 - `Win + R → cmd → Ctrl + Shift + Enter`: to check if ieframe.dll is corrupted because it’s a core component of Internet Explorer `(even though it is deprecated, some legacy applications and internal tools might still depend on it)`
 ```
-sfc /scanfile=C:\Windows\System32\ieframe.dll  
+sfc /scanfile=C:\Windows\System32\ieframe.dll
 sfc /verifyfile=C:\Windows\System32\ieframe.dll
 ```
 
@@ -592,7 +593,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	> Why do I use Windows 11 but not [Windows 11 Enterprise LTSC](https://microsoft.com/en-us/evalcenter/download-windows-11-enterprise "Microsoft")/[Enterprise IoT LSTC](https://microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval "Microsoft")?
 
-	Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware but still have some unnecessary services running in the background and telemetry.
+	Simple. Because the latter doesn't release feature updates. I actually have used it before and it's indeed much faster, no bloatware and AI nonsense but still have telemetry and some unnecessary services running in the background.
 
 	> What about other Windows 11 ISO?
 
