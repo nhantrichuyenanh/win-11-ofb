@@ -24,6 +24,8 @@
   - [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software)
   - [Afterthought](#afterthought)
 
+
+
 ---
 
 ## I. Preparations
