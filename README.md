@@ -194,7 +194,7 @@ After Windows 11 is installed:
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
 ### 4. Settings:
-  - **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex`
+  - **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex` or `irm https://massgrave.dev/get | iex`
   - `Win + I`  
 	- System
 	- Bluetooth & devices
