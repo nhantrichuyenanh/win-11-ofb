@@ -491,7 +491,7 @@ theme
 ```
 
 O
-- Office 2021: activate it through Administrator PowerShell → `irm https://get.activated.win | iex`
+- Office 2021: activate it through Administrator PowerShell → `irm https://get.activated.win | iex` or `irm https://massgrave.dev/get | iex`
 	- Account → Account Privacy: Manage Settings
 	- Account → Microsoft 365 and Office Updates → Update Options → Update Now
 	- Options
