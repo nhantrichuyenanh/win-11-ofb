@@ -194,7 +194,9 @@ After Windows 11 is installed:
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
 ### 4. Settings:
-  - **Activate Windows (Admin PowerShell)**: `irm https://get.activated.win | iex` or `irm https://massgrave.dev/get | iex`
+  - **Activate Windows (Admin PowerShell)**:
+  	- `irm https://get.activated.win | iex`
+   	- `irm https://massgrave.dev/get | iex`
   - `Win + I`  
 	- System
 	- Bluetooth & devices
@@ -491,7 +493,9 @@ theme
 ```
 
 O
-- Office 2021: activate it through Administrator PowerShell → `irm https://get.activated.win | iex` or `irm https://massgrave.dev/get | iex`
+- Office 2021: activate it through Administrator PowerShell
+	- `irm https://get.activated.win | iex`
+	- `irm https://massgrave.dev/get | iex`
 	- Account → Account Privacy: Manage Settings
 	- Account → Microsoft 365 and Office Updates → Update Options → Update Now
 	- Options
