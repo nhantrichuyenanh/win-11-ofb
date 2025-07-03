@@ -421,24 +421,75 @@ D
 - Discord:
 	- Themes: [ClearVision](https://betterdiscord.app/theme/ClearVision "BetterDiscord"); [EmojiReplace](https://betterdiscord.app/theme/EmojiReplace "BetterDiscord"); [RadialStatus](https://betterdiscord.app/theme/RadialStatus "BetterDiscord")
  	- Plugins:
-		- AccountPanelServerProfile; AlwaysAnimate; AlwaysExpandRoles; AlwaysTrust;
-		- BetterFolders; BetterGifAltText; BetterNotesBox; BetterRoleContext; BetterRoleDot; BetterSessions; BetterSettings; BetterUploadButton; BlurNSFW;
-		- CallTimer; ClearURLs; CopyFileContents; CopyUserURLs; CrashHandler; (CtrlEnterSend)
-		- FakeNitro; FavoriteEmojiFirst; FixImagesQuality; (FixSpotifyEmbeds; FixYoutubeEmbeds); ForceOwnerCrown; FriendInvites; FriendsSince; FullSearchContext
-		- GameActivityToggle; GifPaste
-		- HideAttachments;
-		- ImageLink; ImageZoom; ImplicitRelationships; InvisibleChat;
-		- MemberCount; MentionAvatars; MessageClickActions; MessageLatency; MessageLinkEmbeds; MoreKaomoji; MoreUserTags; MutualGroupDMs;
-		- NewGuildSettings; NoF1; NoMaskedUrlPaste;
-		- PermissionsViewer; PictureInPicture; PlatformIndicators; PreviewMessage;
-		- QuickMention; QuickReply;
-		- ReadAllNotificationsButton; RevealAllSpoilers; ReviewDB; RoleColorEverywhere;
-		- SendTimestamps; ServerInfo; ServerListIndicators; ShowAllMessageButtons; ShowConnections; ShowHiddenChannels; ShowHiddenThings; ShowMeYourName; ShowTimeoutDuration; SilentMessageToggle; SilentTyping; SortFriendRequests; (SpotifyControls; SpotifyCrack); StartupTimings; Summaries; SuperReactionTweaks;
-		- Translate; TimeBarAllActivities; TypingIndicator; TypingTweaks;
+		- AlwaysAnimate
+		- AlwaysExpandRoles
+		- AlwaysTrust
+		- BetterFolders
+		- BetterGifAltText
+		- BetterNotesBox
+		- BetterRoleContext
+		- BetterSessions
+		- BetterSettings
+		- BetterUploadButton
+		- BlurNSFW
+		- ClearURLs
+		- CopyFileContents
+		- CopyUserURLs
+		- FakeNitro
+		- FavoriteEmojiFirst
+		- FixImagesQuality
+		- ForceOwnerCrown
+		- FriendsSince
+		- FullSearchContext
+		- GameActivityToggle
+		- ImageZoom
+		- ImplicitRelationships
+		- InvisibleChat
+		- MemberCount
+		- MentionAvatars
+		- MessageClickActions
+		- MessageLatency
+		- MessageLinkEmbeds
+		- MutualGroupDMs
+		- NoBlockedMessages
+		- NoF1
+		- NoMaskedUrlPaste
+		- PermissionsViewer
+		- PictureInPicture
+		- PlatformIndicators
+		- PreviewMessage
+		- QuickMention
+		- QuickReply
+		- ReadAllNotificationsButton
+		- RevealAllSpoilers
+		- ReverseImageSearch
+		- ReviewDB
+		- RoleColorEverywhere
+		- SendTimestamps
+		- ServerInfo
+		- ServerListIndicators
+		- ShowAllMessageButtons
+		- ShowConnections
+		- ShowHiddenChannels
+		- ShowHiddenThings
+		- ShowMeYourName
+		- ShowTimeoutDuration
+		- SilentMessageToggle
+		- SilentTyping
+		- SortFriendRequests
+		- StartupTimings
+		- Summaries
+		- SuperReactionTweaks
+		- Translate
+		- TimeBarAllActivities
+		- TypingIndicator
+		- TypingTweaks
 		- UserMessagesPronouns
-		- ViewIcons; VoiceChatDoubleClick;
+		- ValidReply
+		- ValidUser
+		- ViewIcons
+		- VoiceChatDoubleClick
 		- WhoReacted
-		- (YoutubeAdblock)
 
 E
 - Everything: Tools → Options...
