@@ -1,5 +1,4 @@
 # Windows 11 Order of Business:
-![Illustration](🀦/MS_EMOJI_310_v002_4k_1084.jpg "Microsoft Design")
 > [!IMPORTANT]
 > This guide assumes you can navigate Windows using menu interfaces and know what adapters your PC is using. Check [here](#afterthought) for Q&A.
 
