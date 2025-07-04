@@ -5,7 +5,7 @@
 
 | Section | Subsection | Description |
 |--------|------------|-------------|
-| [I. Preparations](#i-preparations) | — | Initial preparations before system changes. |
+| [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
 | [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak core system settings. |
 |  | [2. Disable unnecessary services](#2-disable-unnecessary-services) | Self-explanatory. |
 |  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Prevent Microsoft from consuming bandwidth. |
@@ -19,8 +19,8 @@
 |  | [4. Settings](#4-settings) | Activate Windows and `Win + I` configurations. |
 |  | [5. Control Panel](#5-control-panel) | System Properties, Region, Power Options, Internet Properties, Sound, and Network Connections configurations. |
 |  | [6. Device Manager](#6-device-manager) | Disable unused devices and drivers. |
-| [IV. Installing software](#iv-installing-software) | — | Install applications. |
-| [V. Configuring software](#v-configuring-software) | — | Customize applications. |
+| [IV. Installing software](#iv-installing-software) | | Install applications. |
+| [V. Configuring software](#v-configuring-software) | | Customize applications. |
 | [VI. Wrapping things up](#vi-wrapping-things-up) | [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software) | Cleanup. |
 |  | [Afterthought](#afterthought) | Q&A |
 
