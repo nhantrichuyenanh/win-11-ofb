@@ -583,6 +583,7 @@ W
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
 	- Windows 11 Start Menu Styler
+
 ```
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
@@ -717,7 +718,7 @@ W
 }
 ```
 ‎ 
-	Windows 11 Taskbar Styler
+	◦ Windows 11 Taskbar Styler
 
 ```
 {
@@ -784,7 +785,7 @@ W
 }
 ```
 ‎ 
-	Windows 11 Notification Styler
+	◦ Windows 11 Notification Styler
 
 ```
 {
