@@ -584,9 +584,9 @@ W
 	- Taskbar tray system icon tweaks
 	- Windows 11 Styler
 
-| Start Menu | Taskbar | Notification |
-|----------|----------|----------|
-| {
+Start Menu:
+```
+{
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
   "controlStyles[0].styles[0]": "Visibility=Visible",
   "controlStyles[0].styles[1]": "Width=450",
@@ -716,7 +716,11 @@ W
   "controlStyles[44].styles[1]": "BorderThickness=1",
   "controlStyles[45].target": "Windows.UI.Xaml.Controls.FlyoutPresenter[1]",
   "controlStyles[45].styles[0]": "Transform3D:=<CompositeTransform3D TranslateX=\"50\"/>"
-} | {
+}
+```
+Taskbar:
+```
+{
   "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame",
   "controlStyles[0].styles[0]": "Width=Auto",
   "controlStyles[0].styles[1]": "Height=50",
@@ -777,7 +781,11 @@ W
   "controlStyles[17].styles[3]": "RadiusY=10",
   "controlStyles[17].styles[4]": "Margin=0,-2,0,-2",
   "controlStyles[16].styles[1]": "Height=35"
-} | {
+}
+```
+Notification:
+```
+{
   "controlStyles[0].target": "ScrollViewer#CalendarControlScrollViewer",
   "controlStyles[0].styles[0]": "BorderBrush:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"0.8\"/>",
   "controlStyles[0].styles[1]": "Background:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"0.3\"/>\t",
@@ -797,7 +805,8 @@ W
   "controlStyles[6].styles[0]": "CornerRadius=15",
   "controlStyles[7].target": "Windows.UI.Xaml.Controls.Primitives.ToggleButton#DoNotDisturbButton > Grid > ContentPresenter",
   "controlStyles[7].styles[0]": "Visibility=Collapsed"
-} |
+}
+```
 
 ## VI. Wrapping things up
 
