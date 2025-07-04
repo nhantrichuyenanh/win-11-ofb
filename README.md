@@ -716,8 +716,8 @@ W
   "controlStyles[45].styles[0]": "Transform3D:=<CompositeTransform3D TranslateX=\"50\"/>"
 }
 ```
-‎
-	- Windows 11 Taskbar Styler
+‎ 
+	Windows 11 Taskbar Styler
 
 ```
 {
@@ -784,7 +784,7 @@ W
 }
 ```
 ‎ 
-	- Windows 11 Notification Styler
+	Windows 11 Notification Styler
 
 ```
 {
