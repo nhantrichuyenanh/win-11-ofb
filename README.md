@@ -784,8 +784,9 @@ W
   "controlStyles[16].styles[1]": "Height=35"
 }
 ```
-‎ 
-	- ⚬ Windows 11 Notification Styler
+‎
+
+⚬ Windows 11 Notification Styler
 
 ```
 {
