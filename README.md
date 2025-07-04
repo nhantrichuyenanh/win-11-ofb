@@ -721,7 +721,7 @@ W
 ‎
 	- Windows 11 Taskbar Styler
 
-	```
+```
 	{
 	  "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame",
 	  "controlStyles[0].styles[0]": "Width=Auto",
@@ -784,7 +784,7 @@ W
 	  "controlStyles[17].styles[4]": "Margin=0,-2,0,-2",
 	  "controlStyles[16].styles[1]": "Height=35"
 	}
-	```
+```
 ‎
 ‎ 
 	- Windows 11 Notification Styler
