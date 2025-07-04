@@ -3,27 +3,29 @@
 > [!IMPORTANT]
 > This guide assumes you can navigate Windows using menu interfaces and know what adapters your PC is using. Check [here](#afterthought) for Q&A.
 
-- [I. Preparations](#i-preparations)
-- [II. System modifications](#ii-system-modifications)
-  - [1. System modification](#1-system-modification)
-  - [2. Disable unnecessary services](#2-disable-unnecessary-services)
-  - [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth)
-  - [4. Enable Clipboard History](#4-enable-clipboard-history)
-  - [5. Disable bufferless tracking](#5-disable-bufferless-tracking)
-  - [6. Registry Hacks](#6-registry-hacks)
-  - [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features)
-- [III. Setting things up](#iii-setting-things-up)
-  - [1. Mouse Cursor and Font](#1-mouse-cursor-and-font)
-  - [2. AccentColorizer](#2-accentcolorizer)
-  - [3. File Explorer](#3-file-explorer)
-  - [4. Settings](#4-settings)
-  - [5. Control Panel](#5-control-panel)
-  - [6. Device Manager](#6-device-manager)
-- [IV. Installing software](#iv-installing-software)
-- [V. Configuring software](#v-configuring-software)
-- [VI. Wrapping things up](#vi-wrapping-things-up)
-  - [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software)
-  - [Afterthought](#afterthought)
+## 📋 Table of Contents
+
+| Section | Subsection | Description |
+|--------|------------|-------------|
+| [I. Preparations](#i-preparations) | — | Initial preparations before system changes |
+| [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak core system settings |
+|  | [2. Disable unnecessary services](#2-disable-unnecessary-services) | Turn off services you don't need |
+|  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Prevent Microsoft from consuming bandwidth |
+|  | [4. Enable Clipboard History](#4-enable-clipboard-history) | Enable advanced clipboard management |
+|  | [5. Disable bufferless tracking](#5-disable-bufferless-tracking) | Disable activity tracking features |
+|  | [6. Registry Hacks](#6-registry-hacks) | Apply useful registry tweaks |
+|  | [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features) | Remove bloat via feature settings |
+| [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) | Personalize input visuals |
+|  | [2. AccentColorizer](#2-accentcolorizer) | Enhance accent color behavior |
+|  | [3. File Explorer](#3-file-explorer) | Configure File Explorer to your liking |
+|  | [4. Settings](#4-settings) | Modify Windows Settings UI |
+|  | [5. Control Panel](#5-control-panel) | Adjust Control Panel elements |
+|  | [6. Device Manager](#6-device-manager) | Manage devices and drivers |
+| [IV. Installing software](#iv-installing-software) | — | Install essential applications |
+| [V. Configuring software](#v-configuring-software) | — | Customize software post-install |
+| [VI. Wrapping things up](#vi-wrapping-things-up) | [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software) | Final tasks and checks |
+|  | [Afterthought](#afterthought) | Final reflections and notes |
+
 
 ---
 
