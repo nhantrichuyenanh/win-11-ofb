@@ -718,7 +718,7 @@ W
 }
 ```
 ‎ 
-	◦ Windows 11 Taskbar Styler
+	⚬ Windows 11 Taskbar Styler
 
 ```
 {
@@ -785,8 +785,8 @@ W
 }
 ```
 ‎
-
-⚬ Windows 11 Notification Styler
+‎ 
+	⚬ Windows 11 Notification Styler
 
 ```
 {
