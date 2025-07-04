@@ -6,7 +6,7 @@
 | Section | Subsection | Description |
 |--------|------------|-------------|
 | [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
-| [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak core system settings. |
+| [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak system settings. |
 |  | [2. Disable unnecessary services](#2-disable-unnecessary-services) | Self-explanatory. |
 |  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Prevent Microsoft from consuming bandwidth. |
 |  | [4. Enable Clipboard History](#4-enable-clipboard-history) | Enable `Win + .` |
