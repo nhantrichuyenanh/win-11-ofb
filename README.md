@@ -871,7 +871,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	I'm aware of such alternatives but I still prefer MS Office because of:
 	- Fluent design
-	- formatting and compatibility when opening `.docx`, `.xlsx`, or `.pptx` files.
+	- formatting and compatibility when opening `.docx`, `.xlsx`, or `.pptx` files
 
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
 	> Why don't I switch to Linux already?
