@@ -584,7 +584,7 @@ W
 	- Taskbar tray system icon tweaks
 	- Windows 11 Styler
 
-Start Menu
+⚬ Start Menu
 ```
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
@@ -718,7 +718,7 @@ Start Menu
   "controlStyles[45].styles[0]": "Transform3D:=<CompositeTransform3D TranslateX=\"50\"/>"
 }
 ```
-Taskbar
+⚬ Taskbar
 ```
 {
   "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame",
@@ -783,7 +783,7 @@ Taskbar
   "controlStyles[16].styles[1]": "Height=35"
 }
 ```
-Notification
+⚬ Notification
 ```
 {
   "controlStyles[0].target": "ScrollViewer#CalendarControlScrollViewer",
