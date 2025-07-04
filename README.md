@@ -583,7 +583,8 @@ W
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
 	- Windows 11 Start Menu Styler
-	```
+
+```
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
   "controlStyles[0].styles[0]": "Visibility=Visible",
@@ -715,9 +716,11 @@ W
   "controlStyles[45].target": "Windows.UI.Xaml.Controls.FlyoutPresenter[1]",
   "controlStyles[45].styles[0]": "Transform3D:=<CompositeTransform3D TranslateX=\"50\"/>"
 }
-	```
-	- [Windows 11 Taskbar Styler](🗀/[Windhawk]W11TaskbarStyler.txt)
-	```
+```
+
+	- Windows 11 Taskbar Styler
+
+```
 {
   "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame",
   "controlStyles[0].styles[0]": "Width=Auto",
@@ -780,9 +783,11 @@ W
   "controlStyles[17].styles[4]": "Margin=0,-2,0,-2",
   "controlStyles[16].styles[1]": "Height=35"
 }
-	```
-	- [Windows 11 Notification Styler](🗀/[Windhawk]W11NotificationStyler.txt)
-	```
+```
+
+	- Windows 11 Notification Styler
+
+```
 {
   "controlStyles[0].target": "ScrollViewer#CalendarControlScrollViewer",
   "controlStyles[0].styles[0]": "BorderBrush:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"0.8\"/>",
@@ -804,7 +809,7 @@ W
   "controlStyles[7].target": "Windows.UI.Xaml.Controls.Primitives.ToggleButton#DoNotDisturbButton > Grid > ContentPresenter",
   "controlStyles[7].styles[0]": "Visibility=Collapsed"
 }
-	```
+```
 
 ---
 
