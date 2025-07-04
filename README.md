@@ -583,6 +583,7 @@ W
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
 	- Windows 11 Styler
+
 | Start Menu | Taskbar | Notification |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
