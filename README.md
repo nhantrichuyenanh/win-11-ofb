@@ -289,7 +289,7 @@ C
 - [Context Menu Manager](https://github.com/BluePointLilac/ContextMenuManager/releases)
 
 D
-- [DefenderUI](https://www.cyberlock.global/DefenderUI.aspx)
+- [DefenderUI](https://cyberlock.global/DefenderUI.aspx)
 - [Discord](https://discord.com/download)
 	- [Vencord](https://vencord.dev/download)
 	- [BetterDiscord](https://betterdiscord.app/themes)
