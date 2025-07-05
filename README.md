@@ -225,7 +225,7 @@ After Windows 11 is installed:
   - **Network Connections**: `Win + R → ncpa.cpl` → double click / right click on
      - the network connection you're using (either Ethernet or Wi-Fi) → Properties
 	     - This connection uses the following items:
-	      - 🗹 QoS Packet Scheduler
+		     - 🗹 QoS Packet Scheduler
 	      - 🗹 Internet Protocol Version 4 (TCP/IPv4)
 	      - 🗹 Internet Protocol Version 6 (TCP/IPv6) `(if you use` [IPv6](https://test-ipv6.com)`)`
       - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
