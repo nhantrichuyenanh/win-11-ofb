@@ -222,7 +222,9 @@ After Windows 11 is installed:
      	- If there's Enhancements, select Bass Boost, Virtual Surround, Loudness Equalization.
      	- If not: `Win + R → devmgmt.msc` → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
 
-  - **Network Connections**: `Win + R → ncpa.cpl` → double click / right click on the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
+  - **Network Connections**: `Win + R → ncpa.cpl` → double click / right click on
+
+the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
      - Network connection Properties: uncheck
      	- Client for Microsoft Networks
      	- File and Printer Sharing for Microsoft Networks
@@ -234,7 +236,8 @@ After Windows 11 is installed:
     - Network adapter Properties: double click / right click on the network connection you're using → Properties → Configure... 
       - Power Management → uncheck Allow the computer to turn off this device to save power
       - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
-    - `Win + R → ncpa.cpl` → right click on Bluetooth Network Connection → Properties → uncheck:
+
+Bluetooth Network Connection → Properties → uncheck:
       	- Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
       	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
       	- Microsoft Network Adapter Multiplexor Protocol
