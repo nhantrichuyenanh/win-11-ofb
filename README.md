@@ -861,11 +861,9 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	Somehow, I found the link to straight up download Microsoft 365 for free. Just don't ask me how, when, or that the link didn't work had Microsoft found out.
 
-  	> Why bother downloading Microsoft Office? There are better alternatives like LibreOffice and OpenOffice.
+  	> Why Microsoft Office? It isn't free and there are better alternatives like LibreOffice and OpenOffice.
 
-	I'm aware of such alternatives but I still prefer MS Office because of:
-	- Fluent design
-	- formatting and compatibility when opening `.docx`, `.xlsx`, or `.pptx` files
+	I'm aware of such alternatives but I still prefer MS Office because of Fluent design and compatibility with `.docx`, `.xlsx`, or `.pptx` files.
 
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
 	> Why don't I switch to Linux already?
