@@ -223,28 +223,20 @@ After Windows 11 is installed:
      	- If not: `Win + R → devmgmt.msc` → Sound, video and game controllers → right click the speaker your PC is using as output → Disable device → Update driver → Browse my computer for drivers → Let me pick from a list of available drivers on my computer → uncheck Show compatible hardware → Manufacturer: Microsoft → in Model select High Definition Audio Device Version the latest date → Yes → Close → Reboot
 
   - **Network Connections**: `Win + R → ncpa.cpl` → double click / right click on
-
-the network connection you're using (most likely Ethernet or Wi-Fi) → Properties
-     - Network connection Properties: uncheck
-     	- Client for Microsoft Networks
-     	- File and Printer Sharing for Microsoft Networks
-     	- Microsoft LLDP Protocol Driver
-     	- Internet Protocol Version 6 (TCP/IPv6) `(uncheck if you don't use` [IPv6](https://test-ipv6.com)`)`
-     	- Link-Layer Topology Discovery Responder
-     	- Link-Layer Topology Discovery Mapper I/O Driver
-    - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
-    - Network adapter Properties: double click / right click on the network connection you're using → Properties → Configure... 
-      - Power Management → uncheck Allow the computer to turn off this device to save power
-      - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
-
-Bluetooth Network Connection → Properties → uncheck:
-      	- Client for Microsoft Networks `(if you don't intent on sharing files or printers)`
-      	- File and Printer Sharing `(if you don't intent on sharing files or printers)`
-      	- Microsoft Network Adapter Multiplexor Protocol
-      	- Microsoft LLDP Protocol Driver
-      	- Link-Layer Topology Discovery Responder
-      	- Link-Layer Topology Discovery Mapper I/O Driver
-      	- Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN doesn't need IPv6, run the command below in Admin PowerShell to determine if it is enabled or not)`
+     - the network connection you're using (either Ethernet or Wi-Fi) → Properties
+     	- This connection uses the following items:
+		- ☑ QoS Packet Scheduler
+ 		- ☑ Internet Protocol Version 4 (TCP/IPv4)
+     	     	- ☑ Internet Protocol Version 6 (TCP/IPv6) `(if you use` [IPv6](https://test-ipv6.com)`)`
+     	- Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
+     	- Connected using: `[NETWORK ADAPTER]` Configure... 
+     	     	- Power Management → uncheck Allow the computer to turn off this device to save power
+     	     	- Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
+     - Bluetooth Network Connection → Properties → This connection uses the following items:
+      	- ☑ Client for Microsoft Networks `(if you intent on sharing files or printers)`
+      	- ☑ File and Printer Sharing `(if you intent on sharing files or printers)`
+      	- ☑ Internet Protocol Version 4 (TCP/IPv4)
+      	- ☑ Internet Protocol Version 6 (TCP/IPv6) `(if your Bluetooth PAN needs IPv6, run the command below in Admin PowerShell to determine if it is enabled or not)`
 ```
 Get-NetAdapterBinding -Name "Bluetooth Network Connection" | Where-Object DisplayName -Match "Internet Protocol"
 ```
