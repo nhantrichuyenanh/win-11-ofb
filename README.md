@@ -13,7 +13,7 @@
 |  | [6. Registry Hacks](#6-registry-hacks) | Apply useful registry tweaks. |
 |  | [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features) |  |
 | [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) |  |
-|  | [2. AccentColorizer](#2-accentcolorizer) | Colorize Windows with accent color. |
+|  | [2. AccentColorizer](#2-accentcolorizer) |  |
 |  | [3. File Explorer](#3-file-explorer) | `explorer.exe` configurations. |
 |  | [4. Settings](#4-settings) | Activate Windows and `Win + I` configurations. |
 |  | [5. Control Panel](#5-control-panel) | `sysdm.cpl`, `intl.cpl`, `powercfg.cpl`, `inetcpl.cpl`, `mmsys.cpl`, and `ncpa.cpl` configurations. |
