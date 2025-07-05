@@ -18,8 +18,8 @@
 |  | [4. Settings](#4-settings) | Activate Windows and `Win + I` configurations. |
 |  | [5. Control Panel](#5-control-panel) | `sysdm.cpl`, `intl.cpl`, `powercfg.cpl`, `inetcpl.cpl`, `mmsys.cpl`, and `ncpa.cpl` configurations. |
 |  | [6. Device Manager](#6-device-manager) | Disable unused devices and drivers. |
-| [IV. Installing software](#iv-installing-software) | | Install applications. |
-| [V. Configuring software](#v-configuring-software) | | Customize applications. |
+| [IV. Installing software](#iv-installing-software) | |  |
+| [V. Configuring software](#v-configuring-software) | |  |
 | [VI. Wrapping things up](#vi-wrapping-things-up) | [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software) | Cleanup. |
 |  | [Afterthought](#afterthought) | Q&A |
 
