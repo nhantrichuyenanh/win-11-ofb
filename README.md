@@ -7,16 +7,16 @@
 | [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
 | [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak system settings. |
 |  | [2. Disable unnecessary services](#2-disable-unnecessary-services) | Self-explanatory. |
-|  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Prevent Microsoft from consuming bandwidth. |
+|  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Disable reserved bandwidth for Windows Update, telemetry, etc. |
 |  | [4. Enable Clipboard History](#4-enable-clipboard-history) | Enable `Win + .` |
 |  | [5. Disable bufferless tracking](#5-disable-bufferless-tracking) | Disable diagnostic tracking of NBL ownership in the NDIS layer. |
 |  | [6. Registry Hacks](#6-registry-hacks) | Apply useful registry tweaks. |
 |  | [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features) | Self-explanatory. |
 | [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) | Self-explanatory. |
 |  | [2. AccentColorizer](#2-accentcolorizer) | Colorize Windows with accent color. |
-|  | [3. File Explorer](#3-file-explorer) | File Explorer configurations. |
+|  | [3. File Explorer](#3-file-explorer) | `explorer.exe` configurations. |
 |  | [4. Settings](#4-settings) | Activate Windows and `Win + I` configurations. |
-|  | [5. Control Panel](#5-control-panel) | System Properties, Region, Power Options, Internet Properties, Sound, and Network Connections configurations. |
+|  | [5. Control Panel](#5-control-panel) | `sysdm.cpl`, `intl.cpl`, `powercfg.cpl`, `inetcpl.cpl`, `mmsys.cpl`, and `ncpa.cpl` configurations. |
 |  | [6. Device Manager](#6-device-manager) | Disable unused devices and drivers. |
 | [IV. Installing software](#iv-installing-software) | | Install applications. |
 | [V. Configuring software](#v-configuring-software) | | Customize applications. |
