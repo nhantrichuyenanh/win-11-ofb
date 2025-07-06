@@ -229,7 +229,7 @@ After Windows 11 is installed:
 		     - 🗹 Internet Protocol Version 4 (TCP/IPv4)
 		     - 🗹 Internet Protocol Version 6 (TCP/IPv6) `(if you use` [IPv6](https://test-ipv6.com)`)`
 	     - Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
-	     - Connected using: `[NETWORK_ADAPTER_NAME]` → Configure...
+	     - Configure...
 		     - Power Management → uncheck Allow the computer to turn off this device to save power
 		     - Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
      - Bluetooth Network Connection → Properties → This connection uses the following items:
