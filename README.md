@@ -854,7 +854,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
   	> Why Microsoft Office? It isn't free and there are better alternatives like LibreOffice and OpenOffice.
 
-	I'm aware of such alternatives but I still prefer MS Office because of Fluent design and compatibility with `.docx`, `.xlsx`, or `.pptx` files.
+	I'm aware of such alternatives but I still prefer MS Office because of Fluent design and compatibility with `.docx`, `.xlsx`, and `.pptx` files.
 
 - [Linux](https://github.com/nhantrichuyenanh/linux-distro-ofb "nhantrichuyenanh")?
 	> Why don't I switch to Linux already?
