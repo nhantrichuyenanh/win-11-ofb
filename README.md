@@ -6,7 +6,7 @@
 |--------|------------|-------------|
 | [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
 | [II. System modifications](#ii-system-modifications) | [1. Major tweaks](#1-major-tweaks) | Tweak system settings. |
-|  | [2. Minor tweaks](#2-minor-tweaks) | Disable reserved bandwidth, bufferless tracking, share tray, and enable `Win + ``V`/`;`/`.`. |
+|  | [2. Minor tweaks](#2-minor-tweaks) | Disable reserved bandwidth, bufferless tracking, share tray, and enable `Win + V`/`;`/`.`. |
 |  | [3. Disable unnecessary services](#3-disable-unnecessary-services) |  |
 |  | [4. Turn off useless Windows Features](#4-turn-off-useless-windows-features) |  |
 | [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) |  |
