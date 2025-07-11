@@ -103,7 +103,7 @@ After Windows 11 is installed:
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
   - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
 - Disable bufferless tracking: `Win + R → regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-- Disable share tray: `Win + R → notepad` → copy the code below and paste it into Notepad → Ctrl + S → Save as type: All files (*.*) → File name: [ANY_NAME_YOU_LIKE].reg → select the `.reg` file in the saved location → double click/enter → OK
+- Disable share tray: `Win + R → notepad` → copy the code below and paste it into Notepad → Ctrl + S → Save as type: `All files (*.*)` → File name: [ANY_NAME_YOU_LIKE].reg → select the `.reg` file in the saved location → double click/enter → OK
 ```
 Windows Registry Editor Version 5.00
 
