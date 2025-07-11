@@ -6,7 +6,7 @@
 |--------|------------|-------------|
 | [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
 | [II. System modifications](#ii-system-modifications) | [1. Major tweaks](#1-major-tweaks) | Tweak system settings. |
-|  | [2. Minor tweaks](#2-minor-tweaks) | Disable reserved bandwidth, diagnostic tracking of NBL ownership in the NDIS layer, share tray, and enable `Win + .`. |
+|  | [2. Minor tweaks](#2-minor-tweaks) | Disable reserved bandwidth, bufferless tracking, share tray, and enable `Win + .`. |
 |  | [3. Disable unnecessary services](#3-disable-unnecessary-services) |  |
 |  | [4. Turn off useless Windows Features](#4-turn-off-useless-windows-features) |  |
 | [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) |  |
@@ -99,6 +99,25 @@ After Windows 11 is installed:
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
 
 ### 2. Minor tweaks:
+- Disable reserved bandwidth: 
+  - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
+  - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
+- Disable bufferless tracking: `Win + R → regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
+- Disable share tray: `Win + R → notepad` → copy the code below and paste it into Notepad → Ctrl + S → Save as type: All files (*.*) → File name: [ANY_NAME_YOU_LIKE].reg → select the `.reg` file in the saved location → double click/enter → OK
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
+
+"EnabledState"=dword:00000001
+
+"EnabledStateOptions"=dword:00000000
+```
+- Enable Clipboard History:
+  - `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
+  - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → System → OS Policies → Allow Clipboard History → Enable`
+
+### 3. Disable unnecessary services
 - `Win + R → services.msc`
   - ActiveX Installer (AxInstSV)
   - AssignedAccessManager Service
@@ -149,20 +168,7 @@ After Windows 11 is installed:
 
 - `Win + R → msconfig → Services → Hide all Microsoft services → Disable all → Apply → OK`
 
-### 3. Disable stealing bandwidth:
-- `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
-- `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
-
-### 4. Enable Clipboard History:
-- `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
-- `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → System → OS Policies → Allow Clipboard History → Enable`
-
-### 5. Disable bufferless tracking:
-`Win + R → regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-
-### 6. [Registry Hacks](https://vinstartheme.com/unlock-windows-hidden-features "VIN STAR")
-
-### 7. Turn off useless Windows Features:
+### 4. Turn off useless Windows Features:
 `Win + R → optionalfeatures`
 - Media Features
 - Microsoft Print to PDF
@@ -225,7 +231,7 @@ After Windows 11 is installed:
 		- 🗹 Internet Protocol Version 4 (TCP/IPv4)
 		- 🗹 Internet Protocol Version 6 (TCP/IPv6) `(if you use` [IPv6](https://test-ipv6.com)`)`
 	- Internet Protocol Version 4 (TCP/IPv4) → Properties → Use the following DNS server addresses: Preferred DNS server is **1.1.1.1** and Alternate DNS server is **1.0.0.1** → Close
-	- Configure...
+	- Connected using: [NETWORK_ADAPTER_NAME] → Configure...
 		- Power Management → uncheck Allow the computer to turn off this device to save power
 		- Advanced → screenshot the window and ask AI which ones to fine-tune for network performance → OK
 
