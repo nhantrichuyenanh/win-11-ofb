@@ -5,13 +5,10 @@
 | Section | Subsection | Description |
 |--------|------------|-------------|
 | [I. Preparations](#i-preparations) | | Initial preparations before system changes. |
-| [II. System modifications](#ii-system-modifications) | [1. System modification](#1-system-modification) | Tweak system settings. |
-|  | [2. Disable unnecessary services](#2-disable-unnecessary-services) |  |
-|  | [3. Disable stealing bandwidth](#3-disable-stealing-bandwidth) | Disable reserved bandwidth for Windows Update, telemetry, etc. |
-|  | [4. Enable Clipboard History](#4-enable-clipboard-history) | Enable `Win + .` |
-|  | [5. Disable bufferless tracking](#5-disable-bufferless-tracking) | Disable diagnostic tracking of NBL ownership in the NDIS layer. |
-|  | [6. Registry Hacks](#6-registry-hacks) | Apply useful registry tweaks. |
-|  | [7. Turn off useless Windows Features](#7-turn-off-useless-windows-features) |  |
+| [II. System modifications](#ii-system-modifications) | [1. Major tweaks](#1-major-tweaks) | Tweak system settings. |
+|  | [2. Minor tweaks](#2-minor-tweaks) | Disable reserved bandwidth, diagnostic tracking of NBL ownership in the NDIS layer, share tray, and enable `Win + .`. |
+|  | [3. Disable unnecessary services](#3-disable-unnecessary-services) |  |
+|  | [4. Turn off useless Windows Features](#4-turn-off-useless-windows-features) |  |
 | [III. Setting things up](#iii-setting-things-up) | [1. Mouse Cursor and Font](#1-mouse-cursor-and-font) |  |
 |  | [2. AccentColorizer](#2-accentcolorizer) |  |
 |  | [3. File Explorer](#3-file-explorer) | `explorer.exe` configurations. |
@@ -40,7 +37,7 @@ After Windows 11 is installed:
 
 `Win + R → UserAccountControlSettings` → drag the slider all the way down → OK
 
-### 1. System modification:
+### 1. Major tweaks:
 
 **Required:**
 - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel")
@@ -101,7 +98,7 @@ After Windows 11 is installed:
 - [Winhance](https://winhance.net "Marco du Plessis")
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
 
-### 2. Disable unnecessary services:
+### 2. Minor tweaks:
 - `Win + R → services.msc`
   - ActiveX Installer (AxInstSV)
   - AssignedAccessManager Service
