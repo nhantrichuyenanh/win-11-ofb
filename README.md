@@ -834,7 +834,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	> Why don't I just buy a Windows 11 product key?
 
-	After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a *B2B model*, so Windows as an OS is neglected. Not only do you have to pay to use the service but also have your data harvested from using the service itself while having ads being shoved down your throat. It's utterly ridiculous.
+	After all it's illegal and immoral to crack Windows 11 activation, but who cares lol. Micro$oft mainly operates on a *B2B model*, so Windows as an OS is neglected. Not only do you have to pay to use the service but also have your data harvested from using the service itself and have ads being shoved down your throat. It's utterly ridiculous.
 
 	> Why do I have to navigate around menus like Run and Control Panel?
 
