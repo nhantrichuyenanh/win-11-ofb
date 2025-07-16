@@ -103,7 +103,7 @@ After Windows 11 is installed:
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
   - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
 - Disable bufferless tracking: `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-- Disable share tray (ignore this tweak it's kinda scuffed): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085`
+- Disable [share tray](https://winaero.com/windows-11-is-getting-a-new-drag-tray-share-ui-heres-how-to-enable-it/): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
 - Enable clipboard history:
@@ -565,7 +565,7 @@ W
 	- Taskbar tray system icon tweaks
 	- Windows 11 Styler
 
-⚬ Start Menu
+⚬ Start Menu `(unless you have the `[new start menu](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)`, don't apply this code)`
 ```
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
