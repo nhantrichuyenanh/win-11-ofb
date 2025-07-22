@@ -314,7 +314,7 @@ O
 
 P
 - Paint
-- [PDFgear](https://pdfgear.com/pdfgear-for-windows)
+- [PDF24 Creator](https://tools.pdf24.org/en/creator#download) [🔍︎](#afterthought "Afterthought")
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 	- [EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys/releases)
 - [Proton Pass](https://proton.me/pass/download)
@@ -875,6 +875,8 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	 - Generally, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
+
+- [PDF Software]: Any PDF reader/editor has its own pros and cons. I personally use PDF24 as of writing this because it's 100% free and really fast.
 
 > [!NOTE]
 > Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Enjoy using Windows! ヾ(•ω•`)o
