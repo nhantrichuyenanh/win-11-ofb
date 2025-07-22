@@ -877,8 +877,10 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
 
 - PDF Software:
+	> [List of PDF software on Windows](https://wikipedia.org/wiki/List_of_PDF_software#Microsoft_Windows)
+
 	 - Freemium ones have the bells and whistles like modern UI, smooth scrolling, and AI assistant.
-	 - Meanwhile, completely free ones have that rustic charm and embrace minimalism.
+	 - Meanwhile, completely free ones have a certain rustic charm and embrace minimalism.
 	 - FYI, I'm currently using PDF24 and have used Foxit PDF Reader, Wondershare PDFelement, and PDFgear before. The last one was pleasantly nice but it was slow when launching it after opening a PDF file and lacked support for thumbnail previews.
 
 > [!NOTE]
