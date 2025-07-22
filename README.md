@@ -869,14 +869,14 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 
 	No, don't even consider them. I high discourage installing custom ISOs because of security. What if they slip malware, spyware, or keyloggers into them? Installing these sketchy Windows 11 ISOs means there's a high degree of trust involved.
 
-- [Main & Additional Browser]: Please do your research and download your desired browser(s) at your own discretion.
+- Main & Additional Browser: Please do your research and download your desired browser(s) at your own discretion.
 	> [Chromium-based](https://wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome "Wikipedia") includes Chrome and other browsers based on Chromium while [Firefox fork](https://wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox "Wikipedia") includes Firefox and other browsers based on Firefox
 
 	 - Generally, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
 
-- [PDF Software]: Any PDF reader/editor has its own pros and cons. I personally use PDF24 as of writing this because it's 100% free and really fast.
+- PDF Software: Any PDF reader/editor has its own pros and cons. I personally use PDF24 as of writing this because it's 100% free and really fast.
 
 > [!NOTE]
 > Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Enjoy using Windows! ヾ(•ω•`)o
