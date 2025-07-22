@@ -876,7 +876,7 @@ sfc /verifyfile=C:\Windows\System32\ieframe.dll
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
 
-- PDF Software: Any PDF reader/editor has its own pros and cons. I personally use PDF24 as of writing this because it's 100% free and really fast.
+- PDF Software: Any PDF reader/editor has its own pros and cons. I personally use PDF24 as of writing this because it's 100% free, really fast, and supports thumbnail previews.
 
 > [!NOTE]
 > Even though this guide is for my personal use for Windows reinstallation, hopefully you guys find it informative and beneficial. Enjoy using Windows! ヾ(•ω•`)o
