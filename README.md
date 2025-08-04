@@ -103,7 +103,7 @@ After Windows 11 is installed:
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
   - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
 - Disable [bufferless tracking](https://learn.microsoft.com/en-us/windows-hardware/drivers/network/net-buffer-list-structure): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-- Disable [share tray](https://winaero.com/windows-11-is-getting-a-new-drag-tray-share-ui-heres-how-to-enable-it/): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
+- Disable [share tray](https://x.com/phantomofearth/status/1882917685786538245): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
 - Enable clipboard history:
