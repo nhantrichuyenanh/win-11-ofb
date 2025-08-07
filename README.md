@@ -99,11 +99,11 @@ After Windows 11 is installed:
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
 
 ### 2. Minor tweaks:
-- Disable [reserved bandwidth](https://learn.microsoft.com/en-us/answers/questions/2576537/limit-reservable-bandwidth): 
+- Disable [reserved bandwidth](https://learn.microsoft.com/en-us/answers/questions/2576537/limit-reservable-bandwidth "Microsoft Learn"): 
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
   - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
-- Disable [bufferless tracking](https://learn.microsoft.com/en-us/windows-hardware/drivers/network/net-buffer-list-structure): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-- Disable [share tray](https://x.com/phantomofearth/status/1882917685786538245): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
+- Disable [bufferless tracking](https://learn.microsoft.com/en-us/windows-hardware/drivers/network/net-buffer-list-structure "Microsoft Learn"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
+- Disable [share tray](https://x.com/phantomofearth/status/1882917685786538245 "X"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
 - Enable clipboard history:
@@ -253,7 +253,7 @@ After Windows 11 is installed:
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- [Main & Additional Browser](https://youtu.be/YrxhVA5NVQ4?si=qIAoQn81kIaUU1bM): [🔍︎](#afterthought "Afterthought")
+- [Main & Additional Browser](https://youtu.be/YrxhVA5NVQ4?si=qIAoQn81kIaUU1bM "Juxtopposed"): [🔍︎](#afterthought "Afterthought")
 	- Chromium-based: [Brave](https://brave.com/download) / [Deta Surf](https://deta.surf) / [Vivaldi](https://vivaldi.com/download) / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download) / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download) / ...
 
