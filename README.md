@@ -253,7 +253,7 @@ After Windows 11 is installed:
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
 #‎ 
-- Main & Additional Browser: [🔍︎](#afterthought "Afterthought")
+- [Main & Additional Browser](https://youtu.be/YrxhVA5NVQ4?si=qIAoQn81kIaUU1bM): [🔍︎](#afterthought "Afterthought")
 	- Chromium-based: [Brave](https://brave.com/download) / [Deta Surf](https://deta.surf) / [Vivaldi](https://vivaldi.com/download) / ...
 	- Firefox fork: [Floorp](https:/floorp.app/en-US/download) / [Librewolf](https://librewolf.net/installation/windows) / [Zen Browser](https://zen-browser.app/download) / ...
 
