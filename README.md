@@ -809,11 +809,6 @@ W
 - Wintoys → Health:
 	- Cleanup
 	- Repair → check DISM and SFC → Scan
-- `Win + R → cmd → Ctrl + Shift + Enter`: to check if ieframe.dll is corrupted because it’s a core component of Internet Explorer `(even though it is deprecated, some legacy applications and internal tools might still depend on it)`
-```
-sfc /scanfile=C:\Windows\System32\ieframe.dll
-sfc /verifyfile=C:\Windows\System32\ieframe.dll
-```
 
 ![[June 2025] Desktop](🀦/[June-2025]-Desktop.png)
 
