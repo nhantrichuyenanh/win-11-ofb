@@ -106,6 +106,9 @@ After Windows 11 is installed:
 - Disable [share tray](https://x.com/phantomofearth/status/1882917685786538245 "X"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
+- Remove [startup delays](https://youtu.be/V7AuHBZsOj0?t=257): `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer → New > Key → Serialize → New > DWORD (32-bit) Value`
+  - `StartupDelayInMSec → 1`
+  - `WaitForIdleState → 0`
 - Enable clipboard history:
   - `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Clipboard → EnableClipboardHistory → 1`
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → System → OS Policies → Allow Clipboard History → Enable`
