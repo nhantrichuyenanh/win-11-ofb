@@ -565,6 +565,7 @@ W
 	- Taskbar Thumbnail Reorder
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
+ 	- Translucent Windows
 	- Windows 11 Styler
 ⚬ File Explorer
 
