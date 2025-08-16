@@ -184,7 +184,6 @@ After Windows 11 is installed:
    - [AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11 "krlvm")
 
 ### 3. File Explorer:
-  - [Mica Explorer](https://github.com/Maplespe/ExplorerBlurMica "Maplespe")
   - Configure Quick access
   - Show details pane
   - ⋯ → Options
@@ -567,6 +566,7 @@ W
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
 	- Windows 11 Styler
+⚬ File Explorer
 
 ⚬ Start Menu `(unless you have the `[new start menu](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)`, don't apply this code)`
 ```
