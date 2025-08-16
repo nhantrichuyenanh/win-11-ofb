@@ -567,6 +567,7 @@ W
 	- Taskbar tray system icon tweaks
  	- Translucent Windows
 	- Windows 11 Styler
+
 ⚬ File Explorer
 
 ⚬ Start Menu `(unless you have the `[new start menu](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)`, don't apply this code)`
