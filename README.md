@@ -341,7 +341,6 @@ S
 - Skyline Weather
 - Snipping Tool
 - Sound Recorder
-- [StartAllBack](https://startallback.com)
 
 T
 - [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update)
