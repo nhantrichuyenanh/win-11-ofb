@@ -20,7 +20,6 @@
 | [VI. Wrapping things up](#vi-wrapping-things-up) | [After installing and configuring apps and software](#after-installing-and-configuring-apps-and-software) | Cleanup. |
 |  | [Afterthought](#afterthought) | Q&A |
 
-
 ---
 
 ## I. Preparations
@@ -265,6 +264,7 @@ A
 
 B
 - [BCUninstaller](https://sourceforge.net/projects/bulk-crap-uninstaller)
+- [Blip](https://blip.net/download/windows)
 
 C
 - Calculator
@@ -874,6 +874,12 @@ W
 	 - Generally speaking, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
 	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
+
+- File Sharing Software:
+	> Why don't I just use cloud storage services like Google Drive? Or use Phone Link instead?
+
+ 	- Because uploading and downloading files on cloud storage services exponentially take up time, and most of the time I simply need to quicky send over a photo. And besides, I have no intention of turning on Bluetooth every time to use Phone Link.
+  	- I've tried LocalSend before, and currently using Blip because of Fluent design.
 
 - PDF Software:
 	> [List of PDF software on Windows](https://wikipedia.org/wiki/List_of_PDF_software#Microsoft_Windows)
