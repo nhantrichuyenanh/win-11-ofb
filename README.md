@@ -872,8 +872,9 @@ W
 	> [Chromium-based](https://wikipedia.org/wiki/Chromium_(web_browser)#Differences_from_Google_Chrome "Wikipedia") includes Chrome and other browsers based on Chromium while [Firefox fork](https://wikipedia.org/wiki/Category:Web_browsers_based_on_Firefox "Wikipedia") includes Firefox and other browsers based on Firefox
 
 	 - Generally speaking, Chromium-based browsers are more **privacy invasive** (except for some notable ones like Brave) but **well established** since almost all websites and extentions are built and optimized for them. Firefox fork ones, meanwhile, are more **privacy and security-centric**, and some even offer **speed and customizablity**.
-	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else.
+	 - As for me personally, just don't use Chrome (or even Firefox for that matter), opt for something else. Playing devil's advocate, Chrome is really good because it has to be that way (we use Google services via the web, not desktop apps, so it makes sense it's in Google's interest to make Chrome good). The same thing can't be said for Firefox, as it's only saving grace is not being Chromium-based.
 	 - Edge, despite being heavily bloated, privacy invasive, and having AI nonsense, is extremely good. It's **well optimized** for performance and battery life, packed with lots of **nice and useful features** (e.g. vertical tabs, split screen, video enhancement), and supports **Fluent design**. You can fix Edge through third party tools or just use it straight out of the box if you don't mind.
+	 - Ultimately, I highly recommend doing your homework and downloading the browsers that you don't mind the downsides. Each has its strong suit, the factor that you should care about. If you just want to surf the web and isn't bothered by Big Data, stick with _Chrome_ or _Edge_. Maybe you want to jump on the bandwagon, then give _Comet_ a shot. But in the user experience department, _Zen Browser_ stands out. You get the idea.
 
 - File Sharing Software:
 	> Why don't I just use cloud storage services like Google Drive? Or use Phone Link instead?
