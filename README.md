@@ -106,7 +106,7 @@ After Windows 11 is installed:
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
   
-[UPDATE](youtu.be/LUtEYUz5NCA?t=39)
+[UPDATE](https://youtu.be/LUtEYUz5NCA?t=39)
 - Remove [startup delays](https://youtu.be/V7AuHBZsOj0?t=257 "ThioJoe"): `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer → New > Key → Serialize → New > DWORD (32-bit) Value`
   - `StartupDelayInMSec → 1`
   - `WaitForIdleState → 0`
