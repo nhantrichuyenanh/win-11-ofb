@@ -102,9 +102,10 @@ After Windows 11 is installed:
   - `Win + R → gpedit.msc → Computer Configuration → Administrative Templates → Network → QoS Packet Scheduler → Limit reservable bandwidth → Enable → Bandwidth limit (%): 0`
   - `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft → New > Key → Psched → New > DWORD (32-bit) Value → NonBestEffortLimit`
 - Disable [bufferless tracking](https://learn.microsoft.com/en-us/windows-hardware/drivers/network/net-buffer-list-structure "Microsoft Learn"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NDIS\Parameters → TrackNblOwner → Value data: 0`
-- Disable [share tray](https://x.com/phantomofearth/status/1882917685786538245 "X"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
+- Disable [Drag Tray](https://x.com/phantomofearth/status/1882917685786538245 "X"): `Win + R → regedit → Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides → New > Key → 14 → New > Key → 3895955085 → New > DWORD (32-bit) Value`
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
+UPDATE: youtu.be/LUtEYUz5NCA?t=39
 - Remove [startup delays](https://youtu.be/V7AuHBZsOj0?t=257 "ThioJoe"): `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer → New > Key → Serialize → New > DWORD (32-bit) Value`
   - `StartupDelayInMSec → 1`
   - `WaitForIdleState → 0`
