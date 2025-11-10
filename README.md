@@ -779,7 +779,7 @@ W
   "controlStyles[1].target": "Border#CalendarHeaderMinimizedOverlay",
   "controlStyles[1].styles[0]": "BorderBrush:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"0.8\"/>",
   "controlStyles[1].styles[1]": "Background:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"0.3\"/>\t",
-  "controlStyles[2].target": "ActionCenter.FocusSessionControl#FocusSessionControl > Grid#FocusGrid",
+  "controlStyles[2].target": "ActionCenter.FocusSessionControl",
   "controlStyles[2].styles[0]": "Height=0",
   "controlStyles[3].target": "Windows.UI.Xaml.Controls.TextBlock",
   "controlStyles[3].styles[0]": "Foreground:=#ffffff",
