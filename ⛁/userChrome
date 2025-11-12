@@ -1,6 +1,24 @@
-@-moz-document url(about:home), url(about:newtab) {
-	h1.logo-and-wordmark-wrapper,
-  .logo-and-wordmark-wrapper {display: none !important;}
-	.top-site-outer:hover .tile {background-color: #fff0 !important;}
-	.top-site-outer .tile {background: rgba(255, 255, 255, 0) !important;}
+@-moz-document url(about:home), url(about:newtab){
+    h1.logo-and-wordmark-wrapper,
+    .logo-and-wordmark-wrapper {
+        display: none !important;
+    }
+
+    .top-site-outer:hover .tile {
+        background-color: #fff0 !important;
+    }
+
+    .top-site-outer .tile {
+        background: rgba(255, 255, 255, 0) !important;
+    }
+
+    .top-site-outer .rich-icon {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        background-size: cover !important;
+        height: 50% !important;
+        width: 50% !important;
+        position: relative !important;
+    }
 }
