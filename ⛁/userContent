@@ -14,8 +14,6 @@
         align-items: center !important;
         justify-content: center !important;
         background-size: cover !important;
-        height: 50% !important;
-        width: 50% !important;
         position: relative !important;
     }
 }
