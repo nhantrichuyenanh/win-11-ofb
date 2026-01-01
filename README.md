@@ -390,7 +390,7 @@ Z
 	- `chrome://flags` (Chromium-based) / `about:config` (Firefox fork) [🔍︎](⛁/BrowserModification.md "Browser Modification")
 	- [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads "magnolia1234")
 
-![[June 2025] Floorp Homepage](🀦/[June-2025]-Floorp-Homepage.png)
+![[June 2025] Floorp Homepage](🀦/[Jan-2026]-Floorp-Homepage.png)
 
 A
 - AB Download Manager: Tools → Settings `(remember to also configure the browser extension's settings for it)`
