@@ -96,6 +96,7 @@ After Windows 11 is installed:
 - [Sparkle](https://github.com/Parcoil/Sparkle/releases)
 - [Winhance](https://winhance.net "Marco du Plessis")
 - [WinScript](https://github.com/flick9000/winscript/releases "Francesco")
+- [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
 
 ### 2. Minor tweaks:
 - Disable [reserved bandwidth](https://learn.microsoft.com/en-us/answers/questions/2576537/limit-reservable-bandwidth "Microsoft Learn"): 
