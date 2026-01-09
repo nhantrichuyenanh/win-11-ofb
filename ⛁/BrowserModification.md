@@ -33,7 +33,7 @@ browser.newtabpage.activity-stream.telemetry = false
 browser.search.region = US [set country code to your preference]
 devtools.f12_enabled = false [false if not using dev tools]
 accessibility.force_disabled = 1 [support.mozilla.org/kb/accessibility-features-firefox]
-network.captive-portal-service.enabled = false [idc about free wifi]
+network.captive-portal-service.enabled = false [if you always use your home/office internet, use a VPN, or care about privacy]
 network.notify.checkForProxies = false
 browser.tabs.unloadOnLowMemory = true
 media.hardware-video-decoding.force-enabled = true
@@ -57,3 +57,4 @@ browser.ml.checkForMemory = false
 browser.ml.enable = false
 browser.ml.linkPreview.shift = false
 ```
+
