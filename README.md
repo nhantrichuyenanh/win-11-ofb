@@ -107,7 +107,7 @@ After Windows 11 is installed:
   - `EnabledState → 1`
   - `EnabledStateOptions → 1`
 > [!NOTE]
-> You can disable Dray Tray in Settings. [🔍︎](https://youtu.be/LUtEYUz5NCA?t=39)
+> You can disable Dray Tray in Settings. [🔍︎](https://youtu.be/LUtEYUz5NCA?t=39 "phantomofearth")
 
 - Remove [startup delays](https://youtu.be/V7AuHBZsOj0?t=257 "ThioJoe"): `Win + R → regedit → Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer → New > Key → Serialize → New > DWORD (32-bit) Value`
   - `StartupDelayInMSec → 1`
