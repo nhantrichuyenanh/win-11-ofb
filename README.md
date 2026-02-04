@@ -321,6 +321,7 @@ O
 P
 - Paint
 - [PDF24 Creator](https://tools.pdf24.org/en/creator#download) [🔍︎](#afterthought "Afterthought")
+- PowerToolbox
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 	- [EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys/releases)
 - [Proton Pass](https://proton.me/pass/download)
