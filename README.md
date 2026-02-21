@@ -179,8 +179,8 @@ After Windows 11 is installed:
 ## III. Setting things up
 
 ### 1. Mouse Cursor and Font
-- [Mouse Cursor](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/⛁/deviantart-jepricreations-cursor)
-- [Fonts](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/⛁/fonts)
+- [Mouse Cursor](⛁/deviantart-jepricreations-cursor)
+- [Fonts](⛁/fonts)
 
 ### 2. AccentColorizer:  
    - [AccentColorizer](https://github.com/krlvm/AccentColorizer "krlvm")  
