@@ -563,19 +563,19 @@ W
 - Windhawk:
 	- Better file sizes in Explorer details
 	- Click on empty taskbar space
- - Custom Desktop Watermark
- - Cycle taskbar buttons with mouse wheel
+ 	- Custom Desktop Watermark
+ 	- Cycle taskbar buttons with mouse wheel
 	- Cycle through taskbar windows on click
- - Select filename extension on double F2
+ 	- Select filename extension on double F2
 	- Taskbar auto-hide speed
- - Taskbar Clock Customization
- - Taskbar Dock Animation
+ 	- Taskbar Clock Customization
+ 	- Taskbar Dock Animation
 	- Taskbar minimize/restore on scroll
 	- Taskbar Thumbnail Reorder
 	- Taskbar Thumbnail Size
 	- Taskbar tray system icon tweaks
  	- Translucent Windows
-  - Windows 11 Start Menu Power Buttons
+  	- Windows 11 Start Menu Power Buttons
 	- Windows 11 Styler
 
 ⚬ File Explorer
