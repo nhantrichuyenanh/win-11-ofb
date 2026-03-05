@@ -1,1 +1,146 @@
+! Title: Nhân Trí's Personal Filter List
+! Description: For my personal use. Intended for Floorp and Zen browser.
+! Version: 1.0.0
+! Last modified: 2026-03-05
+! Expires: 7 days
+! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
+! License: https://creativecommons.org/publicdomain/zero/1.0/
 
+! https://www.facebook.com
+www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
+www.facebook.com##.x9e5oc1.xxzkxad.x7wzq59.x1xzczws.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
+www.facebook.com##.x88anuq.x1vy8oqc.xe11lzi.xl56j7k.x1iyjqo2.x78zum5.xuk3077
+www.facebook.com##.x19xcq9t.x1useyqa.x1n2onr6.xl56j7k.xsdox4t.x3nfvp2.x1qeybcx.x1ertn4p.x1pahc9y.xeusxvb.x1c9tyrk.x1l31dnx.xjyslct.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.x1i10hfl
+www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
+www.facebook.com##li.xt0psk2 > .x1s688f.xi81zsa.x1sur9pj.xkrqix3.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.xt0psk2.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.xjbqb8w.x1i10hfl
+www.facebook.com##footer > .xi81zsa.xo1l8bm.x1sibtaa.x1pg5gke.x676frb.x4zkp8e.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x1xmvt09.x1vvkbs.x13faqbe.xeuugli.x193iq5w
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.x9f619.xau1kf4.x1vsv7so.x1dmpuos.xw5cjc7.x1jx94hy.x1ja2u2z.x1n2onr6 > div > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div
+www.facebook.com##.x1xmf6yo.xev17xk.xpilrb4.xso031l.x1lun4ml.x178xt8z.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x15x8krk.xde0f50.x5a5i1n.x1obq294.x1nmn18.x1nb4dca.xpv9jar.x1exxf4d > .xh8yej3.x1n2onr6.x78zum5.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-div
+www.facebook.com##.x1ceravr.xgmub6v.x193iq5w > div > div > .xdt5ytf.x78zum5 > .x1ja2u2z.x1n2onr6.x9f619
+
+! https://www.messenger.com
+www.messenger.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+
+! https://www.youtube.com
+www.youtube.com##.sponsorBlockCategoryPill
+www.youtube.com##.ytVideoMetadataCarouselViewModelHost
+||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
+www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+www.youtube.com##.ytp-featured-product-container
+www.youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
+www.youtube.com##.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge.ytp-button
+www.youtube.com###header > .ytd-transcript-search-panel-renderer.style-scope
+www.youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge.ytp-button
+www.youtube.com###masthead-ad
+www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com###primary-entry
+www.youtube.com###dislike-button > yt-button-shape
+www.youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-watch-flexy.style-scope > .ytd-donation-unavailable-renderer.style-scope
+www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
+www.youtube.com###secondary
+www.youtube.com###related
+www.youtube.com##.ytShoppingTimelyShelfContentViewModelIsVisible.ytShoppingTimelyShelfContentViewModelHost
+www.youtube.com##.badge-style-type-live-now-alternate.ytd-badge-supported-renderer, .yt-spec-icon-badge-shape--type-notification .yt-spec-icon-badge-shape__badge, .ytp-videowall-still-info-live, .ytp-live-badge[disabled]::before, .yt-badge-shape--live, .yt-badge-shape--thumbnail-live, .yt-spec-avatar-shape__live-badge { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.watch-later-btn.dark.in-video-detail { background-color: var(--yt-spec-menu-background) !important; }
+www.youtube.com##.watch-later-btn.dark.in-video-detail:not(.loading):not(.success):not(.error):hover { background-color: var(--yt-spec-outline) !important; }
+www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+www.youtube.com##.yt-spec-avatar-shape--live-ring::after, .yt-spec-avatar-shape--cairo-refresh.yt-spec-avatar-shape--live-ring::after { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
+www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
+
+! https://music.youtube.com
+music.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+music.youtube.com###text-container
+music.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope
+music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(4) > .ytmusic-guide-entry-renderer.style-scope
+music.youtube.com##.iron-selected.ytmusic-player-page.style-scope.tab-header > .tp-yt-paper-tab.tab-header:nth-child(3)
+music.youtube.com##.ytmusic-section-list-renderer.style-scope > .ytmusic-chip-cloud-renderer.style-scope.scroller-on-hover.scroller
+music.youtube.com###player
+music.youtube.com##.side-panel.ytmusic-player-page { width: 100% !important; max-width: 850px !important; }
+music.youtube.com###main-panel
+
+! https://dictionary.cambridge.org
+dictionary.cambridge.org###page-content > .bh.lcs.pr
+dictionary.cambridge.org##.pr.tb.tc-w.bh.hbtn-tl.hbtn-b.hbtn-tab.hbtn.hao
+dictionary.cambridge.org##.hdb.had.ddef.lmb-10.lpb-25.lpt-10.lpb-10.lb-cm.lbt
+dictionary.cambridge.org##.superentry.hw.lmb-0.fs12.fs.ti
+dictionary.cambridge.org###page-content .bh.lcs.pr
+dictionary.cambridge.org###ad_rightslot
+dictionary.cambridge.org###ad_houseslot_a
+dictionary.cambridge.org##.tz0 > .am-default
+dictionary.cambridge.org##.ltas.am-default
+dictionary.cambridge.org###ad_btmslot
+dictionary.cambridge.org##.lpb-3.lpt-3.fs15.x > [href="/assistant"] > .ai-bar-button
+
+! https://www.oxfordlearnersdictionaries.com
+www.oxfordlearnersdictionaries.com##.xenglish.responsive_container > .am-entry
+www.oxfordlearnersdictionaries.com###main_column > .am-entry
+www.oxfordlearnersdictionaries.com##.responsive_entry_left > .am-entry
+
+! https://www.ldoceonline.com
+www.ldoceonline.com###ad_topslot
+
+! https://dictionnaire.lerobert.com
+dictionnaire.lerobert.com###ad_topslot
+||dictionnaire.lerobert.com/statics/medias/images/gymglish-fr-1.png$image
+dictionnaire.lerobert.com###ad_btmslot
+dictionnaire.lerobert.com###ad_rightslot
+dictionnaire.lerobert.com##.gymglish-fr-2.gymglish
+
+! https://www.google.com
+www.google.com##div.EjQTId.YNk70c:nth-of-type(1)
+www.google.com##.C6AK7c.XVMlrc > .mXwfNd
+www.google.com##.GkDqAd.jloFI > div > div > div
+www.google.com##.X6JNf
+www.google.com##.h7Tj7e
+www.google.com##.omFXYd
+www.google.com##.WC2Die > .XDyW0e
+www.google.com###B2Jtyd
+www.google.com##.A6K0A > .cUnQKe > .Wt5Tfe > .adDDi.eJH8qe
+www.google.com##.A6K0A > .cUnQKe > .Wt5Tfe > .xKf9F.KFFQ0c.XVdSCb
+www.google.com##.optiheader
+www.google.com##.dark.google.bard-box.asked > hr
+
+! https://www.theguardian.com
+www.theguardian.com##.dcr-pk9vk9.ad-slot-container
+www.theguardian.com##.dcr-1fdrw82
+
+! https://search.brave.com
+search.brave.com##.optiheader
+search.brave.com##hr:nth-of-type(1)
+
+! https://www.studocu.vn
+www.studocu.vn##.PremiumBanner_is-floating__wX9aG.PremiumBannerBlobWrapper_wide-variant__s4uh_.PremiumBannerBlobWrapper_overflow-wrapper__xsaS8 > .PremiumBannerBlobWrapper_blob-container__nkxOo > .PremiumBannerBlobWrapper_preview-banner__WD5rf
+www.studocu.vn##.PremiumPageClarificationBanner_container__yntEp
+
+! https://www.etymonline.com
+www.etymonline.com##.h-\[90px\].items-center.justify-center.flex.backdrop-blur-md.bg-background\/30.z-50.right-0.left-0.bottom-0.fixed
+www.etymonline.com##div.space-y-10 > .w-full.space-y-2 > .relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##div.space-y-10 > .w-full.space-y-2 > .relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##div.space-y-10 > .w-full.space-y-2 > .relative > .-mt-6.absolute.text-spanish-gray.font-sans.text-sm
+www.etymonline.com##.my-4.-translate-x-1\/2.left-1\/2.w-100\%.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.my-4.-translate-x-1\/2.left-1\/2.w-100\%.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.w-full.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.w-full.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.items-center.justify-between.flex.dark\:border-white\/10.border-white\/80.py-2.pl-4.border-divider.border-b
+www.etymonline.com##.lg\:w-\[300px\].w-full.space-y-8 > .w-full.space-y-2 > .relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.lg\:w-\[300px\].w-full.space-y-8 > .w-full.space-y-2 > .relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.w-full.space-y-2 > .justify-end.flex.w-full
+www.etymonline.com##.lg\:w-\[300px\].w-full.space-y-8 > .w-full.space-y-2 > .relative > .-mt-6.absolute.text-spanish-gray.font-sans.text-sm
+www.etymonline.com##.w-full.top-20.sticky > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.w-full.top-20.sticky > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.items-center.w-full > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.items-center.w-full > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.w-full.mobile\:space-y-8.space-y-12.mt-4 > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.w-full.mobile\:space-y-8.space-y-12.mt-4 > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.mt-0 > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.mt-0 > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.w-fullrounded-md.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.w-fullrounded-md.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
+www.etymonline.com##.space-y-8.flex-col.lg\:w-\[300px\].w-full > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative > .justify-center.items-center.flex.w-full.min-h-\[90px\].z-10.relative
+www.etymonline.com##.space-y-8.flex-col.lg\:w-\[300px\].w-full > .\32 rem\)\].\+.w-\[calc\(100\%.-mx-4.bg-secondary\/50.relative > .w-full.min-h-\[90px\].relative
