@@ -185,6 +185,7 @@ After Windows 11 is installed:
 ### 2. AccentColorizer:  
    - [AccentColorizer](https://github.com/krlvm/AccentColorizer "krlvm")  
    - [AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11 "krlvm")
+   - [DragDropNormalizer](https://github.com/krlvm/DragDropNormalizer "krlvm")
 
 ### 3. File Explorer:
   - Configure Quick access
