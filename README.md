@@ -39,7 +39,7 @@ After Windows 11 is installed:
 ### 1. Major tweaks:
 
 **Required:**
-- [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel")
+- [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel") or [Winslop](https://github.com/builtbybel/Winslop/releases)
 - Chris Titus Tech's Windows Utility (Admin PowerShell): `iwr -useb https://christitus.com/win | iex`
   - Tweaks
   - O&O ShutUp10++
@@ -533,9 +533,7 @@ theme
 ```
 
 O
-- Office 2021: activate it through Administrator PowerShell
-	- `irm https://get.activated.win | iex`
-	- `irm https://massgrave.dev/get | iex`
+- Office 2021: activate it through Administrator PowerShell: `irm https://get.activated.win | iex` or `irm https://massgrave.dev/get | iex`
 	- Account → Account Privacy: Manage Settings
 	- Account → Microsoft 365 and Office Updates → Update Options → Update Now
 	- Options
