@@ -52,6 +52,7 @@ www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-backgroun
 www.youtube.com##.yt-spec-avatar-shape--live-ring::after, .yt-spec-avatar-shape--cairo-refresh.yt-spec-avatar-shape--live-ring::after { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
+www.youtube.com##.yt-badge-shape--thumbnail-default { display: none !important }
 
 ! https://music.youtube.com
 music.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
