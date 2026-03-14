@@ -349,10 +349,12 @@ S
 - Sound Recorder
 
 T
+- Terminal
 - [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update)
 - TranslucentTB
 
 U
+- UniGetUI
 - [Upscayl](https://upscayl.org/download)
 
 V
