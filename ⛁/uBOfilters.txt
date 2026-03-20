@@ -45,8 +45,6 @@ www.youtube.com###secondary
 www.youtube.com###related
 www.youtube.com##.ytShoppingTimelyShelfContentViewModelIsVisible.ytShoppingTimelyShelfContentViewModelHost
 www.youtube.com##.badge-style-type-live-now-alternate.ytd-badge-supported-renderer, .yt-spec-icon-badge-shape--type-notification .yt-spec-icon-badge-shape__badge, .ytp-videowall-still-info-live, .ytp-live-badge[disabled]::before, .yt-badge-shape--live, .yt-badge-shape--thumbnail-live, .yt-spec-avatar-shape__live-badge { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.watch-later-btn.dark.in-video-detail { background-color: var(--yt-spec-menu-background) !important; }
-www.youtube.com##.watch-later-btn.dark.in-video-detail:not(.loading):not(.success):not(.error):hover { background-color: var(--yt-spec-outline) !important; }
 www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 www.youtube.com##.yt-spec-avatar-shape--live-ring::after, .yt-spec-avatar-shape--cairo-refresh.yt-spec-avatar-shape--live-ring::after { background: var(--yt-spec-static-brand-red) !important }
