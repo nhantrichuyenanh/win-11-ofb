@@ -26,6 +26,7 @@ www.youtube.com##.sponsorBlockCategoryPill
 ! YouTuber's shop/store
 www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 www.youtube.com##.ytp-featured-product-container
+www.youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
 ! Search with your voice
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
