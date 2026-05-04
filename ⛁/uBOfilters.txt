@@ -87,8 +87,8 @@ www.google.com##.WC2Die > .XDyW0e
 www.google.com##.ULSxyf
 ! AI answer in Google (OptiSearch)
 www.google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
-www.google.com##.asked.dark.google.bingchat-box > .optiheader > .headerhover.top-buttons-container
-www.google.com##.asked.dark.google.bingchat-box > .optiheader > .headerhover.right-buttons-container
+www.google.com##.headerhover.top-buttons-container
+www.google.com##.headerhover.right-buttons-container
 
 www.google.com#@#div.has-extension.ai-dropdown-option
 
