@@ -29,7 +29,9 @@ www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
-! The videos on the left side
+! The left side when you're playing a video
+www.youtube.com###secondary
+! The videos in the left side
 www.youtube.com###related
 ! When you're in full screen and you click on the video title/chapters
 www.youtube.com##div#panels-full-bleed-container
