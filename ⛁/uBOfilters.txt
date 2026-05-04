@@ -1,7 +1,7 @@
 ! Title: Nhân Trí's Personal Filter List
 ! Description: For my personal use. Intended for Floorp and Zen browser.
 ! Version: 1.0.0
-! Last modified: 2026-03-05
+! Last modified: 2026-05-04
 ! Expires: 7 days
 ! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -86,7 +86,11 @@ www.google.com##.WC2Die > .XDyW0e
 ! People also ask
 www.google.com##.ULSxyf
 ! AI answer in Google (OptiSearch)
-
+www.google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
+www.google.com##.headerhover.top-buttons-container
+www.google.com##.watermark
+! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option has-extension for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview.
+google.com##.YzCcne:remove()
 
 www.google.com#@#div.has-extension.ai-dropdown-option
 
