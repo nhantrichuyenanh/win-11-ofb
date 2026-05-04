@@ -85,6 +85,12 @@ dictionnaire.lerobert.com##.gymglish-fr-2.gymglish
 www.google.com##.WC2Die > .XDyW0e
 ! People also ask
 www.google.com##.ULSxyf
+! AI answer in Google (OptiSearch)
+www.google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
+www.google.com##.asked.dark.google.bingchat-box > .optiheader > .headerhover.top-buttons-container
+www.google.com##.asked.dark.google.bingchat-box > .optiheader > .headerhover.right-buttons-container
+
+www.google.com#@#div.has-extension.ai-dropdown-option
 
 ! https://www.theguardian.com
 www.theguardian.com##.dcr-pk9vk9.ad-slot-container
