@@ -80,19 +80,11 @@ dictionnaire.lerobert.com###ad_btmslot
 dictionnaire.lerobert.com###ad_rightslot
 dictionnaire.lerobert.com##.gymglish-fr-2.gymglish
 
-! https://www.google.com
-www.google.com##div.EjQTId.YNk70c:nth-of-type(1)
-www.google.com##.C6AK7c.XVMlrc > .mXwfNd
-www.google.com##.GkDqAd.jloFI > div > div > div
-www.google.com##.X6JNf
-www.google.com##.h7Tj7e
-www.google.com##.omFXYd
+! === Google ===
+! Search by voice
 www.google.com##.WC2Die > .XDyW0e
-www.google.com###B2Jtyd
-www.google.com##.A6K0A > .cUnQKe > .Wt5Tfe > .adDDi.eJH8qe
-www.google.com##.A6K0A > .cUnQKe > .Wt5Tfe > .xKf9F.KFFQ0c.XVdSCb
-www.google.com##.optiheader
-www.google.com##.dark.google.bard-box.asked > hr
+! People also ask
+www.google.com##.ULSxyf
 
 ! https://www.theguardian.com
 www.theguardian.com##.dcr-pk9vk9.ad-slot-container
