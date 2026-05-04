@@ -43,3 +43,15 @@ www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
 www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+
+! === YouTube Music ===
+! Types of music videos near the top of Home
+music.youtube.com##.ytmusic-section-list-renderer.style-scope > .ytmusic-chip-cloud-renderer.style-scope.scroller-on-hover.scroller
+! Upgrade in the hamburger menu
+music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(4) > .ytmusic-guide-entry-renderer.style-scope
+! Video player when you return to Home or searched something, basically the miniplayer
+music.youtube.com###player
+! Video player after you clicked a music video
+music.youtube.com###main-panel
+! Make left side that has music videos fill up the whole screen, now that video player is gone
+music.youtube.com##.side-panel.ytmusic-player-page { width: 100% !important; max-width: 850px !important; }
