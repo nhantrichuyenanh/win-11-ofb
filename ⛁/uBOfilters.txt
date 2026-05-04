@@ -23,8 +23,9 @@ google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
 ! === YouTube ===
 ! SponsorBlock
 www.youtube.com##.sponsorBlockCategoryPill
-! Shop the YouTuber's name store
+! YouTuber's shop/store
 www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+www.youtube.com##.ytp-featured-product-container
 ! Search with your voice
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
