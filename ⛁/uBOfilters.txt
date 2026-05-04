@@ -35,6 +35,8 @@ www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 www.youtube.com###secondary
 ! The videos in the left side
 www.youtube.com###related
+! AI-generated video summary
+www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
 ! When you're in full screen and you click on the video title/chapters
 www.youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
