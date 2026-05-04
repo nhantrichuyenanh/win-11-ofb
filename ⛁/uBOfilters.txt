@@ -19,3 +19,22 @@ www.google.com##.dark.google.bingchat-box.asked > hr
 ! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview and AI Mode.
 google.com##.YzCcne:remove()
 google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
+
+! === YouTube ===
+! SponsorBlock
+www.youtube.com##.sponsorBlockCategoryPill
+! Shop the YouTuber's name store
+www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+! Search with your voice
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+! Create > Upload video, Go live, Create post
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+! The videos on the left side
+www.youtube.com###related
+! When you're in full screen and you click on the video title/chapters
+www.youtube.com##div#panels-full-bleed-container
+! https://github.com/lcas-k/Youtube-Sentiment-Extension
+www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
+www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
+www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
