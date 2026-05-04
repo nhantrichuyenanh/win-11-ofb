@@ -15,6 +15,7 @@ www.google.com##.ULSxyf
 www.google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
 www.google.com##.headerhover.top-buttons-container
 www.google.com##.watermark
-! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option has-extension for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview and AI Mode.
+www.google.com##.dark.google.bingchat-box.asked > hr
+! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview and AI Mode.
 google.com##.YzCcne:remove()
 google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
