@@ -42,6 +42,8 @@ www.youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
 youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
 youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) }
+youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
 ! https://github.com/lcas-k/Youtube-Sentiment-Extension
 www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
