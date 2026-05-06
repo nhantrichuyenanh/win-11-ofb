@@ -39,7 +39,7 @@ www.youtube.com###secondary
 www.youtube.com###related
 ! AI-generated video summary
 www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
-! When you're in full screen and you click on the video title/chapters
+! When you're in full screen and you click on the video title/chapters/more from YouTuber
 www.youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
 www.youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
