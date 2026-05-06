@@ -17,8 +17,8 @@ www.google.com##.headerhover.top-buttons-container
 www.google.com##.watermark
 www.google.com##.dark.google.bingchat-box.asked > hr
 ! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview and AI Mode.
-google.com##.YzCcne:remove()
-google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
+www.google.com##.YzCcne:remove()
+www.google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
 
 ! === YouTube ===
 ! SponsorBlock
@@ -31,6 +31,8 @@ www.youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-s
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+! Duration
+www.youtube.com##yt-thumbnail-bottom-overlay-view-model
 ! The left side when you're playing a video
 www.youtube.com###secondary
 ! The videos in the left side
@@ -40,10 +42,10 @@ www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd
 ! When you're in full screen and you click on the video title/chapters
 www.youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
-youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
-youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
-youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
-youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
 ! https://github.com/lcas-k/Youtube-Sentiment-Extension
 www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
