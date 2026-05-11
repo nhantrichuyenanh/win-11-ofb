@@ -51,6 +51,16 @@ www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
 www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+! CommenTime (byuserforuser)
+www.youtube.com###liveCommentPanelButton
+www.youtube.com###CommenTimeFloatToggleBtn
+www.youtube.com##.CommenTime-timestamp-link
+www.youtube.com##.CommenTime-timestamp-link
+www.youtube.com##.CommenTime-panel-floating.visible.CommenTime-panel-container { background: var(--yt-spec-base-background) !important }
+www.youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-background) !important }
+www.youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
+www.youtube.com###CommenTimeLiveSearchInput { background-color: rgba(142, 129, 230, 0.10) !important }
+www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
 
 ! === YouTube Music ===
 ! Types of music videos near the top of Home
