@@ -1,7 +1,7 @@
 ! Title: Nhân Trí's Personal Filter List
 ! Description: For my personal use. Intended for Floorp and Zen browser.
 ! Version: 2.0.0
-! Last modified: 2026-05-11
+! Last modified: 2026-05-13
 ! Expires: 7 days
 ! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -64,6 +64,7 @@ www.youtube.com###CommenTimeLiveSearchInput { background-color: rgba(142, 129, 2
 www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.CommenTime-comment-user
 www.youtube.com##b
+www.youtube.com##.CommenTime-comment-content > div > div > br
 
 ! === YouTube Music ===
 ! Types of music videos near the top of Home
