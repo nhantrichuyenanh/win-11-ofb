@@ -62,6 +62,8 @@ www.youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-backg
 www.youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
 www.youtube.com###CommenTimeLiveSearchInput { background-color: rgba(142, 129, 230, 0.10) !important }
 www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.CommenTime-comment-user
+www.youtube.com##b
 
 ! === YouTube Music ===
 ! Types of music videos near the top of Home
