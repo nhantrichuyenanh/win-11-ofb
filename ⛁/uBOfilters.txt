@@ -38,6 +38,9 @@ www.youtube.com##yt-thumbnail-bottom-overlay-view-model
 www.youtube.com###secondary
 ! The videos in the left side
 www.youtube.com###related
+! Description
+www.youtube.com##ytd-watch-metadata[description-collapsed] #description.ytd-watch-metadata:hover { background: var(--yt-spec-additive-background) !important }
+www.youtube.com###info > a.yt-formatted-string.style-scope.yt-simple-endpoint { color: var(--yt-spec-static-brand-red) !important }
 ! AI-generated video summary
 www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
 ! When you're in full screen and you click on the video title/chapters/more from YouTuber
@@ -61,7 +64,7 @@ www.youtube.com##.CommenTime-timestamp-link
 www.youtube.com##.CommenTime-panel-floating.visible.CommenTime-panel-container { background: var(--yt-spec-base-background) !important }
 www.youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-background) !important }
 www.youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
-www.youtube.com###CommenTimeLiveSearchInput { background-color: rgba(142, 129, 230, 0.10) !important }
+www.youtube.com###CommenTimeLiveSearchInput { background-color: var(--yt-spec-additive-background) !important }
 www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.CommenTime-comment-user
 www.youtube.com##b
