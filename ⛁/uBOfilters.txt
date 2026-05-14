@@ -47,6 +47,7 @@ www.youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red)
 www.youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
+www.youtube.com##.ytp-live-badge[disabled]::before { background: var(--yt-spec-static-brand-red) !important }
 ! https://github.com/lcas-k/Youtube-Sentiment-Extension
 www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
