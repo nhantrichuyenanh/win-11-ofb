@@ -65,6 +65,7 @@ www.youtube.com##.CommenTime-panel-floating.visible.CommenTime-panel-container {
 www.youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-background) !important }
 www.youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
 www.youtube.com###CommenTimeLiveSearchInput { background-color: var(--yt-spec-additive-background) !important }
+www.youtube.com###CommenTimeLiveSearchInput:focus { border-color: var(--yt-spec-static-brand-red) !important }
 www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.CommenTime-comment-user
 www.youtube.com##b
