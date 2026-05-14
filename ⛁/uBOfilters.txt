@@ -38,6 +38,8 @@ www.youtube.com##yt-thumbnail-bottom-overlay-view-model
 www.youtube.com###secondary
 ! The videos in the left side
 www.youtube.com###related
+! Playlist in the left side
+www.youtube.com##ytd-playlist-panel-renderer[collapsible][collapsed][use-color-palette] .header.ytd-playlist-panel-renderer { background-color: var(--yt-spec-additive-background) !important }
 ! Description
 www.youtube.com##ytd-watch-metadata[description-collapsed] #description.ytd-watch-metadata:hover { background: var(--yt-spec-additive-background) !important }
 www.youtube.com###info > a.yt-formatted-string.style-scope.yt-simple-endpoint { color: var(--yt-spec-static-brand-red) !important }
