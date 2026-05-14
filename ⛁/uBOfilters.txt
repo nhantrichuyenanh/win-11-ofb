@@ -51,12 +51,14 @@ www.youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-b
 www.youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
 www.youtube.com##.ytp-live-badge[disabled]::before { background: var(--yt-spec-static-brand-red) !important }
+! Fixing the like/dislike bar tooltip of https://github.com/Anarios/return-youtube-dislike being offset to the left by https://github.com/dnwjn/youtube-watch-later
+www.youtube.com##.ryd-tooltip-new-design.ryd-tooltip { margin-left: 50px !important }
 ! https://github.com/lcas-k/Youtube-Sentiment-Extension
 www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
 www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
 www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
-! CommenTime (byuserforuser)
+! https://addons.mozilla.org/addon/commentime
 www.youtube.com###liveCommentPanelButton
 www.youtube.com###CommenTimeFloatToggleBtn
 www.youtube.com##.CommenTime-timestamp-link
