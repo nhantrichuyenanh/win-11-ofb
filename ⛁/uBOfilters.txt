@@ -8,7 +8,7 @@
 
 ! === Google ===
 ! Search by voice
-google.com##.WC2Die > .XDyW0e
+google.com##.fzj3ad
 ! People also ask
 google.com##.ULSxyf
 ! AI answer in Google (OptiSearch)
