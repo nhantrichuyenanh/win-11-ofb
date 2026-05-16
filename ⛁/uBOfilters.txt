@@ -8,72 +8,72 @@
 
 ! === Google ===
 ! Search by voice
-www.google.com##.WC2Die > .XDyW0e
+google.com##.WC2Die > .XDyW0e
 ! People also ask
-www.google.com##.ULSxyf
+google.com##.ULSxyf
 ! AI answer in Google (OptiSearch)
-www.google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
-www.google.com##.headerhover.top-buttons-container
-www.google.com##.watermark
-www.google.com##.dark.google.bingchat-box.asked > hr
+google.com##.asked.dark.google.bingchat-box > .optiheader > .left-buttons-container
+google.com##.headerhover.top-buttons-container
+google.com##.watermark
+google.com##.dark.google.bingchat-box.asked > hr
 ! https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist removes .ai-dropdown-option for no reason (even though I checked the list and it only removes domain, not class?!?!) so I will just remove the AI Overview and AI Mode.
-www.google.com##.YzCcne:remove()
-www.google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
+google.com##.YzCcne:remove()
+google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
 
 ! === YouTube ===
 ! SponsorBlock
-www.youtube.com##.sponsorBlockCategoryPill
+youtube.com##.sponsorBlockCategoryPill
 ! YouTuber's shop/store
-www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
-www.youtube.com##.ytp-featured-product-container
-www.youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
-www.youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button
+youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+youtube.com##.ytp-featured-product-container
+youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
+youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button
 ! Search with your voice
-www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 ! Duration
-www.youtube.com##yt-thumbnail-bottom-overlay-view-model
+youtube.com##yt-thumbnail-bottom-overlay-view-model
 ! The left side when you're playing a video
-www.youtube.com###secondary
+youtube.com###secondary
 ! The videos in the left side
-www.youtube.com###related
+youtube.com###related
 ! Playlist in the left side
-www.youtube.com##ytd-playlist-panel-renderer[collapsible][collapsed][use-color-palette] .header.ytd-playlist-panel-renderer { background-color: var(--yt-spec-additive-background) !important }
+youtube.com##ytd-playlist-panel-renderer[collapsible][collapsed][use-color-palette] .header.ytd-playlist-panel-renderer { background-color: var(--yt-spec-additive-background) !important }
 ! Description
-www.youtube.com##ytd-watch-metadata[description-collapsed] #description.ytd-watch-metadata:hover { background: var(--yt-spec-additive-background) !important }
-www.youtube.com###info > a.yt-formatted-string.style-scope.yt-simple-endpoint { color: var(--yt-spec-static-brand-red) !important }
+youtube.com##ytd-watch-metadata[description-collapsed] #description.ytd-watch-metadata:hover { background: var(--yt-spec-additive-background) !important }
+youtube.com###info > a.yt-formatted-string.style-scope.yt-simple-endpoint { color: var(--yt-spec-static-brand-red) !important }
 ! AI-generated video summary
-www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
+youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
 ! When you're in full screen and you click on the video title/chapters/more from YouTuber
-www.youtube.com##div#panels-full-bleed-container
+youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
-www.youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.ytp-live-badge[disabled]::before { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytp-live-badge[disabled]::before { background: var(--yt-spec-static-brand-red) !important }
 ! Fixing the like/dislike bar tooltip of https://github.com/Anarios/return-youtube-dislike being offset to the left by https://github.com/dnwjn/youtube-watch-later
-www.youtube.com##.ryd-tooltip-new-design.ryd-tooltip { margin-left: 50px !important }
+youtube.com##.ryd-tooltip-new-design.ryd-tooltip { margin-left: 50px !important }
 ! https://github.com/lcas-k/Youtube-Sentiment-Extension
-www.youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
-www.youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
-www.youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
-www.youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+youtube.com##.sentiment-cont-neg > div { background-color: #fff !important }
+youtube.com##.sentiment-cont-pos > div { background-color: #fff !important }
+youtube.com##.reload-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
+youtube.com##.fetch-sentiment-btn { background: var(--yt-spec-menu-background) !important; }
 ! https://addons.mozilla.org/addon/commentime
-www.youtube.com###liveCommentPanelButton
-www.youtube.com###CommenTimeFloatToggleBtn
-www.youtube.com##.CommenTime-timestamp-link
-www.youtube.com##.CommenTime-timestamp-link
-www.youtube.com##.CommenTime-panel-floating.visible.CommenTime-panel-container { background: var(--yt-spec-base-background) !important }
-www.youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-background) !important }
-www.youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
-www.youtube.com###CommenTimeLiveSearchInput { background-color: var(--yt-spec-additive-background) !important }
-www.youtube.com###CommenTimeLiveSearchInput:focus { border-color: var(--yt-spec-static-brand-red) !important }
-www.youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
-www.youtube.com##.CommenTime-comment-user
-www.youtube.com##b
-www.youtube.com##.CommenTime-comment-content > div > div > br
+youtube.com###liveCommentPanelButton
+youtube.com###CommenTimeFloatToggleBtn
+youtube.com##.CommenTime-timestamp-link
+youtube.com##.CommenTime-timestamp-link
+youtube.com##.CommenTime-panel-floating.visible.CommenTime-panel-container { background: var(--yt-spec-base-background) !important }
+youtube.com##.CommenTime-panel-header { background: var(--yt-spec-base-background) !important }
+youtube.com##.CommenTime-comment-link { color: var(--yt-spec-static-brand-red) !important }
+youtube.com###CommenTimeLiveSearchInput { background-color: var(--yt-spec-additive-background) !important }
+youtube.com###CommenTimeLiveSearchInput:focus { border-color: var(--yt-spec-static-brand-red) !important }
+youtube.com###CommenTimeOpacitySlider::-moz-range-thumb { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.CommenTime-comment-user
+youtube.com##b
+youtube.com##.CommenTime-comment-content > div > div > br
 
 ! === YouTube Music ===
 ! Types of music videos near the top of Home
@@ -86,3 +86,34 @@ music.youtube.com###player
 music.youtube.com###main-panel
 ! Make left side that has music videos fill up the whole screen, now that video player is gone
 music.youtube.com##.side-panel.ytmusic-player-page { width: 100% !important; max-width: 850px !important; }
+
+! === Cambridge Dictionary ===
+! Header
+dictionary.cambridge.org##.hdf.fon.z1.lcs.bh.pr
+! Right side
+dictionary.cambridge.org##.pr.lmb-25.lp-10.hbss.bw
+dictionary.cambridge.org##.htc.pr.lmb-25.bw
+dictionary.cambridge.org###ad_rightslot
+dictionary.cambridge.org###ad_houseslot_a
+dictionary.cambridge.org###ad_rightslot2
+dictionary.cambridge.org###ad_rightslot3
+! Left side
+dictionary.cambridge.org##.ltas.am-default_moreslots
+! Meaning of word in English and social media
+dictionary.cambridge.org##.lb-cm.lbb.x.pr
+dictionary.cambridge.org##.superentry.hw.lmb-0.fs12.fs.ti
+! The thin yellow bar
+dictionary.cambridge.org##.hax.dwl
+! (Definition of word from the Cambridge Advanced Learner's Dictionary & Thesaurus © Cambridge University Press) 
+dictionary.cambridge.org##.contentslot.am-default_moreslots
+dictionary.cambridge.org##.hdb.had.ddef.lmb-10.lpb-25.lpt-10.lpb-10.lb-cm.lbt
+! What is the pronunciation of word?
+dictionary.cambridge.org##.pr.tb.tc-w.bh.hbtn-tl.hbtn-b.hbtn-tab.hbtn.hao
+! Translation of word
+dictionary.cambridge.org###page-content > .bh.lcs.pr
+! Browse
+dictionary.cambridge.org###ad_btmslot
+! These examples are from corpora and from sources on the web. Any opinions in the examples do not represent the opinion of the Cambridge Dictionary editors or of Cambridge University Press or its licensors. 
+dictionary.cambridge.org##.break.lpb-10.lpt-10.fs12.tc-bi
+! Footer
+dictionary.cambridge.org##.lp-s_t-15.lp-s_25.cf.han.bh.pr
