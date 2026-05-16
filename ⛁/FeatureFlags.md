@@ -4,6 +4,7 @@ Even though I don't use Chromium-based browsers, here's some sources I find info
 - [Change These Browser Security Settings NOW](https://youtu.be/9nl6hO0ECgM?t=515 "ThioJoe")
 - [Most useful Google Chrome Flag settings for Windows users](https://thewindowsclub.com/google-chrome-flag-settings-windows "The Windows Club")
 - [What are your top chrome://flags/ or brave://flags/ features?](https://reddit.com/r/browsers/comments/107cj5b/what_are_your_top_chromeflags_or_braveflags "Reddit")
+- [Helium Browser Experience: The Brave Killer?](https://youtu.be/F9SG1pnayL8&t=181)
 
 I use Floorp and Zen Browser, both of which focus heavily on privacy & security and already have most preference settings configured by default, so I might not reference all of them here. Instead, refer to these sources:
 - [What Are Your Must Have Changes in about:config?](https://reddit.com/r/firefox/comments/17hlkhp/what_are_your_must_have_changes_in_aboutconfig "Reddit")
