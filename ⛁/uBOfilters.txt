@@ -1,7 +1,7 @@
 ! Title: Nhân Trí's Personal Filter List
 ! Description: For my personal use. Intended for Floorp and Zen browser.
 ! Version: 2.0.0
-! Last modified: 2026-05-16
+! Last modified: 2026-05-17
 ! Expires: 7 days
 ! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -92,6 +92,7 @@ music.youtube.com##.side-panel.ytmusic-player-page { width: 100% !important; max
 ! Header
 dictionary.cambridge.org##.hdf.fon.z1.lcs.bh.pr
 ! Right side
+dictionary.cambridge.org##.login-promo-block.lmb-25.lpt-20.lp-15.bo.pr
 dictionary.cambridge.org##.pr.lmb-25.lp-10.hbss.bw
 dictionary.cambridge.org##.htc.pr.lmb-25.bw
 dictionary.cambridge.org###ad_rightslot
