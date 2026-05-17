@@ -23,6 +23,7 @@ google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
 ! === YouTube ===
 ! SponsorBlock
 youtube.com##.sponsorBlockCategoryPill
+youtube.com##.sponsorThumbnailLabel.sponsorThumbnailLabelVisible
 ! YouTuber's shop/store
 youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 youtube.com##.ytp-featured-product-container
