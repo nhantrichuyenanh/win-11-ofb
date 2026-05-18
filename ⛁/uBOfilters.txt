@@ -29,6 +29,7 @@ youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 youtube.com##.ytp-featured-product-container
 youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
 youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button
+youtube.com###shopping-timely-shelf
 ! Search with your voice
 youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
