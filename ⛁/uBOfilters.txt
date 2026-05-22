@@ -1,7 +1,7 @@
 ! Title: Nhân Trí's Personal Filter List
 ! Description: For my personal use. Intended for Floorp and Zen browser.
 ! Version: 2.0.0
-! Last modified: 2026-05-17
+! Last modified: 2026-05-22
 ! Expires: 7 days
 ! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -51,6 +51,7 @@ youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-exp
 youtube.com##div#panels-full-bleed-container
 ! Make notification and live label's color match with the custom YouTube theme I'm using
 youtube.com##.ytBadgeShapeLive { background: var(--yt-spec-static-brand-red) !important }
+youtube.com##.ytBadgeShapeThumbnailLive { background: var(--yt-spec-static-brand-red) !important }
 youtube.com##.ytSpecIconBadgeShapeBadge { background: var(--yt-spec-static-brand-red) !important }
 youtube.com##.ytSpecAvatarShapeLiveRing::after { background: var(--yt-spec-static-brand-red) !important }
 youtube.com##.ytSpecAvatarShapeLiveBadgeMedium.ytSpecAvatarShapeLiveBadge { background: var(--yt-spec-static-brand-red) !important }
