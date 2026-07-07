@@ -571,6 +571,7 @@ W
 	- Taskbar auto-hide speed
  	- Taskbar Clock Customization
  	- Taskbar Dock Animation
+  	- Taskbar Fluent Media Player
 	- Taskbar minimize/restore on scroll
 	- Taskbar Thumbnail Reorder
 	- Taskbar Thumbnail Size
