@@ -40,7 +40,7 @@ After Windows 11 is installed:
 
 **Required:**
 - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases "Builtbybel") or [Winslop](https://github.com/builtbybel/Winslop/releases)
-- Chris Titus Tech's Windows Utility (Admin PowerShell): `iwr -useb https://christitus.com/win | iex`
+- Chris Titus Tech's Windows Utility (Administrator PowerShell): `iwr -useb https://christitus.com/win | iex`
   - Tweaks
   - O&O ShutUp10++
 - [RyTuneX](https://rayenghanmi.me/rytunex/download.html "Rayen Ghanmi")
@@ -195,7 +195,7 @@ After Windows 11 is installed:
 ![[June 2025] File Explorer](🀦/[June-2025]-File-Explorer.png)
 
 ### 4. Settings:
-  - **Activate Windows (Admin PowerShell)**:
+  - **Activate Windows (Administrator PowerShell)**:
   	- `irm https://get.activated.win | iex`
    	- `irm https://massgrave.dev/get | iex`
   - `Win + I`  
@@ -254,7 +254,7 @@ After Windows 11 is installed:
 ## IV. Installing software
 
 > [!NOTE]
-> - Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Admin PowerShell to install Microsoft Store: `wsreset -i`
+> - Install UniGetUI in Microsoft Store. If your Windows 11 is Enterprise LTSC/Enterprise IoT LSTC, run this command in Administrator PowerShell to install Microsoft Store: `wsreset -i`
 > - All applications and software listed below are available for download via UniGetUI, Microsoft Store, or online through links. Ones without links are from Microsoft Store and can be downloaded from itself or UniGetUI.
 > - Not all of them listed here have to be downloaded, as it's up to your decision.
 
