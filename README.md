@@ -322,7 +322,6 @@ P
 - [PDF24 Creator](https://tools.pdf24.org/en/creator#download) [🔍︎](#afterthought "Afterthought")
 - PowerToolbox
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
-	- [EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys/releases)
 - [Proton Pass](https://proton.me/pass/download)
 - [Proton VPN](https://protonvpn.com/download)
 - Python: `(installing either Anaconda or Python Software Foundation provides the same Python environment)`
