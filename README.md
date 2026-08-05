@@ -160,6 +160,7 @@ After Windows 11 is installed:
   - Windows Insider Service `(disable it if you aren't part of Windows Insider Program)`
   - Windows Mobile Hotspot Service `(disable it if you don't wish to turn your PC into a hotspot)`
   - Windows Search `(disable it to disable the ability to search files via Windows Search)`
+  - WSAIFabricSvc `Windows AI features`
   - Xbox Accessory Management Service `(disable it and the 3 below if you don't use Xbox)`
   - Xbox Live Auth Manager
   - Xbox Live Game Save
