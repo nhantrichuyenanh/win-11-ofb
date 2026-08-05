@@ -1,6 +1,6 @@
 ! Title: Nhân Trí's Personal Filter List
 ! Description: For my personal use. Intended for Floorp and Zen browser.
-! Version: 2.0.0
+! Version: 2.0.1
 ! Last modified: 2026-06-06
 ! Expires: 7 days
 ! Homepage: https://github.com/nhantrichuyenanh/win-11-ofb
@@ -24,11 +24,12 @@ google.com##.YzCcne:remove()
 youtube.com##.sponsorBlockCategoryPill
 youtube.com##.sponsorThumbnailLabel.sponsorThumbnailLabelVisible
 ! YouTuber's shop/store
-youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+! youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 youtube.com##.ytp-featured-product-container
 youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-suggested-action-badge.ytp-button
 youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button
 youtube.com###shopping-timely-shelf
+youtube.com##main > .ytd-merch-shelf-renderer.style-scope
 ! Search with your voice
 youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
