@@ -30,6 +30,7 @@ youtube.com##.ytp-suggested-action-badge-expanded.ytp-featured-product.ytp-sugge
 youtube.com##.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button
 youtube.com###shopping-timely-shelf
 youtube.com##ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope
+youtube.com##span.yt-formatted-string.style-scope:nth-of-type(4)
 ! Search with your voice
 youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 ! Create > Upload video, Go live, Create post
