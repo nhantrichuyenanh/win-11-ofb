@@ -695,11 +695,11 @@ W
 	- Pin to taskbar
 	- System tray
 - `Win + R`:
-	- temp
-	- %temp%
-	- prefetch
+	- `temp`
+	- `%temp%`
+	- `prefetch`
 	- `C:\Windows\SoftwareDistribution\Download`
-	- cleanmgr
+	- `cleanmgr`
 - Wintoys → Health:
 	- Cleanup
 	- Repair → check DISM and SFC → Scan
